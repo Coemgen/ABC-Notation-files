@@ -1,0 +1,27 @@
+%abc-2.1
+
+X:1
+T:Biddy the Basketwoman
+T:Nora Creina
+M:6/8
+L:1/8
+K:Hp
+R:jig
+Q:3/8=56
+|: {g}A2 {GdGe}A {GAG}A2 B | {gcd}c2 {e}A {gef}e2 c | {g}A2 {GdGe}A {GAG}A2 c | {gBd}B2 c {g}d3/2c/2{d}B |$
+{g}A2 {GdGe}A {GAG}A2 B | {gcd}c2 {e}A {gef}e2 c | {gBd}B2 f {g}f3/2e/2f | {gBd}B2 c {g}d3/2c/2{d}B :|$
+|: {g}e2 {GdG}e {gef}e2 d | {gcd}c2 {g}A {gef}e2 c | {g}e2 {GdG}e {gef}e2 c | {gBd}B2 c {g}d3/2c/2{d}B | |$
+{g}e2 {GdG}e {gef}e2 d | {gcd}c2 {g}A {gef}e2 c | {gBd}B2 f {g}f3/2e/2f | {gBd}B2 c {g}d3/2c/2{g}B :|
+
+X:2
+T:Nora Criona
+M:6/8
+L:1/8
+K:D
+R:jig
+Q:3/8=56
+V:T stem=down
+|: {/e}A3/2{/d}A/2{c}A {/e}A2 B | {/gcd}c2 {/e}A {/gef}e2 c | {/e}A3/2{/d}A/2{c}A {/e}A2 c | {/gBd}B2 c {/g}d3/2c/2B |$
+{/e}A3/2{/d}A/2{c}A {/e}A2 B | {/gcd}c2 {/e}A {/gef}e2 c | {/gBd}B2 g {a}g3/2f/2g | {/gBd}B2 c {/g}d3/2c/2B :|$
+|: {/g}e3/2f/2e {/gef}e2 d | {/gcd}c2 d {/gef}e2 c | {/g}e3/2f/2e {/gef}e2 c | {/gBd}B2 c {/g}d3/2c/2B | |$
+{/g}e3/2f/2e {/gef}e2 d | {g}cBA {g}Bcd | {/gBd}B2 g {a}g3/2f/2g | {/gBd}B2 c {/g}d3/2c/2B :|

@@ -1,0 +1,23 @@
+X:1
+%%MIDI gracedivider 8
+T:The Templehouse Reel
+L:1/8
+Q:1/4=56
+M:C|
+I:linebreak $
+K:Hp
+|: {g}ABc{d}A {g}eA {d}(3cBA | {gGd}G2 {g}B{d}G {g}dG{g}B{d}G | {g}ABcd {g}e{G}d{A}ef | {gf}ge{g}df {g}eA {gAG}A2 :|$
+gf{g}ef gf{g}eg | fd{c}de {g}fd{c}df | gf{g}ef gf{g}eg | fgaf ge {A}e2 |$
+gf{g}ef gf{g}eg | fd{c}de {g}fd{c}df | {g}efge afge | {gf}ge{g}df {g}eA {gAG}A2 |]
+
+X:2
+%%MIDI gracedivider 8
+T:The Templehouse Reel (in G)
+L:1/8
+Q:1/4=56
+M:C|
+I:linebreak $
+K:G
+|: {/g}ABc{/d}A {/g}eA {/d}(3cBA | {/gGd}G2 {/g}B{/d}G {/g}dG{/g}B{/d}G | {/g}ABcd {/g}e{/G}d{/A}ef | {/gf}ge{/g}df {/g}eA {/gAG}A2 :|$
+gf{/g}ef gf{/g}eg | fd{/c}de {/g}fd{/c}df | gf{/g}ef gf{/g}eg | fgaf ge {/A}e2 |$
+gf{/g}ef gf{/g}eg | fd{/c}de {/g}fd{/c}df | {/g}efge afge | {/gf}ge{/g}df {/g}eA {/gAG}A2 |]
