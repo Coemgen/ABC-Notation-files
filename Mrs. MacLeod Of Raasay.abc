@@ -1,0 +1,33 @@
+
+X:1
+T:Mrs. MacLeod Of Raasay
+C:Traditional
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+{/gAGAG} A2{/ag} a>g{/fg} fe{/g} fa |{/fg} fe{/gcd} c{/e}B{/g} c2{/GdGe} ce | 
+{/gAGAG} A2{/ag} a>g{/fg} fe{/g} fa |{/fg} fe{/gcd} c{/e}A{/g} B2{/GdGe} Be |$ 
+{/gAGAG} A2{/ag} a>g{/fg} fe{/g} fa |{/fg} fe{/gcd} c{/e}B{/g} c2{/GdGe} ce | 
+{/gfg} f>e{/g} fa{/fg} f2{/g} e{/g}f/>g/ |{/ag} a>f{/gef} ec{/gcd} c{/e}B{/GdG} Be ||$ 
+{/gAGAG} A2{/gcd} c{/e}A{/gef} eA{/gcd} ca |{/gfg} fe{/gcd} c{/e}B{/g} c2{/GdGe} ce | 
+{/gAGAG} A2{/gcd} c{/e}A{/gef} eA{/gcd} ca |{/fg} fe{/gcd} c{/e}A{/g} B2{/GdGe} Be |$ 
+{/gAGAG} A2{/gcd} c{/e}A{/gef} eA{/gcd} ca |{/gfg} fe{/gcd} c{/e}B{/g} c2{/GdGe} ce | 
+{/gfg} f>e{/g} fa{/fg} f2{/g} e{/g}f/>g/ |{/ag} a>f{/gef} ec{/gcd} c{/e}B{/GdG} B x |] 
+
+
+
+X:1
+T:Green Hills of Tyrol
+C:J. MacLeod
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+|:{/g} A>B{/GdG} c2{/gcd} c{/e}A |{/g} c{/Gdc}d{/gef} e2{/A} ef |{/gcd} cf{/gef} e>c{/g} B2 | 
+{/GdGe} Bf{/gef} e>c{/G} A2 |${/g} A>B{/GdG} c2{/gcd} c{/e}A |{/g} c{/Gdc}d{/gef} e2{/A} ef | 
+{/gcd} cf{/gef} e>c{/g} B2 |{/GdGe} BA{/gcd} c>B{/G} A2 ::${/gcd} ce{/ag} a2{/g} a2 |{/f} gf{/gfg} fe{/A} e2 | 
+{/g} e>f{/gef} ed{/gdG} d2 |{/g} d>e{/gde} dc{/GdG} c2 |${/gcd} ce{/ag} a2{/g} a2 |{/f} gf{/gfg} fe{/A} e2 | 
+{/g} e>f{/gef} e2{/A} e>d |{/g} c>d{/gef} e2{/{/A} e2 :| 
+
+
