@@ -1,0 +1,14 @@
+
+X:1
+T:Atholl Highlanders
+Z:rpband
+L:1/8
+Q:1/4=84
+M:6/8
+I:linebreak $
+K:D
+|:{/g} c/<d/ |{/gef} e3{/gef} e>c{/d}A |{/gef} e>c{/d}A{/g} B>cd |{/gef} e3{/gef} e>c{/d}A | 
+{/g} B>cd{/gcd} c>B{/G}A |${/gef} e3{/gef} e>c{/d}A |{/gef} e>c{/d}A{/g} B>cd |{/g} c<ae{/g} f>ed | 
+{/g} c<d{/e}B{/G} A2 ::$ e |{/g} A3/2{/d}c/e{/g} A3/2{/d}c/e |{/g} B>df{/g} B>df | 
+{/g} A3/2{/d}c/e{/g} A3/2{/d}c/e |{/g} B>cd{/gcd} c>B{/G}A |${/g} A3/2{/d}c/e{/g} A3/2{/d}c/e | 
+{/g} B>df{/g} B>df |{/g} c<ae{/g} f>ed |{/g} c<d{/e}B{/G} A2 :| 
