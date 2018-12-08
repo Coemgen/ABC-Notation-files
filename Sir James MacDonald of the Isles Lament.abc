@@ -4,6 +4,7 @@ X:1
 T:Sir James MacDonald of the Isles' Lament
 T:Cumha an Ridire Seumas Mac Dhòmhnaill nan Eilean
 C:William MacDonald of Vallay
+T:1. GROUND.
 M:none
 L:1/8
 K:D
@@ -11,7 +12,6 @@ Q:"Lento" 1/4=40
 R:"Ce\`ol M\`or"
 I:linebreak $
 V:1 stem=down
-%%barnumbers 1
 %%writefields R true
 {/g}e2A>B {/GdG}c2 {/g}d2 c<{/GdG}c | {/g}BG {/d}B2 {/g}e2{/dAGAG}A2 | {/g}e2A>B {/GdG}c2 {/g}f2 {/eAfA}e2 |
 w: hi en o dro ha o-dro hio em to hi-harin hi en o dro he dre
@@ -21,3 +21,5 @@ w: hi do en dre hi to tra hi do en dre hi a o-dro hio em to hi-harin
 w: hi en o dro he edre hi do en edre hi to tra hi do em to hi en o-dro
 {/g}e2{/d}c2 {/eAfA}e2 {/g}e2{/d}B {/Gdc}d3 || {/g}e2{/d}c>A {/eAfA}e2 {/g}e2 d2 c<{/GdG}c | {/g}BG {/d}B2 {/g}e2{/dAGAG}A2 :|$
 w: hi do dre hi to tra hi do en dre hi a o-dro hio em to hi-harin
+T:II. VAR. 1.
+{/g}A2 {/e}A>{/d}B {/g}c2 {/e}A>{/d}c | {/g}d2 {/e}A>{/d}c {/g}B2 {/e}G>{/d}B |
