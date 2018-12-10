@@ -1,8 +1,21 @@
 %abc-2.1
 
 X:1
-T:Untitled1
-C:Unknown composer
-M:2/4
-K:D
-|: {gcd}c>B | {g}A4 {GAG}A2>B2 |
+T:Canntaireachd
+K:Hp
+a2 g2 f2 e2 d2 c2 B2 A2 G2 |
+w: I di ve e a o o en em
+{g}e2 {g}f2 {g}e2 {g}d2 {g}c2 {g}B2 {g}A2 {g}G2 |
+w: hi he che ha ho hio hin him
+{d}c2 {d}B2 {d}A2 {d}G2 |
+w: do to dan dam
+{e}f2 {e}c2 {e}B2 {e}A2 {e}G2 |
+w: ea eo eo en em
+{GdG}e {g}d2{GBG}e {GdGe}a {g}d2{GBGe}a {GdGeAfA}e {g}d2{GBGeAfA}e |
+w: bare ha-bare darid ha-darid bandre ha-bandre
+{ag}a2 {fege}f2 {eAfA}e2 {Gdc}d2 {GdG}c2 {GdG}B2 {GdG}A2 |
+w: dili dare dre tra dro tro bain
+{a}g/2{e}g{e}g3/2 | {g}f/2{e}f{e}f3/2 | {g}e/2{A}e{A}e3/2 | {g}e2 d<{G}d{Gdc}d2 | {g}e2 B>{G}B{G}B2 | {g}e2 {dAGAG}A2 |
+w: hi-ri-ri he-re-re che-re-de hi-ha-ra-ra hi-ho-ro-do hi-harin  
+{eGfG}g2 | {g}e2{fegefe}g | {g}e2{d}c2{GBG}A | {g}e2{d}B2{G}A2 | {GdGcG}B2 | {GdG}A2 | {g}A/2{d}A/2{e}A/2 |
+w: bari che-dari hi-ho-rodin hi-o-din darodo rodin hin-en-en
