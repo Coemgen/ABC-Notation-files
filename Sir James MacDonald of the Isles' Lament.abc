@@ -1,0 +1,53 @@
+%abc-2.1
+
+X:1
+T:Sir James MacDonald of the Isles' Lament
+C:William MacDonald of Vallay
+M:none
+L:1/8
+Q:"Lento" 1/8=80
+I:linebreak $
+V:1 stem=down
+K:D
+P:I. GROUND.
+{/g}e2A>B {/GdG}c2 {/g}d2 c<{/GdG}c | {/g}BG {/d}B2 {/g}e2{/dAGAG}A2 |$ {/g}e2A>B {/GdG}c2 {/g}f2 {/eAfA}e2 | {/g}e2{/d}c>A {/eAfA}e2 {/g}e2{/d}B {/Gd/2c/2}d3 ||$
+w:hi en o-     dro,    ha o-dro,      hio-em     to,    hi     harin,    hi en o-     dro,    he      edre,      hi  do en       dre,    hi   to          tra,
+{/g}e2{/d}c>A {/eAfA}e2 {/g}e2 d2 c<{/GdG}c | {/g}BG {/d}B2 {/g}e2{/dAGAG}A2 |$ |: {/g}e2 A>B {/GdG}c2 {/g}f2 {/eAfA}e2 | {/g}e2{/d}c>A {/eAfA}e2 {/g}e2{/d}B {/Gdc}d3 |$
+w:  hi  do en       dre,    hi a    o-dro,     hio em    to,    hi    harin,      hi en o-      dro,    he      edre,      hi  do en       dre,    hi   to      tra,
+[1 {/g}e2{/d}c>G {/d}B2 {/g}e2A>B {/GdG}c2 | {/g}e2{/d}c2 {/eAfA}e2 {/g}e2{/d}B {/Gdc}d3 ||$ {/g}e2{/d}c>A {/eAfA}e2 {/g}e2 d2 c<{/GdG}c | {/g}BG {/d}B2 {/g}e2{/dAGAG}A2 :|$
+w:     hi  do em     to,  hi en o-     dro,      hi    do       dre,    hi   to      tra,       hi  do en       dre,    hi  a o-dro,      hio em     to,    hi     harin.
+P:II. VAR. 1.
+{/g}A2 {/e}A3/2{/d}B/2 {/g}c2 {/e}A3/2{/d}c/2 | {/g}d2 {/e}A3/2{/d}c/2 {/g}B2 {/e}G3/2{/d}B/2 |$ {/g}A2 {/e}A3/2{/d}B/2 {/g}c2 {/e}A3/2{/d}c/2 |{/g}e2 {/g}A>e {/g}c2 {/e}A>e |$
+w: hin    en-   to,    ho    en-   do,      ha    en-   do,   hio    em-   to,     hin    en-   to,    ho    en-   do,    che    en e,    ho    en e,
+{/g}B2 {/e}A>d {/g}c2 {/e}A>e | {/g}d2 {/e}A3/2{/d}c/2 {/g}B2 {/e}G3/2{/d}B/2 |$ |: {/g}A2 {/e}A3/2{/d}B/2 {/g}c2 {/e}A3/2{/d}c/2 | {/g}e2 {/g}A>e {/g}c2 {/e}A>e |$
+w: hio    en a,    ho    en a,      ha    en    do,   hio    em    to,         hin    en    to,    ho    en    do,     che    en e,    ho    en e,
+[1 {/g}d2 {/e}A3/2{/d}c/2 {/g}B2 {/e}G3/2{/d}B/2 | {/g}e2 {/g}A>e {/g}c2 {/e}A>e ||$ {/g}B2 {/e}A>d {/g}c2 {/e}A>e | {/g}d2 {/e}A3/2{/d}c/2 {/g}B2 {/e}G3/2{/d}B/2 :|$
+w:     ha    en    do,   hio    em    to,     che    en e,    ho    en e,         hio    en a,    ho    en e,      ha    en    do,   hio    em    to.
+P:III. TAORLUATH.
+{/g}A3/2{/GdGe}A/2 {/d}B2 {/g}c3/2{/GdGe}A/2 {/d}c2 | {/g}d3/2{/GBGe}A/2 {/d}c2 {/g}B2 {/GdGe}G/2{/d}B3/2 |$ 
+w: hin- darid to, ho- darid do, ha- rodarid do, hio- darem- to,
+{/g}A3/2{/GdGe}A/2 {/d}B2 {/g}c3/2{/GdGe}A/2 {/d}c2 | {/g}e3/2{/GdGe}A/2 e2 {/g}c3/2{/GdGe}A/2 e2 |$ 
+w: hin- darid to, ho- darid do, he- darid e, ho- darid e,
+{/g}B3/2{/GdGe}A/2 d2 {/g}c3/2{/GdGe}A/2 e2 | {/g}d3/2{/GBGe}A/2 {/d}c2 {/g}B2 {/GdGe}G/2{/d}B3/2 |$ 
+w: hio- darid a, ho- darid e, ha- rodarid do, hio- darem- to,
+|: {/g}A3/2{/GdGe}A/2 {/d}B2 {/g}c3/2{/GdGe}A/2 {/d}c2 | {/g}e3/2{/GdGe}A/2 e2 {/g}c3/2{/GdGe}A/2 e2 |$ 
+w: hin- darid to, ho- darid do, he- darid e, ho- darid e,
+[1 {/g}d3/2{/GBGe}A/2 {/d}c2 {/g}B2 {/GdGe}G/2{/d}B3/2 | {/g}e3/2{/GdGe}A/2 e2 {/g}c3/2{/GdGe}A/2 e2 ||$ 
+w: ha- rodarid do hio- darem- to, he- darid e, ho- darid e,
+{/g}B3/2{/GdGe}A/2 d2 {/g}c3/2{/GdGe}A/2 e2 | {/g}d3/2{/GBGe}A/2 {/d}c2 {/g}B2 {/GdGe}G/2{/d}B3/2 :|$ 
+w: hio- darid a, ho- darid e, ha- rodarid do, hio- darem- to.
+P:IV. CRUNNLUATH.
+{/g}A2{/GdGeAfA}e<A{/d}B/2 {/g}c2{/GdGeAfA}e<A{/d}c/2 | {/g}d2{/GBGeAfA}e<A{/d}c/2 {/g}B2{/GdGeAfA}e<G{/d}B/2 |$
+w: hin-bandre-en to,            ho-bandre-en do,              ha-robandre-en do,         hio-bandre-em to,
+{/g}A2{/GdGeAfA}e<A{/d}B/2 {/g}c2{/GdGeAfA}e<A{/d}c/2 | {/g}e2{/GdGeAfA}e<Ae/2 {/g}c2{/GdGeAfA}e<Ae/2 |$
+w: hin-bandre-en to,            ho-bandre-en do,              he-bandre-en de,             ho-bandre-en de,
+{/g}B2{/GdGeAfA}e<Ad/2 {/g}c2{/GdGeAfA}e<Ae/2 | {/g}d2{/GBGeAfA}e<A{/d}c/2 {/g}B2{/GdGeAfA}e<G{/d}B/2 ||$
+w: hio-bandre-en da,        ho-bandre-en de,          ha-robandre-en do,         hio-bandre-em to,
+|: {/g}A2{/GdGeAfA}e<A{/d}B/2 {/g}c2{/GdGeAfA}e<A{/d}c/2 | {/g}e2{/GdGeAfA}e<Ae/2 {/g}c2{/GdGeAfA}e<Ae/2 |$
+w:    hin-bandre-en to,            ho-bandre-en do,              he-bandre-en de,        ho-bandre-en de,
+[1 {/g}d2{/GBGeAfA}e<A{/d}c/2 {/g}B2{/GdGeAfA}e<G{/d}B/2 | {/g}e2{/GdGeAfA}e<Ae/2 {/g}c2{/GdGeAfA}e<Ae/2 ||$
+w:     ha-robandre-en do,          hio-bandre-em to,              he-bandre-en de,        ho-bandre-en de,
+{/g}B2{/GdGeAfA}e<Ad/2 {/g}c2{/GdGeAfA}e<Ae/2 | {/g}d2{/GBGeAfA}e<A{/d}c/2 {/g}B2{/GdGeAfA}e<G{/d}B/2 +D.C.+ :|$
+w: hio-bandre-en da,        ho-bandre-en de,           ha-robandre-en do,          hio-bandre-em to.
+{/g}e2A>B {/GdG}c2 {/g}d2 c<{/GdG}c | {/g}BG {/d}B2 {/g}e2{/dAGAG}A2 |]
+w: hi-en-o-dro         ha o-dro        hio-em    to     hi-harin.
