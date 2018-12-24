@@ -15,10 +15,22 @@ S:MacLeod's Tutor for the Highland Bagpipe
 K:Hp
 %%MIDI drone 110 45 57 3
 %%MIDI droneon
-e | {g}A3/2B1/2 {GA}e2 {A}e2 | {gfg}f3/2d1/2 {g}fe {g}A2 | {g}A3/2B1/2 {GdA}e2 {A}e2 | {gfg}f3/2e1/2 {g}ed {g}G2 | 
-{ded}d3/2c1/2 {Gdc}d2 {g}ed |$
-{gBd}B3/2A1/2 {g}A2 {gf}g2 | {eg}e3/2d1/2 {g}B1/2d3/2 {g}A2 | {g}A2 {GBA}B2 {g}A :|: {gf}ge {ag}a2 {g}a2 |
+e |: {g}A3/2B1/2 {GA}e2 {A}e2 | {gfg}f3/2d1/2 {g}fe {g}A2 | {g}A3/2B1/2 {GdA}e2 {A}e2 | {gfg}f3/2e1/2 {g}ed {g}G2 | 
+{dc}d3/2c1/2 {Gdc}d2 {g}ed |$
+{gBd}B3/2A1/2 {g}G2 {gf}g2 | {eg}e3/2d1/2 {g}B1/2d3/2 {g}G2 | {g}A2 {GBA}B2 {g}A2 :|: {gf}ge {ag}a2 {g}a2 |
 {gf}ge {g}e2 d{c}d |$
-{gf}ge {ag}a2 {g}a2 | {gf}ge {gf}g2 {a}G2 | {dc}dc {Gdc}d2 {g}eg | {dBd}B3/2A1/2 {g}G2 {gf}g2 |
-{eg}e3/2d1/2 {g}B1/2d3/2 {g}A2 | {g}A2 {GBA}B2 {g}A2 :|
+{gf}ge a2 {g}a2 | {gf}ge {gf}g2 {a}G2 | {dc}dc {Gdc}d2 {g}eg | {dBd}B3/2A1/2 {g}G2 {gf}g2 |
+{eg}e3/2d1/2 {g}B1/2d3/2 {g}G2 | {g}A2 {GBA}B2 {g}A2 :|
 
+X:2
+T:MacGregor's Search (MuseScore setting)
+M:3/4
+L:1/8
+Q:1/4=56
+K:D
+e |: {/g}A3/2B1/2 {/GA}e2 {/A}e2 | {/gfg}f3/2d1/2 {/g}fe {/g}A2 | {/g}A3/2B1/2 {/GdA}e2 {/A}e2 | {/gfg}f3/2e1/2 {/g}ed {/g}G2 | 
+{/dc}d3/2c1/2 {/Gdc}d2 {/g}ed |$
+{/gBd}B3/2A1/2 {/g}G2 {/gf}g2 | {/eg}e3/2d1/2 {/g}B1/2d3/2 {/g}G2 | {/g}A2 {/GBA}B2 {/g}A2 :|: {/gf}ge {/ag}a2 {/g}a2 |
+{/gf}ge {/g}e2 d{/c}d |$
+{/gf}ge a2 {/g}a2 | {/gf}ge {/gf}g2 {/a}G2 | {/dc}dc {/Gdc}d2 {/g}eg | {/dBd}B3/2A1/2 {/g}G2 {/gf}g2 |
+{/eg}e3/2d1/2 {/g}B1/2d3/2 {/g}G2 | {/g}A2 {/GBA}B2 {/g}A2 :|
