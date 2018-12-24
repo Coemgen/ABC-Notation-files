@@ -1,11 +1,14 @@
+
+
 %abc-2.1
 
 X:1
 T:MacGregor's Search
+T:Mac Griogair a' Brodadh
 M:3/4
 I:linebreak $
 L:1/8
-N:Heard on "Crunluath" played by Hamish Moore.
+N:Heard on "Crunluath" played by Fin Moore (son of Hamish Moore).
 Q:1/4=56
 R:retreat
 S:MacLeod's Tutor for the Highland Bagpipe
@@ -18,3 +21,4 @@ e | {g}A3/2B1/2 {GA}e2 {A}e2 | {gfg}f3/2d1/2 {g}fe {g}A2 | {g}A3/2B1/2 {GdA}e2 {
 {gf}ge {g}e2 d{c}d |$
 {gf}ge {ag}a2 {g}a2 | {gf}ge {gf}g2 {a}G2 | {dc}dc {Gdc}d2 {g}eg | {dBd}B3/2A1/2 {g}G2 {gf}g2 |
 {eg}e3/2d1/2 {g}B1/2d3/2 {g}A2 | {g}A2 {GBA}B2 {g}A2 :|
+
