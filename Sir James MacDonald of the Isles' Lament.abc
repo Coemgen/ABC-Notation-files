@@ -24,17 +24,17 @@ w: hio    en a,    ho    en a,      ha    en    do,   hio    em    to,         h
 [1 {/g}d2 {/e}A3/2{/d}c/2 {/g}B2 {/e}G3/2{/d}B/2 | {/g}e2 {/g}A>e {/g}c2 {/e}A>e ||$ {/g}B2 {/e}A>d {/g}c2 {/e}A>e | {/g}d2 {/e}A3/2{/d}c/2 {/g}B2 {/e}G3/2{/d}B/2 :|$
 w:     ha    en    do,   hio    em    to,     che    en e,    ho    en e,         hio    en a,    ho    en e,      ha    en    do,   hio    em    to.
 P:III. TAORLUATH.
-{/g}A2 {/GdGe}A/2{/d}B3/2 {/g}c2 {/GdGe}A/2{/d}c3/2 | {/g}d2 {/GBGe}A/2{/d}c3/2 {/g}B2 {/GdGe}G/2{/d}B3/2 |$
+{/g}A2 {/GdGe}A3/2{/d}B/2 {/g}c2 {/GdGe}A3/2{/d}c/2 | {/g}d2 {/GBGe}A3/2{/d}c/2 {/g}B2 {/GdGe}G3/2{/d}B/2 |$
 w: hin- darid to, ho- darid do, ha- rodarid do, hio- darem- to,
-{/g}A2 {/GdGe}A/2{/d}B3/2 {/g}c2 {/GdGe}A/2{/d}c3/2 | {/g}e2 {/GdGe}A/2e3/2 {/g}c2 {/GdGe}A/2e3/2 |$
+{/g}A2 {/GdGe}A3/2{/d}B/2 {/g}c2 {/GdGe}A3/2{/d}c/2 | {/g}e2 {/GdGe}A3/2e/2 {/g}c2 {/GdGe}A3/2e/2 |$
 w: hin- darid to, ho- darid do, he- darid e, ho- darid e,
-{/g}B2 {/GdGe}A/2d3/2 {/g}c2 {/GdGe}A/2e3/2 | {/g}d2 {/GBGe}A/2{/d}c3/2 {/g}B2 {/GdGe}G/2{/d}B3/2 |$
+{/g}B2 {/GdGe}A3/2d/2 {/g}c2 {/GdGe}A3/2e/2 | {/g}d2 {/GBGe}A3/2{/d}c/2 {/g}B2 {/GdGe}G3/2{/d}B/2 |$
 w: hio- darid a, ho- darid e, ha- rodarid do, hio- darem- to,
-|: {/g}A2 {/GdGe}A/2{/d}B3/2 {/g}c2 {/GdGe}A/2{/d}c3/2 | {/g}e2 {/GdGe}A/2e3/2 {/g}c2 {/GdGe}A/2e3/2 |$
+|: {/g}A2 {/GdGe}A3/2{/d}B/2 {/g}c2 {/GdGe}A3/2{/d}c/2 | {/g}e2 {/GdGe}A3/2e/2 {/g}c2 {/GdGe}A3/2e/2 |$
 w: hin- darid to, ho- darid do, he- darid e, ho- darid e,
-[1 {/g}d2 {/GBGe}A/2{/d}c3/2 {/g}B2 {/GdGe}G/2{/d}B3/2 | {/g}e2 {/GdGe}A/2e3/2 {/g}c2 {/GdGe}A/2e3/2 ||$
+[1 {/g}d2 {/GBGe}A3/2{/d}c/2 {/g}B2 {/GdGe}G3/2{/d}B/2 | {/g}e2 {/GdGe}A3/2e/2 {/g}c2 {/GdGe}A3/2e/2 ||$
 w: ha- rodarid do hio- darem- to, he- darid e, ho- darid e,
-{/g}B2 {/GdGe}A/2d3/2 {/g}c2 {/GdGe}A/2e3/2 | {/g}d2 {/GBGe}A/2{/d}c3/2 {/g}B2 {/GdGe}G/2{/d}B3/2 :|$
+{/g}B2 {/GdGe}A3/2d/2 {/g}c2 {/GdGe}A3/2e/2 | {/g}d2 {/GBGe}A3/2{/d}c/2 {/g}B2 {/GdGe}G3/2{/d}B/2 :|$
 w: hio- darid a, ho- darid e, ha- rodarid do, hio- darem- to.
 P:IV. CRUNNLUATH.
 {/g}A2{/GdGeAfA}e<A{/d}B/2 {/g}c2{/GdGeAfA}e<A{/d}c/2 | {/g}d2{/GBGeAfA}e<A{/d}c/2 {/g}B2{/GdGeAfA}e<G{/d}B/2 |$
@@ -49,5 +49,3 @@ w:    hin-bandre-en to,            ho-bandre-en do,              he-bandre-en de
 w:     ha-robandre-en do,          hio-bandre-em to,              he-bandre-en de,        ho-bandre-en de,
 {/g}B2{/GdGeAfA}e<Ad/2 {/g}c2{/GdGeAfA}e<Ae/2 | {/g}d2{/GBGeAfA}e<A{/d}c/2 {/g}B2{/GdGeAfA}e<G{/d}B/2 +D.C.+ :|$
 w: hio-bandre-en da,        ho-bandre-en de,           ha-robandre-en do,          hio-bandre-em to.
-{/g}e2A>B {/GdG}c2 {/g}d2 c<{/GdG}c | {/g}BG {/d}B2 {/g}e2{/dAGAG}A2 |]
-w: hi-en-o-dro         ha o-dro        hio-em    to     hi-harin.
