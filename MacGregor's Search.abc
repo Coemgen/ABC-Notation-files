@@ -1,3 +1,4 @@
+N:Heard on "Crunluath" played by Fin Moore (son of Hamish Moore).
 
 
 %abc-2.1
@@ -8,7 +9,6 @@ T:Mac Griogair a' Bhrodadh
 M:3/4
 I:linebreak $
 L:1/8
-N:Heard on "Crunluath" played by Fin Moore (son of Hamish Moore).
 Q:1/4=56
 R:retreat
 S:MacLeod's Tutor for the Highland Bagpipe
@@ -34,3 +34,79 @@ e |: {/g}A3/2B1/2 {/GA}e2 {/A}e2 | {/gfg}f3/2d1/2 {/g}fe {/g}A2 | {/g}A3/2B1/2 {
 {/gf}ge {/g}e2 d{/c}d |$
 {/gf}ge a2 {/g}a2 | {/gf}ge {/gf}g2 {/a}G2 | {/dc}dc {/Gdc}d2 {/g}eg | {/dBd}B3/2A1/2 {/g}G2 {/gf}g2 |
 {/eg}e3/2d1/2 {/g}B1/2d3/2 {/g}G2 | {/g}A2 {/GBA}B2 {/g}A2 :|
+
+X:3
+T:MacGregor of Roro
+M:3/4
+L:1/8
+I:linebreak $
+Q:1/4=56
+S:The Edinburgh Collection of Highland Bagpipe Music
+K:Hp
+%%MIDI drone 110 45 57 3
+%%MIDI droneon
+{g}A3/2{GdG}B1/2 | {g}e2 {A}e2 {g}ed | {GdG}e2 {g}A2 {g}A3/2{GdG}B1/2 | {g}e2 {gf}g2 f1/2a3/2 |
+{GdGc}d2 {g}G2 {g}d1/2c3/2 | {GdGc}d2 {g}e3/2d1/2 {Bd}B3/2{G}A1/2|$
+{g}A{e}G {gf}g3/2f1/2 {g}e3/2d1/2 | {g}Bd {g}G2 {e}A2 | {GdG}B2 {G}A2 :|: {g}A3/2{GdG}B1/2 |
+{g}e2 {ag}a2 {f}g3/2f1/2 | {g}ed {Bd}B{G}A {g}A3/2{GdG}B1/2 |$ {g}e2 a2 {f}g3/2e1/2 | 
+{gf}g2 G2 {g}d1/2c3/2 {GdGc}d2 {g}e3/2d1/2 {Bd}B{G}A | {g}A3/2{e}G1/2 {gf}g3/2f1/2 {g}e3/2d1/2 |
+{g}Bd {g}G2 {e}A2 | {GdG}B2 {G}A2 :|
+
+X:4
+T:MacGregor of Roro (MuseScore setting)
+C:Unknown composer
+M:4/4
+L:1/4
+K:C
+M:3/4
+L:1/8
+Q:1/4=56
+K:D
+{/g}A3/2{/GdG}B1/2 | {/g}e2 {/A}e2 {/g}ed | {/GdG}e2 {/g}A2 {/g}A3/2{/GdG}B1/2 | {/g}e2 {/gf}g2 f1/2a3/2 |
+{/GdGc}d2 {/g}G2 {/g}d1/2c3/2 | {/GdGc}d2 {/g}e3/2d1/2 {/Bd}B3/2{/G}A1/2|$
+{/g}A{/e}G {/gf}g3/2f1/2 {/g}e3/2d1/2 | {/g}Bd {/g}G2 {/e}A2 | {/GdG}B2 {/G}A2 :|: {/g}A3/2{/GdG}B1/2 |
+{/g}e2 {/ag}a2 {/f}g3/2f1/2 | {/g}ed {/Bd}B{/G}A {/g}A3/2{/GdG}B1/2 |$ {/g}e2 a2 {/f}g3/2e1/2 | 
+{/gf}g2 G2 {/g}d1/2c3/2 {/GdGc}d2 {/g}e3/2d1/2 {/Bd}B{/G}A | {/g}A3/2{/e}G1/2 {/gf}g3/2f1/2 {/g}e3/2d1/2 |
+{/g}Bd {/g}G2 {/e}A2 | {/GdG}B2 {/G}A2 :|
+
+X:5
+T:MacGregor of Ruaro
+M:3/4
+L:1/8
+I:linebreak $
+Q:1/4=56
+S:Henderson's Tutor for the Bagpipe and Collection of Pipe Music
+K:Hp
+%%MIDI drone 110 45 57 3
+%%MIDI droneon
+{g}A3/2{d}B1/2 | {g}e3/2{A}e1/2 {g}e3/2f1/2 {g}d3/2f1/2 | {g}f1/2e3/2 A2 {g}A3/2{d}B1/2 | 
+{g}e2 {A}ef {a}ge1/2{g}e1/2 | d2 {e}G2 {dc}dB |$
+{Gdc}d2 {g}e3/2d1/2 {gBd}B{e}A | {eAd}A1/2{e}G3/2 {g}B1/2{G}B1/2d {g}e3/2d1/2 | 
+{ed}B2 {gAd}A1/2{e}G3/2 {g}A2 | {GdG}B2 {G}A2 :|$
+{g}A3/2{d}B1/2 | {g}e2 a2 ga | e2 {g}A2 {g}A3/2{GdG}B1/2 | {g}e2 a2 g/f/{g}e/d/ |
+{gf}g2 {a}G2 {dc}d{e}B |$
+{Gdc}d2 {g}e3/2d1/2 {gBd}B{G}A | {eAd}A1/2{d}G3/2 {g}B1/2{G}B1/2d {g}e3/2d1/2 | 
+{ed}B2 {gAd}A1/2{e}G3/2 {g}A2 | {GdG}B2 {G}A2 {g}A3/2B1/2 |$
+{g}e2 a2 ga | e2 {g}A2 {g}A3/2{GdG}B1/2 | {g}e2 a2 g/f/{g}e/d/ | 
+{gf}g2 {a}G2 {g}ed1/2{e}B1/2 |$
+{Gdc}d2 {g}e/f/g {Bd}B{e}A | {gAd}A/{e}G3/2 {g}B/{G}B/d {g}e3/2d/ | 
+{ed}B2 {gAe}A/{e}G3/2 {g}A2 | {GdG}B2 {G}A2 |]
+
+X:6
+T:MacGregor of Ruaro (MuseScore setting)
+M:3/4
+L:1/8
+Q:1/4=56
+K:D
+{/g}A3/2{/d}B1/2 | {/g}e3/2{/A}e1/2 {/g}e3/2f1/2 {/g}d3/2f1/2 | {/g}f1/2e3/2 A2 {/g}A3/2{/d}B1/2 | 
+{/g}e2 {/A}ef {/a}ge1/2{/g}e1/2 | d2 {/e}G2 {/dc}dB |$
+{/Gdc}d2 {/g}e3/2d1/2 {/gBd}B{/e}A | {/eAd}A1/2{/e}G3/2 {/g}B1/2{/G}B1/2d {/g}e3/2d1/2 | 
+{/ed}B2 {/gAd}A1/2{/e}G3/2 {/g}A2 | {/GdG}B2 {/G}A2 :|$
+{/g}A3/2{/d}B1/2 | {/g}e2 a2 ga | e2 {/g}A2 {/g}A3/2{/GdG}B1/2 | {/g}e2 a2 g/f/{/g}e/d/ |
+{/gf}g2 {/a}G2 {/dc}d{/e}B |$
+{/Gdc}d2 {/g}e3/2d1/2 {/gBd}B{/G}A | {/eAd}A1/2{/d}G3/2 {/g}B1/2{/G}B1/2d {/g}e3/2d1/2 | 
+{/ed}B2 {/gAd}A1/2{/e}G3/2 {/g}A2 | {/GdG}B2 {/G}A2 {/g}A3/2B1/2 |$
+{/g}e2 a2 ga | e2 {/g}A2 {/g}A3/2{/GdG}B1/2 | {/g}e2 a2 g/f/{/g}e/d/ | 
+{/gf}g2 {/a}G2 {/g}ed1/2{/e}B1/2 |$
+{/Gdc}d2 {/g}e/f/g {/Bd}B{/e}A | {/gAd}A/{/e}G3/2 {/g}B/{/G}B/d {/g}e3/2d/ | 
+{/ed}B2 {/gAe}A/{/e}G3/2 {/g}A2 | {/GdG}B2 {/G}A2 |]
