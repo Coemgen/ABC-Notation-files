@@ -68,5 +68,8 @@ M:3/4
 L:1/8
 Q:1/4=40
 K:Hp
-A3/2B1/2 {gef}e2 {g}e2 | fd e2 A2 | A3/2B1/2 {gef}e2 {g}e2 | fe d2 G2 |
-B {Gdc}d B {Gdc}d e2 | d/B/A/A/ G2 A3/2B1/2 | e2 d/B/d/B/ G2 | A2 {GdG}B2 A2 :|
+A3/2B1/2 | {gef}e2 {g}e2 fd | e2 A2 A3/2B1/2 | {gef}e2 {g}e2 fe | d G2 B {Gdc}d2 |
+B {Gdc}d2 e2 | d/B/A/A/ G2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {GdG}B2 A :|
+|: A3/2B1/2 | {ag}a2 g2 e2 | {g}ed BA A3/2B1/2 | {ag}a2 gfed | g G2 B {Gdc}d2 |
+[1 B {Gdc}d2 e2 | d/B/A/A/ G2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {GdG}B2 A :|
+[2 B {Gdc}d2 e2 | f3/4g//B3/4A// A G2 g | fe d3/4B//d3/4B// G2 | A2 {GdG}B2 A |]
