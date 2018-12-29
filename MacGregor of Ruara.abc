@@ -78,3 +78,42 @@ w:  hinto      dili  i  e     he-a o-en hin-to   dili i-ve-e-a i em o tra
 w: o tra  e    a-o-hin-en em hin-to he a-o-a-o           em   hin  dro   en
 [2 B {Gdc}d2 e2 | f3/4g//B3/4A// A G2 g | fe d3/4B//d3/4B// G2 | A2 {GdG}B2 A |]
 w: o tra  e       ve-i-to-en     hi-em i  ve-e a-to-a-to    em   hin to     en
+
+X:5
+T:MacGregor of Huara (for MuseScore)
+M:3/4
+L:1/8
+Q:1/4=40
+K:D
+A3/2B1/2 | {/gef}e2 {/g}e2 fd | e2 A2 A3/2B1/2 | {/gef}e2 {/g}e2 fe | d G2 B {/Gdc}d2 |
+B {/Gdc}d2 e2 | d/B/A/A/ G2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {/GdG}B2 A :|
+|: A3/2B1/2 | {/ag}a2 g2 e2 | {/g}ed BA A3/2B1/2 | {/ag}a2 gfed | g G2 B {/Gdc}d2 |
+[1 B {/Gdc}d2 e2 | d/B/A/A/ G2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {/GdG}B2 A :|
+[2 B {/Gdc}d2 e2 | f3/4g//B3/4A// A G2 g | fe d3/4B//d3/4B// G2 | A2 {/GdG}B2 A |]
+
+X:6
+T:MacGregor of Ruaro's Lament
+M:3/4
+I:linebreak $
+L:1/8
+Q:1/4=40
+R:retreat
+S:David Glen's Collection of Highland Bagpipe Music
+K:Hp
+%%MIDI drone 110 45 57 3
+%%MIDI droneon
+{g}A3/2B/ | {GdG}e2 {A}e2 {gef}e3/2d/ | {g}e2 {g}A2 {g}A3/2B/ | {GdG}e2 {A}e2 {gfg}f3/2e/ | {g}e/d3/2 {G}B/{G}A3/2 {g}A3/2B/2 |$
+{GdGc}d2 {g}e3/2d/ {Bd}B3/2{G}A/ | {g}A{d}G {gf}g2 {G}d/{A}e3/2 | {g}G2 {d}A2 {GdGc}d3/2c/ | {gBd}B2 {G}A2 :|$
+|: {gf}g3/2e/ | {ag}a2 {g}a2 {f}g3/2e/ | {GdGc}d2 {g}d2 {gf}g3/2e/ | {ag}a2 {g}a2 {f}g3/2e/ | {gf}g2 {GdGc}d2 {g}e3/2f/ |$
+{gf}g2 a2 {f}g3/2e/ [1 {GdGc}d2 {gf}g2 {a}e/g3/2 |2 {GdGc}d2 {ag}a2 e/f/g || {g}G2 {d}A2 {GdGc}d3/2c/ | {gBd}B2 {G}A2 :|
+
+X:7
+T:MacGregor of Ruaro's Lament (for MuseScore)
+M:3/4
+L:1/8
+Q:1/4=40
+K:D
+{/g}A3/2B/ | {/GdG}e2 {/A}e2 {/gef}e3/2d/ | {/g}e2 {/g}A2 {/g}A3/2B/ | {/GdG}e2 {/A}e2 {/gfg}f3/2e/ | {/g}e/d3/2 {/G}B/{/G}A3/2 {/g}A3/2B/2 |
+{/GdGc}d2 {/g}e3/2d/ {/Bd}B3/2{/G}A/ | {/g}A{/d}G {/gf}g2 {/G}d/{/A}e3/2 | {/g}G2 {/d}A2 {/GdGc}d3/2c/ | {/gBd}B2 {/G}A2 :|
+|: {/gf}g3/2e/ | {/ag}a2 {/g}a2 {/f}g3/2e/ | {/GdGc}d2 {/g}d2 {/gf}g3/2e/ | {/ag}a2 {/g}a2 {/f}g3/2e/ | {/gf}g2 {/GdGc}d2 {/g}e3/2f/ |
+{/gf}g2 a2 {/f}g3/2e/ [1 {/GdGc}d2 {/gf}g2 {/a}e/g3/2 |2 {/GdGc}d2 {/ag}a2 e/f/g || {/g}G2 {/d}A2 {/GdGc}d3/2c/ | {/gBd}B2 {/G}A2 :|
