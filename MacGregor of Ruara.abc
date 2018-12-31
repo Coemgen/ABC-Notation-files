@@ -68,16 +68,16 @@ M:3/4
 L:1/8
 Q:1/4=40
 K:Hp
-A3/2B1/2 | {gef}e2 {g}e2 fd | e2 A2 A3/2B1/2 | {gef}e2 {g}e2 fe | d G2 B {Gdc}d2 |
-w: hin-to    edre     he ve-a  he en  hin-to      edre     he ve-e  a em o tra
-B {Gdc}d2 e2 | d/B/A/A/ G2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {GdG}B2 A :|
-w: o tra  e    a-o-hin-en em hin-to   he a-o-a-o        em   hin  dro   en
+A3/2B1/2 | {gef}e2 {g}e2 fd | e2 A2 A3/2B1/2 | {gef}e2 {g}e2 fe | {Gdc}d G2 B {Gdc}d2 |
+w: hin-to    edre     he ve-a  he en  hin-to      edre     he ve-e  tra em o tra
+B {Gdc}d2 ed | {gBe}B/A3/2 {gAe}A/G3/2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {GdG}B2 A :|
+w: o tra  e-a       hio-en      hin-em hin-to   he a-o-a-o        em   hin  dro   en
 |: A3/2B1/2 | {ag}a2 g2 e2 | {g}ed BA A3/2B1/2 | {ag}a2 gfed | g G2 B {Gdc}d2 |
 w:  hinto      dili  i  e     he-a o-en hin-to   dili i-ve-e-a i em o tra
-[1 B {Gdc}d2 e2 | d/B/A/A/ G2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {GdG}B2 A :|
-w: o tra  e    a-o-hin-en em hin-to he a-o-a-o           em   hin  dro   en
-[2 B {Gdc}d2 e2 | f3/4g//B3/4A// A G2 g | fe d3/4B//d3/4B// G2 | A2 {GdG}B2 A |]
-w: o tra  e       ve-i-to-en     hi-em i  ve-e a-to-a-to    em   hin to     en
+[1 B {Gdc}d2 e2 d | {gBe}B/A3/2 {gAe}A/G3/2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {GdG}B2 A :|
+w: o     tra e  a        hio-en      hin-em hin-to     he a-o-a-o        em   hin  dro   en
+[2 B {Gdc}d2 e2 f/g/ | {Be}B/A3/2 {gAe}A/G3/2 gf | e2 d3/4B//d3/4B// G2 | A2 {GdG}B2 A |]
+w: o     tra e  ve-di      hio-en      hin-em i-ve e    a-to-a-to    em   hin to     en
 
 X:5
 T:MacGregor of Huara (for MuseScore)
@@ -85,11 +85,16 @@ M:3/4
 L:1/8
 Q:1/4=40
 K:D
-A3/2B1/2 | {/gef}e2 {/g}e2 fd | e2 A2 A3/2B1/2 | {/gef}e2 {/g}e2 fe | d G2 B {/Gdc}d2 |
-B {/Gdc}d2 e2 | d/B/A/A/ G2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {/GdG}B2 A :|
+A3/2B1/2 | {/gef}e2 {/g}e2 fd | e2 A2 A3/2B1/2 | {/gef}e2 {/g}e2 fe | {/Gdc}d G2 B {/Gdc}d2 |
+w: hin-to    edre     he ve-a  he en  hin-to      edre     he ve-e  tra em o tra
+B {/Gdc}d2 ed | {/gBe}B/A3/2 {/gAe}A/G3/2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {/GdG}B2 A :|
+w: o tra  e-a       hio-en      hin-em hin-to   he a-o-a-o        em   hin  dro   en
 |: A3/2B1/2 | {/ag}a2 g2 e2 | {/g}ed BA A3/2B1/2 | {/ag}a2 gfed | g G2 B {/Gdc}d2 |
-[1 B {/Gdc}d2 e2 | d/B/A/A/ G2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {/GdG}B2 A :|
-[2 B {/Gdc}d2 e2 | f3/4g//B3/4A// A G2 g | fe d3/4B//d3/4B// G2 | A2 {/GdG}B2 A |]
+w:  hinto      dili  i  e     he-a o-en hin-to   dili i-ve-e-a i em o tra
+[1 B {/Gdc}d2 e2 d | {/gBe}B/A3/2 {/gAe}A/G3/2 A3/2B1/2 | e2 d3/4B//d3/4B// G2 | A2 {/GdG}B2 A :|
+w: o     tra e  a        hio-en      hin-em hin-to     he a-o-a-o        em   hin  dro   en
+[2 B {/Gdc}d2 e2 f/g/ | {/Be}B/A3/2 {/gAe}A/G3/2 gf | e2 d3/4B//d3/4B// G2 | A2 {/GdG}B2 A |]
+w: o     tra e  ve-di      hio-en      hin-em i-ve e    a-to-a-to    em   hin to     en
 
 X:6
 T:MacGregor of Ruaro's Lament
