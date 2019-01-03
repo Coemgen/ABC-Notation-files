@@ -1,4 +1,4 @@
-N:First heard on "Crunluath" played by Fin Moore (son of Hamish Moore).
+N:First heard on "Crunluath" played by Fin Moore (son of Hamish Moore) under the title "MacGregor of Ruara."
 
 X:1
 T:MacGregor of Huara [sic]
@@ -9,11 +9,16 @@ N:This tune is also known as MacGregor of Roro, MacGregor of Ruara, MacGregor's 
 N:It's likely that Huara is a misspelling of Ruara.
 S:Seumas MacNeill's 1970 record "Highland Bagpipes."
 Z:abc-transcription Kevin Griffin, Jan 1, 2019
+V:pipes
 K:Hp
+%%MIDI drone 70 45 33 70 70
+%%MIDI droneon
+%%MIDI drum ddd 76 77 77 100 100 100
+%%MIDI drumon
+%%MIDI gracedivider 8
 % still working on transcribing gracenotes and embellishments
 A3/2B1/2 {gef}e2 {g}e2 | f3/2d/ e2 A2 | A3/2B1/2 {gef}e2 {g}e2 | f3/2e/ {Gdc}d2 G2 |
 B/{Gdc}d3/2 B/{Gdc}d3/2 e3/2d/ | {gBe}B/A3/2 {gAe}A/G3/2 A3/2B1/2 | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 :|
 |: A3/2B1/2 e2 {ag}a2 | g3/2e/ {g}e3/2d/ B/A3/2 | A3/2B1/2 e2 {ag}a2 | g/f/e/d/ g2 G2 |
 [1  B/{Gdc}d3/2 B/{Gdc}d3/2 e3/2d/ | {gBe}B/A3/2 {gAe}A/G3/2 A3/2B1/2 | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 :|
 [2  B/{Gdc}d3/2 B/{Gdc}d3/2 ef/g/ | {Be}B/A3/2 {gAe}A/G3/2 g3/2f/ | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 |]
-
