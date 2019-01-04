@@ -1,14 +1,33 @@
 I:abc-include C:\Users\coemg\OneDrive\Documents\GitHub\EasyABC\piping.abh
 
+% https://ifdo.ca/~seymour/runabc/abcguide/abc2midi_guide.html
+
 X:1
 T:MacGregor of Huara [sic]
-M:3/4
+B:Maybe in Seumas MacNeill's book?
+C:Trad.
+D:Highland Bagpipes, Seumas MacNeill, 1970
+F:https://github.com/Coemgen/ABC-Notation-files/blob/master/MacGregor%20of%20Huara.abc
+G:great highland bagpipe
+H:history TBD
+I:linebreak $
 L:1/8
-Q:1/4=40
+M:3/4
+m: ~G2 = {A}G{F}G
 N:First heard on "Crunluath" played by Fin Moore (son of Hamish Moore) under the title "MacGregor of Ruara."
 N:This tune is also known as MacGregor of Roro, MacGregor's Search, MacGregor o Ruadh Shruth, etc.
 N:Huara appears to be a misspelling of Ruara.
-S:Seumas MacNeill's 1970 record "Highland Bagpipes."
+O:Scotland
+P:A
+Q:"larghissimo" 1/4=40
+R:air
+r:random remark
+S:transcribed from Seumas MacNeill's recording.
+s: !pp! ** !f!
+U: T = !trill!
+V:1 clef=treble
+W:lyrics after tune
+w:lyrics aligned with notes
 Z:abc-transcription Kevin Griffin, Jan 1, 2019
 K:Hp
 %%MIDI gracedivider 8

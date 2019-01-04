@@ -1,0 +1,66 @@
+C=1
+
+[Syntax]
+Namespace1 = 6
+IgnoreCase = No
+KeyWordLength = 2
+BracketChars = ([|])
+; bar line, sharp, flat, note length modifiers, repeat, slur, roll
+OperatorChars = |^_<>/:-~
+PreprocStart =
+SyntaxStart =
+SyntaxEnd =
+CommentStart = 
+CommentEnd = 
+CommentStartAlt =
+CommentEndAlt =
+SingleComment = %
+SingleCommentCol =
+SingleCommentAlt =
+SingleCommentColAlt =
+StringStart = {
+StringEnd = }
+StringAlt = 
+StringEsc = 
+CharStart = 
+CharEnd = 
+CharEsc =
+
+[Keywords 1] 
+X:
+T: 
+K:
+
+[Keywords 2] 
+I:
+L:
+M:
+m:
+N:
+R:
+r:
+U:
+
+[Keywords 3] 
+P:
+Q:
+V:
+
+[Keywords 4] 
+A:
+B:
+C:
+D:
+F:
+G:
+H:
+O:
+S:
+Z:
+
+[Keywords 5] 
+W:
+w:
+
+[Keywords 6] 
+s:
