@@ -1,0 +1,523 @@
+Guide to writing abc for abc2midi
+---------------------------------
+
+The defining document for abc is the abc version 1.6 specification which can
+be found at http://www.gre.ac.uk/~c.walshaw/abc2mtex/abc.txt . This document
+is a description of abc as interpreted by abc2midi.
+
+An abc tune consists of a header followed by a body. Each line in the
+header is a different field starting with a letter immediately followed
+by : and then the text of the field. The body of the tune contains lines
+of music, though it may also contain certain fields. The end of the tune is
+marked by a blank line (so blank lines cannot appear within the tune header
+or body).
+
+Comments are allowed in both the header and the body. A comment starts
+with a % sign and continues to the end of the line. A comment may be on
+a line of its own or at the end of a line of abc.
+
+The header should look something like this :
+
+X:1
+T:The Rose Tree
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+
+X: is the reference number (each tune in a file should have a unique reference
+number). T: is the title of the tune, M: is the time signature, L: is the
+default note length and K: is the key signature. Q: is the tempo field. In
+the above example the tempo is given as 120 quarter-notes per minute. X:
+must be the first field and K: must be the last field in the header.
+
+It is advisable to write the fields M:, L: and Q: in that order. The
+reason for this is that M: sets up a default note length which L:
+over-rides and the tempo field Q: can be written in other forms that
+depend on default note length. This order makes the meaning clear and
+unambiguous.
+
+Other fields may also appear in the header. Common ones are C: composer
+of the tune, D: discography, H: history of the tune, S: source, N: notes,
+Z: transcription note, A: area from which the tune comes, B: book
+and R: rhythm.
+
+The K: is made up of a base note A-G possibly followed by b for flat or
+# for sharp. This specifies a major key. A minor key can be specified
+by adding an m while Mixolydian and Dorian modes can be specified by adding
+Mix and Dor respectively e.g.
+
+K:Eb
+K:EDor
+K:EbDor
+
+The following table relates the number of sharps or flats you see on the
+stave to what is in the K: field :
+
+7 sharps: C# A#m G#Mix D#Dor
+6 sharps: F# D#m C#Mix G#Dor
+5 sharps: B  G#m F#Mix C#Dor
+4 sharps: E  C#m BMix  F#Dor
+3 sharps: A  F#m EMix  BDor
+2 sharps: D  Bm  AMix  EDor HP Hp
+1 sharp : G  Em  DMix  ADor
+0 sharps: C  Am  GMix  DDor
+1 flat  : F  Dm  CMix  GDor
+2 flats : Bb Gm  FMix  CDor
+3 flats : Eb Cm  BbMix FDor
+4 flats : Ab Fm  EbMix BbDor
+5 flats : Db Bbm AbMix EbDor
+6 flats : Gb Ebm DbMix AbDor
+7 flats : Cb Abm GbMix DbDor
+
+As an extension, abc2midi also recognizes "Maj" for Major "Min" for Minor,
+"Phr" for Phrygian, "Lyd" for Lydian, "Aeo" for Aeolian and "Loc" for
+Locrian. Thus CMaj, EPhr, FLyd, AAeo and  BLoc will all generate a stave with
+no sharps or flats. If you use one of these modes in the key signature, it is
+recommended that you add a comment giving the number of sharps or flats for
+the benefit of other people who may not be familiar with modes. e.g.
+
+K: DLoc % 3 flats
+
+The key signature may be followed by modifiers. A modifier consists of ^^, ^
+=, _ or __ followed by a-g. As an example, ^a means every a should be played
+sharp unless otherwise marked in the music. This over-rides whatever has been
+set by the key signature. e.g.
+
+K: C ^a
+
+The Body of the Tune
+--------------------
+
+Following the header is the tune. This is a textual notation for the things
+you might see on a stave :
+
+Notes:
+
+A note consists of a pitch specifier followed by a length. Available pitch
+specifiers are :
+
+C, D, E, F, G, A, B, C D E F G A B c d e f g a b c' d' e' f' g' a' b'
+
+This covers 4 octaves. abc2midi allows lower octaves to be reached by
+adding extra , characters and higher octaves to be reached by adding
+extra ' characters. However, this is not standard abc and may not be
+supported by other abc utilities.
+
+You can raise or lower the pitch specifier a semitone by preceding it with
+^ or _ respectively. The key signature and preceding sharps, flats and
+barlines modify the default pitch in the same way as on a stave. Preceding
+a note with = generates natural pitch and ^^ and __ can be used for double
+sharp and double flat respectively.
+
+The length is in general specified by a fraction following the pitch
+specifier. However, the notation is made more concise by allowing much
+of the fraction to be omitted.
+
+C  - selects a note of 1 default note length.
+C2 - selects a note of 2 default note lengths.
+C/2 - selects a note of 1/2 default note length.
+C3/4 - selects a note of 3/4 default note length.
+
+No space is allowed within a note, but space may be used to separate
+notes in the tune.
+
+Rests are written by using 'z' as the pitch specifier.
+
+z3 - a rest of 3 default lengths.
+
+Placing a dot before a note causes it to be played staccato.
+
+.e
+
+Combining notes
+
+Three notes of the same length can be turned into a triplet by prefixing
+them with (3. This has the effect of multiplying the note lengths by 2/3.
+A chord can be represented by bracketting the notes together within [ and
+] e.g. [a2e2]. An older notation which is also supported is to use + symbols
+e.g. +a2e2+. The - symbol can be used to tie together notes of the same
+pitch e.g. a2-a; this is equivalent to a3.
+
+From version 1.4 of abc2midi, the support of tuples and chords is
+extended to include general tuple notation (p:q:r , [ and ] for chords
+and a more flexible system of interpreting chords.
+
+(p:q:r means play the next r notes at q/p of their notated value. Thus
+(3:2:3 is equivalent to an ordinary triplet (3 .
+
+It is possible to have notes of different lengths within a chord
+e.g. [ab2] . The length of the first note (or rest) in a chord is
+taken as the time before the next note is played. The same effect can be
+achieved using tied notes e.g. [ab2] c is equivalent to [ab-] [bc].
+To resolve possible ambiguity, a tie sign is always assumed to belong to
+the immediately previous note.
+
+A run of 2 or more different notes may be grouped together in a slur.
+This usually means that the notes are to be played together as smoothly as
+possible. In typeset music, a slur looks very similar to a tie, but in
+abc, ( marks the start of a slur and ) marks the end. e.g. (ABc) .
+abc2midi recognizes slurs, but they have no effect on the MIDI generated.
+
+Barlines :
+
+| is an ordinary barline
+|| is a double barline
+:| is "repeat last section".
+|: is "repeat next section".
+:: is "repeat last and next sections".
+|1 or |[1 or | [1 is "first repeat ending".
+:|2 or :|[2 or :| [2 is "second repeat ending".
+|] and [| are variants of ||.
+
+If |1 and :|2 are used, the end of the second repeat should finish with
+|| or |:, not :| or :: . abc2midi will try to fix up things if you miss
+out a start repeat. Where a tune starts with an anacrusis, abc2midi will
+always fix a repeat to start at the anacrusis rather than the first
+barline.
+
+Rhythm field and Broken Rhythm Notation
+---------------------------------------
+
+R:hornpipe causes notes written in straight time to be played in dotted
+time. The symbol > can be used to achieve a similar effect.
+
+a>b is notated as a3/2b/2 but played as a4/3b2/3.
+
+The symbols < >> << >>> <<< have similar meanings:
+
+a<b   is notated as a/2b3/2 but played as a2/3b4/3.
+a>>b  is notated and played as  a7/4b/4.
+a<<b  is notated and played as  a/4b7/4.
+a>>>b is notated and played as  a15/8b/8.
+a<<<b is notated and played as  a/8b15/8.
+
+abc2midi may refuse to apply the dotted time symbol if a and b are
+not simple notes. In this case, the note lengths should be written
+directly.
+
+Guitar chords :
+
+Anything in quotes is a guitar chord e.g.
+
+"A" "Gm" "B7" "Bm7" "D#aug" "Bbdim7"
+
+Guitar chords must use upper case A-G followed by optional # or b, then
+the name of a chord type e.g. "m", "aug", "7". abc2midi currently
+recognizes the following chord names :
+
+ m, 7, m7, maj7, M7, 6, m6, aug, +, aug7, dim, dim7, 9, m9, maj9, M9,
+11, dim9, sus, sus9, 7sus4, 7sus9, 5
+
+You can also add your own; see the %%MIDI chordname command below.
+
+abc2midi automatically generates an accompaniment from the guitar chords.
+There are a number of default chord/fundamental rhythms for common time
+signatures which this uses, or you can set up your own.
+
+Lower case a-g followed by optional # or b will generate a single note,
+the fundamental, only.
+
+This notation has been extended so that finger numbers "1" "2" "3",
+"4" or "5" are allowed. abc2midi ignores these, but a typesetting
+program might support them.
+
+Another extension is to allow musical instructions to appear in exclamation
+marks e.g. !pizzicato! abc2midi currently supports the following :
+    !ppp! !pp! !p! !mp! !mf! !f! !ff! !fff!
+Default volume is equivalent to !f!. In both the " " and ! ! fields,
+abc2midi allows multiple terms separated by semi-colons e.g. "Am;1".
+
+A line of music may contain any number of notes, barlines and guitar
+chords. Spaces may be used to separate these.
+
+Some abc fields may appear within the body of the abc tune :
+
+K: - change key
+L: - change default note length
+M: - change meter
+Q: - change tempo
+P: - part label
+V: - voice label
+w: - words to be matched syllable by syllable to notes
+
+Each field must be on a line by itself.
+
+Part Notation
+-------------
+
+A part label must be a single character in the range A - Z. e.g.
+
+P:A
+
+A parts specifier in the header can be used to define the MIDI output as
+some combination of the specified parts e.g.
+
+P:ABACABA
+
+You can use (  )<number> to repeat a part a specified number of times
+e.g. P:A(AB)6 is equivalent to P:AABABABABABAB. If there are no brackets,
+just the last part is repeated, so P:AAB3 is equicalent to P:AABBB. Dots
+may be inserted into the part specifier to make it easier to read
+e.g P:A.AB.AC
+
+If there is no parts specifier, the output is simply the parts (or just
+the unlabelled music) in the order in which it appears in the tune body.
+
+You may if you wish have multiple voices sounding concurrently within each
+part. These are indicated by
+
+V:1
+<music for voice part 1>
+V:2
+<music for voice part 2>
+and so on.
+
+A part label is treated like V:1, so you are not allowed to place a part
+label within a voice. The duration of each of the voice parts must be the
+same for them to synchronize correctly; abc2midi will warn you if they are
+not!
+
+If no V: field appears after the K:, whatever follows is assumed to
+belong to voice 1 (the default voice). The V: field is an extension to
+abc 1.5.
+
+The M:, L: Q: and K: fields in the header apply to all voices. After
+the header, these fields apply only to the voice in which they appear.
+
+Adding Lyrics to a Tune
+-----------------------
+
+The W: field (upper case W) can be used for lyrics to be typeset separately
+if the abc is printed out. The w: field (lower case w) in the body of a tune
+supplies a line of lyrics to be matched syllable by syllable to the last line
+of notes. These are usually printed below the notes if the abc is typeset.
+abc2midi uses these to generate karaoke MIDI files. When the karaoke MIDI file
+is played using an appropriate player program, the lyrics appear on the screen
+with the current syllable highlighted. Within the lyrics, the following
+symbols may be used :
+
+<space> break between words
+-       break between syllables within a word
+|       advance to next bar
+_       indicates last syllable is to be held for another note
+*       indicates a one note rest for the singer.
+~       appears as a space but connects syllables each side into one.
+\-      appears as - in the output
+\       continuation character. Next w: field is part of the same line.
+
+The following example illustrates most of these :
+
+ gf|e2dc B2A2|B2G2 E2D2|.G2.G2 GABc|d4 B2
+w: Sa-ys my au-l' wan to your aul' wan\
+w: Will~ye come to the Wa-x-ies dar-gle?
+
+Note that the continuation character is used in a rather strange manner.
+One w: field and all continuations will match one line of music, whether
+or not the line of music ends with a continuation character. You can
+think of the \ in a music line dividing that line into sections and \
+in a w: field further dividing these section into sub-sections.
+
+It is possible for a music line to be followed by several w: fields.
+This can be used together with the part notation to create verses.
+The first w: field is used the first time that part is played, then
+the second and so on.
+
+abc2midi-specific commands (%%MIDI)
+------------------------------------
+
+abc2midi supports a number of commands of the form
+
+%%MIDI command
+
+Each of these should appear on a line by itself. All of them are allowed
+within the abc tune body. By using these in combination with the part
+notation, one can, for example, play a part transposed or in a different key.
+
+The idea behind this syntax is that other programs will treat it as a
+comment and ignore it.
+
+%%MIDI channel n
+
+selects melody channel n (in the range 1-16).
+
+%%MIDI program [c] n
+
+selects program n (in the range 1-128) on channel c. If c is not given, the
+program is selected on the current melody channel.
+
+%%MIDI beat a b c n
+
+controls the way note velocities are selected. The first note in a bar has
+velocity a. Other "strong" notes have velocity b and all the rest have velocity
+c. a, b and c must be in the range 0-128. The parameter n determines which
+notes are "strong". If the time signature is x/y, then each note is given
+a position number k = 0, 1, 2 .. x-1 within each bar. Note that the units for
+n are not the default note length. If k is a multiple of n, then the note is
+"strong". The volume specifiers !ppp! to !fff! are equivalent to the
+following :
+
+!ppp! = %%MIDI beat 30 20 10 1
+!pp!  = %%MIDI beat 45 35 20 1
+!p!   = %%MIDI beat 60 50 35 1
+!mp!  = %%MIDI beat 75 65 50 1
+!mf!  = %%MIDI beat 90 80 65 1
+!f!   = %%MIDI beat 105 95 80 1
+!ff!  = %%MIDI beat 120 110 95 1
+!fff! = %%MIDI beat 127 125 110 1
+
+%%MIDI transpose n
+
+transposes the output by the specified number of semitones. n may be
+positive or negative.
+
+%%MIDI rtranspose n
+
+Relative tranpose by the specified number of semitones. i.e.
+%%MIDI transpose a followed by %%MIDI rtranspose b results in a
+transposition of a+b. %%MIDI transpose b will result in a transposition
+of b semitones, regardless of any previous transposition.
+
+%%MIDI c n
+
+specifies the MIDI pitch which corresponds to c. The default is 60. This
+number should normally be a multiple of 12.
+
+%%MIDI grace a/b
+
+sets the fraction of the next note that grace notes will take up. a
+must be between 1 and b-1.
+
+%%MIDI chordname name n1 n2 n3 n4 n5 n6
+
+Defines how to play a guitar chord called "name". n1 is usually 0 and
+n2, n3 to n6 give the pitches of the other notes in semitones relative
+to the root note. There may be fewer than 6 notes in the chord, but not
+more.If "name" is already defined, this command re-defines it. Unlike
+most other commands, chordname definitions stay in effect from where they
+are defined to the end of the abc file. The following illustrates how
+m, 7, m7 and maj7 could be set up if they were not already defined.
+%%MIDI chordname m 0 3 7
+%%MIDI chordname 7 0 4 7 10
+%%MIDI chordname m7 0 3 7 10
+%%MIDI chordname maj7 0 4 7 11
+
+%%MIDI gchord string
+
+sets up how guitar chords are generated. The string is a sequence made of
+of z's, c's and f's for rests, chords and fundamental notes respectively.
+This specifies how each bar is to be played. An optional length is allowed
+to follow the z's, c's and f's  e.g. czf2zf3. If the abc contains guitar
+chords, then abc2midi automatically adds chords and
+fundamentals after encountering the first guitar chord. It keeps using that
+chord until a new chord is specified in the abc. Whenever the M: field is
+encountered in the abc, an appropriate default string is set :
+
+For 2/4 or 4/4 time default is equivalent to :
+%%MIDI gchord fzczfzcz
+
+For 3/4 time default is equivalent to :
+%%MIDI gchord fzczcz
+
+For 6/8 time default is equivalent to :
+%%MIDI gchord fzcfzc
+
+For 9/8 time default is equivalent to :
+%%MIDI gchord fzcfzcfzc
+
+%%MIDI chordprog n
+
+Sets the MIDI instrument for the chords to be n.
+
+%%MIDI bassprog n
+
+Sets the MIDI instrument for the bass notes to be n.
+
+%%MIDI chordvol n
+
+Sets the volume (velocity) of the chord notes at n.
+
+%%MIDI bassvol n
+
+Sets the volume (velocity) of the bass notes at n. There is no corresponding
+melodyvol command since there are 3 velocity values for melody, set using the
+beat command.
+
+%%MIDI gchordon
+
+Turns on guitar chords (they are turned on by default at the start of a
+tune).
+
+%%MIDI gchordoff
+
+Turns off guitar chords.
+
+%%MIDI control [bass/chord] n1 n2
+
+This generates a MIDI control event. If the word "control" is followed by
+"bass" or "chord", the event will be applied to the bass or chord channel,
+otherwise it will be applied to the melody channel. n1 and n2 are numbers
+in the range 0-127. Generally, n1 selects a control parameter and n2 is
+the value to which it is set. A couple of examples :
+
+%%MIDI control 7 50
+
+will set the main volume of the channel to 50
+
+%%MIDI control 10 0
+
+will set the pan parameter (left/right balance) to 0.
+
+See the manual for your MIDI tone generator to find out what control events
+are supported.
+
+%%MIDI nobarlines
+
+This is a somewhat obscure option to support early music without barlines.
+Normally, an accidental applied to one note e.g. ^c will apply to every note
+at the same point in the scale until the end of the bar (so C,, C, C c c'
+would all be sharpened). This option turns off this behaviour, so that an
+accidental applies only to the next note. It should be used in the header of
+any tune requiring this behaviour.
+
+%%MIDI barlines
+
+This turns off the effect of %%MIDI nobarlines in the middle of a tune. This
+is the default behaviour assumed at the start of every tune.
+
+Typesetting abc
+---------------
+If you want to typeset your abc, there are some more features of abc syntax
+that you need to know:
+
+If 2 notes appear consecutively with no space between them, they will be
+grouped together under the same beam. A space between them prevents them
+sharing a beam.
+
+A new line of stave music is generated by the newline at the end of a
+line of abc music. To suppress this, put a \ character at the end of the
+abc music line.
+
+An abc music line should end either at a bar line or at the space
+between two notes which indicates they do not share a beam. This is true
+whether or not the abc line ends with a \ character.
+
+Error Messages and Warnings
+---------------------------
+
+abc2midi attempts to perform various checks on the abc and
+reports any problems via error and warning messages:
+
+A warning message indicates there is something strange in the abc -
+possibly an error or possibly non-standard usage.
+
+An error message means that abc2midi thinks there is definitely an
+error in the abc and the MIDI generated may not be correct.
+
+In a small number of cases, an error may cause abc2midi to stop.
+This is usually either because it has run out of memory or because
+there is some problem with reading or writing a file.
+
+
+---------------------------------------------------------------------
+This reference written 1995-1998 by James Allwright
