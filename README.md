@@ -1,1 +1,1 @@
-# EasyABC
+# ABCNotation files
