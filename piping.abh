@@ -1,5 +1,5 @@
 % The included file may contain information fields, stylesheet directives and
 % comments, but no other abc constructs.
-% http://abcnotation.com/wiki/abc:standard:v2.1
+% http://abcnotation.com/wiki/abc:standard:v2.2#include_field
 %%papersize A4
 m: PA2 = A3/2{GdGe}A1/2
