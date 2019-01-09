@@ -15,7 +15,7 @@ D:Highland Bagpipes, Seumas MacNeill, 1970
 F:https://github.com/Coemgen/ABC-Notation-files/blob/master/MacGregor%20of%20Huara.abc
 G:great highland bagpipe
 H:history TBD
-% I:linebreak $
+I:linebreak $
 L:1/8
 M:3/4
 % m: ~G2 = {A}G{F}G
@@ -23,7 +23,6 @@ N:I first heard this tune on "Crunluath" played by Fin Moore (son of Hamish Moor
 N:The tune is also known as MacGregor of Roro, MacGregor's Search, MacGregor o Ruadh Shruth, etc.
 N:Huara appears to be a misspelling of Ruara.
 O:Scotland
-P:(AB)2CBCD
 Q:"larghissimo" 1/4=40
 R:air
 % r:random remark
@@ -40,53 +39,13 @@ K:AMix
 %%MIDI drum ddd 76 77 77 100 100 100
 %%MIDI droneon
 %%MIDI drumon
-% still working on transcribing gracenotes and embellishments
-P:A
 {g}A3/2{d}B1/2 {gef}e2 {g}e2 | {g}f3/2d/ {g}e2 {G}A2 | {g}A3/2{d}B1/2 {gef}e2 \
 {geA}e2 | {g}f3/2e/ {Gdc}d2 {e}G2 |$
-P:B
-B/{Gdc}d3/2 B/{Gdc}d3/2 {g}e3/2d/ | {gBe}B/A3/2 {gAe}A/G3/2 {g}A3/2{d}B1/2 | \
-{g}e3/2d/ {g}B/d3/2 {gBe}B/{e}G3/2 | {g}A2 {GdG}B2 {G}A2 |$
-P:C
-{g}A3/2{d}B1/2 {g}e2 {ag}a2 | g3/2e/ {g}e3/2d/ {gBe}B/{e}A3/2 | {g}A3/2{d}B1/2 \
-{geA}e2 {ag}a2 | g/f/e/d/ {gf}g2 G2 |$
-P:D
-B/{Gdc}d3/2 B/{Gdc}d3/2 {g}ef/g/ | {Be}B/A3/2 {gAe}A/{e}G3/2 {a}g3/2f/ | \
-{g}e3/2d/ {g}B/d3/2 {gBe}B/{e}G3/2 | {g}A2 {GdG}B2 {G}A2 |$
-
-X:2
-T:MacGregor of Ruara
-B:Maybe in Seumas MacNeill's book?
-C:Trad.
-D:Highland Bagpipes, Seumas MacNeill, 1970
-F:https://github.com/Coemgen/ABC-Notation-files/blob/master/MacGregor%20of%20Huara.abc
-G:great highland bagpipe
-H:history TBD
-I:linebreak $
-L:1/8
-M:3/4
-N:I first heard this tune on "Crunluath" played by Fin Moore (son of Hamish Moore) under the title "MacGregor of Ruara."
-N:The tune is also known as MacGregor of Roro, MacGregor's Search, MacGregor o Ruadh Shruth, etc.
-N:Huara appears to be a misspelling of Ruara.
-O:Scotland
-Q:"larghissimo" 1/4=40
-R:air
-S:transcribed from Seumas MacNeill's recording.
-V:1 clef=treble stem=down
-Z:abc-transcription Kevin Griffin, Jan 1, 2019
-K:AMix
-%%MIDI gracedivider 8
-%%MIDI drone 70 45 33 70 70
-%%MIDI drum ddd 76 77 77 100 100 100
-%%MIDI droneon
-%%MIDI drumon
-{g}A3/2{d}B1/2 {gef}e2 {g}e2 | {g}f3/2d/ {g}e2 {G}A2 | {g}A3/2{d}B1/2 {gef}e2 \
-{geA}e2 | {g}f3/2e/ {Gdc}d2 {e}G2 |$
-B/{Gdc}d3/2 B/{Gdc}d3/2 {g}e3/2d/ | {gBe}B/A3/2 {gAe}A/G3/2 {g}A3/2{d}B1/2 | \
+B/{Gdc}d3/2 B/{Gdc}d3/2 {g}e3/2d/ | {gBe}B/A3/2 {gAe}A/{e}G3/2 {g}A3/2{d}B1/2 | \
 {g}e3/2d/ {g}B/d3/2 {gBe}B/{e}G3/2 | {g}A2 {GdG}B2 {G}A2 :|$
 |: {g}A3/2{d}B1/2 {g}e2 {ag}a2 | g3/2e/ {g}e3/2d/ {gBe}B/{e}A3/2 | {g}A3/2{d}B1/2 \
-{geA}e2 {ag}a2 | g/f/e/d/ {gf}g2 {e}G2 |$
-|1 B/{Gdc}d3/2 B/{Gdc}d3/2 {g}e3/2d/ | {gBe}B/A3/2 {gAe}A/G3/2 {g}A3/2{d}B1/2 | \
+{g}e2 {ag}a2 | g/f/e/d/ {gf}g2 G2 |$
+|1 B/{Gdc}d3/2 B/{Gdc}d3/2 {g}e3/2d/ | {gBe}B/A3/2 {gAe}A/{e}G3/2 {g}A3/2{d}B1/2 | \
 {g}e3/2d/ {g}B/d3/2 {gBe}B/{e}G3/2 | {g}A2 {GdG}B2 {G}A2 :|$
-|2 B/{Gdc}d3/2 B/{Gdc}d3/2 {g}ef/g/ | {Be}B/A3/2 {gAe}A/{e}G3/2 {a}g3/2f/ | \
-{g}e3/2d/ {g}B/d3/2 {gBe}B/{e}G3/2 | {g}A2 {GdG}B2 {G}A2 |]$
+|2 B/{Gdc}d3/2 B/{Gdc}d3/2 {g}ef/g/ | {Be}B/{e}A3/2 {gAe}A/{e}G3/2 {a}g3/2f/ | \
+{g}e3/2d/ {g}B/d3/2 {gBe}B/{e}G3/2 | {g}A2 {GdG}B2 !rbstop! {G}A2 |]$
