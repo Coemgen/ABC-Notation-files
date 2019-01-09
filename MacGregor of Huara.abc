@@ -4,6 +4,7 @@ I:abc-include piping.abh
 % http://moinejf.free.fr/abcm2ps-doc/features.xhtml
 % http://richardrobinson.tunebook.org.uk/static/abcprogs/abcplus_en.pdf
 % trillian.mit.edu/~jc/doc/doc/abc2midi.txt
+% https://web.archive.org/web/20180501153241/http://abcnotation.com:80/wiki/abc:standard:v2.1
 % https://www.bbc.co.uk/programmes/b007jdhn
 
 X:1
@@ -29,11 +30,11 @@ R:air
 S:transcribed from Seumas MacNeill's recording.
 % s: !pp! ** !f!
 % U: T = !trill!
-V:1 clef=treble
+V:1 clef=treble stem=down
 % W:lyrics after tune
 % w:lyrics aligned with notes
 Z:abc-transcription Kevin Griffin, Jan 1, 2019
-K:Hp
+K:AMix
 %%MIDI gracedivider 8
 %%MIDI drone 70 45 33 70 70
 %%MIDI drum ddd 76 77 77 100 100 100
