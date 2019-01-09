@@ -1,0 +1,283 @@
+%abc-2.2
+% %%MIDI gracedivider=2
+
+
+
+
+X:1
+T:A Hundred Pipers
+M:6/8
+K:HP
+|: {gfg}f2A1 {g}A3/2B/2{G}A1|{gBd}B2d1{gdc}d2{gf}g1|{ag}a2f1 {gfg}f3/2e/2d1|{gfg}f2e1 {g}e3/2d/2e1|!
+{gfg}f2A1 {g}A3/2B/2{G}A1|{gBd}B2 d1{gdc}d2{gf}g1|{ag}a2f1 {g}e3/2d/2e1|1!rbstop!{g}d3{G}d3 :|2!rbstop! {g}d3{G}d2 ||!
+|:{g}c/4d3/4|{g}e2{GdG}e1 {g}e3/2c/2e1|{gfg}f2a1 {g}a3/2g/2f1|{gef}e2c1 {gcd}c3/2B/2{G}A1|{gcd}c2{e}B1 {G}B3/2c/2d1|!
+{g}e2{GdG}e1 {g}e3/2c/2e1|{gfg}f2a1 {g}a3/2g/2f1|{gef}e2c1 {gBd}B3/2A/2B1|{g}A3{GAG}A2:|!
+
+X:2
+T:Bonnie Dundee
+M:6/8
+K:HP
+|:{g}c/4d3/4|{g}e2{GdG}e1 {gef}e3/2{g}c/2e1|a3/2g/2{a}f1 {gef}e2d1|{g}c/2e3/2{g}A1 {g}c/2e3/2c1|{g}B2{GdGe}B1 {gBd}B3/2{g}c/2d1|!
+{g}e2{GdG}e1 {gef}e3/2{g}c/2e1|a3/2g/2{a}f1{gef}e2d1|{g}c/2e3/2{g}A1 {g}c/2e3/2c1|{g}A2{GdGe}A1{GAG}A2:|!
+|:G1|{g}A2{GdGe}A1{Gdc}d2c1|{g}B2{GdGe}B1{gBd}B3|{g}B2{GdGe}B1 {g}B3/2c/2d1|{g}c2{GdGe}c1{gcd}c2{e}A1|!
+{gcd}c3/2{e}B/2{d}c1 {Gdc}d3/2{g}c/2d1|{g}e2{GdG}e1 {gfg}f3/2e/2d1|{g}c/2e3/2{g}A1 {g}c/2e3/2c1|{g}A2{GdGe}A1{GAG}A2:|
+
+
+%%newpage
+
+
+
+X:3
+T:Mrs. MacLeod Of Raasay
+C:Traditional
+R:March
+M:4/4
+K:HP
+{gAGAG}A2{ag}a3/2g/2 {fg}f1e1 {g}f1a1|{fg}f1e1 {gcd}c1{e}B1 {g}c2{GdGe}c1e1|{gAGAG}A2{ag}a3/2g/2 {fg}f1e1 {g}f1a1|{fg}f1e1 {gcd}c1{e}A1 {g}B2{GdGe}B1e1|!
+{gAGAG}A2{ag}a3/2g/2 {fg}f1e1 {g}f1a1|{fg}f1e1 {gcd}c1{e}B1 {g}c2{GdGe}c1e1|{gfg}f3/2e/2 {g}f1a1{fg}f2{g}e1{g}f3/4g/4|{ag}a3/2f/2 {gef}e1c1 {gcd}c1{e}B1 {GdG}B1e1||!
+{gAGAG}A2{gcd}c1{e}A1 {gef}e1A1 {gcd}c1a1|{gfg}f1e1 {gcd}c1{e}B1{g}c2{GdGe}c1e1|{gAGAG}A2 {gcd}c1{e}A1 {gef}e1A1 {gcd}c1a1|{fg}f1e1 {gcd}c1{e}A1 {g}B2{GdGe}B1e1|!
+{gAGAG}A2{gcd}c1{e}A1 {gef}e1A1 {gcd}c1a1|{gfg}f1e1 {gcd}c1{e}B1{g}c2{GdGe}c1e1|{gfg}f3/2e/2 {g}f1a1 {fg}f2{g}e1{g}f3/4g/4|{ag}a3/2f/2 {gef}e1c1 {gcd}c1{e}B1 {GdG}B|]!
+
+X:4
+T:Teribus
+C:Traditional (RSPBA setting)
+M:2/4
+K:HP
+|:A2|{Gdc}d2{e}A2 {Gdc}d3e1|{g}f2a2 {fg}f2d2|{gf}g3f1 {gef}e3d1|{gcd}c2e2 {gcd}c2{e}A2|!
+["2nd time 2nd part"!rbstop!
+     {Gdc}d2{e}A2 {Gdc}d3e1|{g}f2a2 {gf}f2d2|{gf}g3f1 {gef}e2a2|{gfg}f2d2 {gdG}d2:|!
+|: {gf}g2 | a4{GdG}a3g1|{fg}f2a2 {fg}f2d2|{gf}g3f1 {gef}e3d1|{gcd}c2e2 {gcd}c2{e}A2|!
+["1st time 2nd part"!rbstop!
+            a4{GdG}a3g1|{fg}f2a2 {fg}f2d2|{gf}g3f1 {gef}e2a2|{gfg}f2d2 {gdG}d2:|!
+
+X:5
+T:The Brown Haired Maiden
+C:Traditional (RSPBA setting)
+M:2/4
+K:HP
+|:A2|{Gdc}d3c1 {gBd}B2{e}A2|{Gdc}d4 {e}A3B1|{Gdc}d3e1 {gf}g2f2|{gfg}f2e2 {A}e2{gf}g2|!
+   {a}f1a3 {fg}f2a2|{AGAG}A4{Gdc}d3e1|{g}f4{gf}g2{a}e2|{Gdc}d4{gdG}d2:|!
+|: {gf}g2 | {a}f1a3 {fg}f2a2|{AGAG}A4{Gdc}d3e1|{g}f2d2 {gf}g2f2|{gfg}f2e2 {A}e2{gf}g2|!
+[1!rbstop! 
+  {a}f1a3 {fg}f2a2|{AGAG}A4{Gdc}d3e1|{g}f4{gf}g2{a}e2|{Gdc}d4{gdG}d2:|!
+[2!rbstop! 
+  {ag}a3g {fg}f2a2|{AGAG}A4{Gdc}d3e1|{g}f4{gf}g2{a}e2|{Gdc}d4{gdG}d2|]
+
+
+%%newpage
+
+
+X:6
+T:God Bless America
+M:4/4
+K:HP
+{Gdc}d4{gcd}c2{g}B2|{gcd}c3/2B/2{G}A4-A2|{gef}e4{g}d2e2|{gfg}f4-f2{g}e3/2f/2|!
+{gf}g2{Bd}B4{gf}g2 |{fg}f2{AGAG}A4{Gdc}d3/2e/2 |{gfg}f2{g}e3/2d/2{gef}e2{g}d3/2c/2|{Gdc}d4-d2{g}c3/2d/2|!
+{gef}e2{AGAG}A4{g}d3/2e/2|{gfg}f2{AGAG}A4{g}e3/2f/2|{gf}g2{cd}c4{g}f3/2g/2|{ag}a4-a4|!
+|: {Bd}B4{G}A2{gf}g2|f3/2e/2{Gdc}d4{gf}g2|{fg}f4{gef}e4|1 !rbstop! {ag}a4-a4 :|2 !rbstop! {Gdc}d4-d2 |]!
+
+X:7
+T:Caissons Go Rolling Along
+M:4/4
+K:HP
+|:{g}e1c1|{gef}e2{g}e1c1 {gef}e2{g}e1c1 | {g}e3/2f/2 {g}e1c1 {gef}e2{g}c1d1 | {gef}e1d1- d1B1 {gef}e1d1- d1B1 | {G}A4{GAG}A2:|!
+e{A}e|a2{g}a2 {ef}e2-e2| {g}f3/2g/2 a1f1 {gef}e2-e2 | a1{g}a1- a1g1 {a}f2{gf}g1a1 | {f}g2{a}f2{g}e3{A}e|!
+a2{g}a2{ef}e2-e2|{g}f3/2g/2 a1f1{gef}e2{g}c1d1|{gef}e1d1- d1B1 {gef}e1d1- d1B1 | {G}A4{GAG}A2 |]!
+
+X:8
+T:Marine Corps Hymn
+M:4/4
+K:HP
+|:{g}A1{d}c1| \
+{gef}e2{A}e2{gef}e2{A}e2 |{gef}e3a1{ef}e2c1d1|{gef}e2{A}e2{gde}d1B3 |{G}A4{GAG}A2:|!
+a1g1 |\
+{fg}f2d2{g}f2d2|{gef}e3c1{gef}e2a1g1|{fg}f2d2{g}f1a3 |{ef}e4{A}e2 |!
+{g}A1{d}c1| {gef}e2{A}e2{gef}e2{A}e2 |{gef}e3a1{ef}e2c1d1|{gef}e2{A}e2{gde}d1B3 |{G}A4{GAG}A2 |]!
+
+X:9
+T:Anchors Aweigh
+M:4/4
+K:HP
+|:{gAd}A4{g}c2e2 |{gfg}f3c1{g}f4 |{Gdc}d4{gef}e2A2 |{Gdc}d4-d4 |!
+[1 !rbstop! {gBd}B4 {Gdc}d2B2 |{gAd}A2B2 {g}c2{Gdc}d2 |{g}G2{d}B2{gef}e2d2 |{gcd}c2{g}A2{gfg}f2{g}e2 :|!
+[2 !rbstop! {gBd}B4 {Gdc}d2B2 |{gAd}A2B2 {g}c2{Gdc}d2 |{g}f3/2A/2 {g}G1{d}A1 {g}e3/2A/2 {g}G1{d}A1 |{Gdc}d4{gdG}d4 |]
+
+%%newpage
+
+X:10
+T:Scotland the Brave
+C:Traditional
+M:4/4
+K:HP
+%Franks edit
+{g}A2{GdGe}A3/2B/2 {gcd}c1{e}A1 {gcd}c1e1|{ag}a2{g}a2 {GdG}a1e1 {gcd}c1{e}A1|{Gdc}d2{g}f3/2d/2 {gcd}c1e1 {gcd}c1{e}A1|{gBd}B2{g}e2{A}e3/2f/2 {g}e3/4d/4c3/4B/4|!
+% THis is a good version
+%{g}A2{GdGe}A3/2B/2 {gcd}c1{e}A1 {gcd}c1e1|{ag}a2{g}a2 {GdG}a1e1 {gcd}c1{e}A1|{Gdc}d2{g}f3/2d/2 {gcd}c1e1 {gcd}c1{e}A1|{gBd}B2{gef}e2{A}e3/2f/2 {gef}e3/4d/4{gcd}c3/4B/4|!
+{g}A2{GdGe}A3/2B/2 {gcd}c1{e}A1 {gcd}c1e1|{ag}a2{g}a2{GdG}a1e1 {gcd}c1{e}A1|{Gdc}d2{g}f3/2d/2 {gcd}c1e1 {gcd}c1{e}A1|{gBd}B2{g}A3/2B/2{G}A2{gcd}c1e1|!
+{ag}a2{g}a2{GdG}a1e1 {gce}c1{e}A1|{ag}a2{g}a2{GdG}a1e1 {gcd}c1e1| {ag}a2 {g}a3/2g/2 {a}f2{ag}a3/2g/2 | {a}fa {f}gf {gef}ed {gcd}cB|!
+{g}A2{GdGe}A3/2B/2 {gcd}c1{e}A1 {gcd}c1e1|{ag}a2{g}a2{GdG}a1e1 {gcd}c1{e}A1|{Gdc}d2{g}f3/2d/2 {gcd}c1e1 {gcd}c1{e}A1|{gBd}B2{g}A3/2B/2{G}A3|]
+
+X:11
+T:Rowan Tree
+C:Traditional
+M:4/4
+K:HP
+% Franks edit
+{g}A3/2B/2|{GdG}c3{d}c1{gcd}c2B2|{gcd}c1e3{A}e2a2|{fg}f3e1{g}f2a2|{fg}f2e2{A}e2{g}A3/2B/2|!
+%{g}A3/2B/2|{GdG}c3{d}c1{gcd}c2{e}B2|{gcd}c1e3{A}e2{ag}a2|{fg}f3e1{g}f2a2|{fg}f2e2{A}e2{g}A3/2B/2|!
+{GdG}c3{d}c1{gcd}c2B2|{gcd}c1e3{g}f3e1|{gef}e1c3{gBd}B3{G}A1|{g}A4{GAG}A3||!
+e1 |{A}e3a1{g}a3g1|{a}g2f2{e}f2{ag}a2|{ef}e3f1 {g}f1e1 {g}d1c1|{gcd}c4{gBd}B2 A3/2B/2|!
+{GdG}c3{d}c1{gcd}c2B2|{gcd}c1e3{g}f3e1|{gef}e1c3{gBd}B3{G}A1|{g}A4{GAG}A2|]!
+
+X:12
+T: The Battle of Waterloo
+M:4/4
+K:HP
+{g}ed/4B3/4 | 
+{g}A2 {GdGe}AB {gAd}AG {g}GA | {GdG}c3/2d/2 {g}ec {Gdc}d2 {g}ef/4g3/4 | {ag}a3/2g/2 {a}ed {gef}e3/2d/2 {gBd}BA | {g}G3/2{d}G/2 {e}GA {gGd}G2 {g}ed/4B3/4 |!
+{g}A2 {GdGe}AB {gAd}AG {g}GA | {GdG}c3/2d/2 {g}ec {Gdc}d2 {g}ef/4g3/4 | {ag}a3/2g/2 {a}ed {gef}e3/2d/2 {gBd}B{e}G | {g}A4 {GAG}A2 ||!
+{gf}g2| {ag}a3/2g/2 {a}ed {g}c2 {GdG}e3/2f/2 | {gf}g3/2a/2 {f}ge {gf}g2 {a}ef/4g3/4 | {ag}a3/2g/2 {a}ed {gef}e3/2d/2 {gBd}BA | {g}G3/2{d}G/2 {e}GA {gGd}G2 {g}ed/4B3/4|!
+{g}A2 {GdGe}AB {gAd}AG {g}GA | {GdG}c3/2d/2 {g}ec {Gdc}d2 {g}ef/4g3/4 | {ag}a3/2g/2 {a}ed {gef}e3/2d/2 {gBd}B{e}G | {g}A4 {GAG}A2 ]!
+
+%%newpage
+
+X:13
+T:Minstrel Boy
+C:Traditional
+M:4/4
+K:HP
+|: e1 |{AGAG}A3B1 {Gdc}d1c1 {gBd}B1{e}A1|{gcd}c2e2{ag}a2g1a1|{fg}f2{g}e2{g}c2{GdG}e1c1 |1!rbstop! {gBd}B4{G}A3 :|2!rbstop!  {gBd}B4{G}A2 |!
+{gcd}c1e1 |{ag}a2{f}g2{a}f2{gf}g1a1|{f}g2f2{gef}e3{A}e1|{g}f3c1{GdG}c3e1|{g}f2{GdG}f1g1a2{g}a2|!
+{AGAG}A3B1 {Gdc}d1c1 {gBd}B1{e}A1|{gcd}c2e2{ag}a2g1a1|{fg}f2{g}e2{g}c2{GdG}e1c1|{gBd}B4{G}A2|]!
+
+X:14
+T:Wearing of the Green
+C:Traditional
+M:4/4
+K:HP
+|:{g}A3/2B/2|{GdG}c2 {gcd}c1{e}B1 {gcd}c1e1 {A}e1c1 | {gcd}c1{e}B1 {gBd}B1{e}A1{gBd}B2{gcd}c1e1|{gfg}f1d1 {ag}a3/2g/2 {fg}f1e1 {gcd}c1{e}A1|{gBd}B1{e}A1 {GAG}A3/2B/2{G}A2:|!
+a3/2g/2|
+{fg}f1e1 {A}e1c1 {gef}e1c1 {g}A3/2B/2|{gcd}c1{e}B1 {gcd}c1d1{gcd}c2{ag}a3/2g/2|{fg}f1e1 {A}e1c1 {gef}e1c1 {g}A3/2B/2|{gcd}c1{e}B1 {gBd}B3/2c/2{gBd}B2{g}A3/2B/2|!
+{GdG}c2 {gcd}c1{e}B1 {gcd}c1e1 {A}e1c1|{gcd}c1{e}B1 {gBd}B1{e}A1{gBd}B2{gcd}c1e1|{gfg}f1d1 {ag}a3/2g/2 {fg}f1e1 {gcd}c1{e}A1|{gBd}B1{e}A1 {GAG}A3/2B/2 {G}A3|]!
+
+X:15
+T:Twenty Men from Dublin
+C:Traditional
+M:4/4
+K:HP
+e1| \
+{g}A3{d}B1{G}A2{Gdc}d2|{gfg}f3{g}e1{Gdc}d4|{gBd}B3c1 {gef}e1d1 {gcd}c1{e}B1|{G}A4{GAG}A4|!
+{g}A3{d}B1{G}A2{Gdc}d2|{gfg}f3{g}e1{Gdc}d4|{gef}e3f1 {gf}g1e1 {gcd}c1{e}A1|{Gdc}d4{gdG}d4||!
+{gf}g2{a}f2{gef}e2{AGAG}A2|{gfg}f3{g}e1{Gdc}d4|{gBd}B3c1 {gef}e1d1 {gcd}c1{e}B1|{G}A4{GAG}A4|!
+{g}A3{d}B1{G}A2{Gdc}d2|{gfg}f3{g}e1{Gdc}d4|{gef}e3f1 {gf}g1e1 {gcd}c1{e}A1|{Gdc}d4{gdG}d3:|]
+
+%%newpage
+
+
+X:16
+T:Castle Dangerous
+M:3/4
+K:HP
+|:{Gdc}d3/2e/2 {gfg}f2{ag}a2 |{fg}f1d1 {g}G2{d}B2|{g}d3/2B/2 {G}A2{Gdc}d2|{g}f1a1{ef}e2-e2|!
+["2nd time 2nd part"!rbstop! {Gdc}d3/2e/2 {gfg}f2{ag}a2 |{fg}f1d1{g}G2{d}B2|{g}d3/2B/2 {G}A2{gfg}f2|{gf}g1c1{Gdc}d2{gdG}d2:|!
+|:{g}f3/2g/2{ag}a2{fg}f1a1   |{fg}f1d1{g}G2{d}B2|{g}d3/2B/2{G}A2{Gdc}d2|{g}f1a1{ef}e2-e2|!
+["1st time 2nd part"!rbstop! {g}f3/2g/2{ag}a2{fg}f1a1    |{fg}f1d1{g}G2{d}B2|{g}d3/2B/2{G}A2{gfg}f2|{gf}g1c1{Gdc}d2{gdG}d2:|!
+
+X:17
+T:Dream Valley of Glendaruel
+M:3/4
+K:HP
+|:{g}A3/2B/2{Gdc}d2{G}A2|{g}f3/2g/2{ag}a2{Gdc}d2|{g}e3/2f/2{gf}g3B1|{g}f1d1 {g}f1g3/4f/4{g}e2|!
+  {g}f3/2e/2 {Gdc}d1f1{AGAG}A2|{ag}a3/2g/2 {a}f1a1{Gdc}d2|{g}d3/2c/2{gBd}B2{g}G1{gf}g1|{a}e3/2c/2{Gdc}d4:|!
+|:{g}f3/2g/2{ag}a2{Gdc}d2|{gf}g1f1{gfg}f2{g}e2|{g}f3/2g/2{ag}a2{Gdc}d3/2c/2|{gBd}B1e1 {gcd}c2{G}A2|!
+  {g}f3/2e/2 {Gdc}d1f1{AGAG}A2|{ag}a3/2g/2 {a}f1a1{Gdc}d2 |{g}d3/2c/2{gBd}B2{g}G1{gf}g1 |  {a}e3/2c/2{Gdc}d4 :|]!
+
+%% newpage 
+
+X:18
+T:Green Hills of Tyrol
+C:J. MacLeod
+M:3/4
+K:HP
+|:{g}A3/2B/2{GdG}c2{gcd}c1{e}A1|{g}c1{Gdc}d1{gef}e2{A}e1f1|{gcd}c1f1 {gef}e3/2c/2{g}B2|{GdGe}B1f1 {gef}e3/2c/2{G}A2|!
+{g}A3/2B/2{GdG}c2{gcd}c1{e}A1|{g}c1{Gdc}d1{gef}e2{A}e1f1|{gcd}c1f1 {gef}e3/2c/2{g}B2|{GdGe}B1A1 {gcd}c3/2B/2{G}A2:|!
+|:{gcd}c1e1{ag}a2{g}a2|{f}g1f1 {gfg}f1e1{A}e2|{g}e3/2f/2 {gef}e1d1{gdG}d2|{g}d3/2e/2 {gde}d1c1{GdG}c2|!
+{gcd}c1e1{ag}a2{g}a2|{f}g1f1 {gfg}f1e1{A}e2|{g}e3/2f/2{gef}e2{A}e3/2d/2|{g}c3/2d/2{gef}e2{A}e2:|
+
+X:19
+T:When the Battle's O'er
+C:W. Robb
+M:3/4
+K:HP
+|:{g}A3/2B/2{GdG}c2{ag}a2|{fg}f1e1{gcd}c2{G}A2|{g}A3/2B/2{GdG}c2 {gef}e3/2c/2|{gBd}B1{G}A1{GdG}B4|!
+{g}A3/2B/2{GdG}c2{ag}a2|{fg}f1e1{gcd}c2{G}A2|{g}A3/2B/2{GdG}c2{gef}e3/2c/2|{g}B3/2c/2{G}A4:|!
+|:
+{gef}e3/2c/2{gBd}B2{G}A2|{ag}a3/2g/2{fg}f2{g}e2|{g}A3/2B/2{GdG}c2{gef}e3/2c/2|{gBd}B1{G}A1{GdG}B4|!
+{gef}e3/2c/2{gBd}B2{G}A2|{ag}a3/2g/2{fg}f2{g}e2|{g}A3/2B/2{GdG}c2{gef}e3/2c/2|{g}B3/2c/2{G}A4:|
+
+%%newpage
+
+
+X:20
+T:Flett From Flotta
+C:P/M Donald MacLeod
+M:4/4
+K:HP
+{g}f3/2e/2|\
+{gcd}c3/2e/2 {gcd}c1{e}B1{gcd}c2{e}A1{d}c1|{g}e3/2f/2 {gef}e1c1{gef}e2{gcd}c1e1|{gfg}f3/2e/2 {g}f1a1{fg}f2{gef}e1c1|{gfg}f3/2e/2 {gcd}c1{e}A1{GdG}B2{g}f3/2e/2|!
+{gcd}c3/2e/2 {gcd}c1{e}B1{gcd}c2{e}A1{d}c1|{g}e3/2f/2 {gef}e1c1{ag}a2A3/2B/2|{GdG}c2{ag}a2e/2{g}c3/2 {e}B3/2{d}c/2|{g}A4{GAG}A2 ||!
+{g}A1{d}c1|{gef}e2{g}A1{d}c1{ag}a2A1{d}c1|{g}e3/2f/2 {gef}e1c1{gef}e2{g}A1{d}c1|{ag}a2A1{d}c1{gef}e2{gcd}c1e1|{gfg}f3/2e/2 {gcd}c1{e}A1{GdG}B2{g}f3/2e/2|!
+{gcd}c3/2e/2 {gcd}c1{e}B1{gcd}c2{e}A1{d}c1|{g}e3/2f/2 {gef}e1c1{ag}a2A3/2B/2|{GdG}c2{ag}a2e/2{g}c3/2 {e}B3/2{d}c/2|{g}A4{GAG}A3|]
+
+
+X:21
+T:Sally Wilson
+M:4/4
+K:HP
+e|{g}c3/2d/2 {g}e1c1{gBd}B2{G}A1{d}c1|{Gdc}d3/2{g}f/2 a1f1{gef}e4|{g}f3/2g/2 {ag}a3/2f/2 {g}e1c1 {gBd}B1{e}A1|{g}B4{GdGe}B3e1|!
+{g}c3/2d/2 {g}e1c1{gBd}B2{G}A1{d}c1|{Gdc}d3/2{g}f/2 a1f1{gef}e2{g}c3/2d/2|{gef}e2{g}c1e1 {gde}d3/2B/2 {g}G1{d}B1|{g}A4{GAG}A3 ||!
+e1 | {ag}a3/2g/2 {a}f1a1{ef}e2{gcd}c1e1|{g}f3/2g/2 a1f1{gef}e4|{g}f3/2g/2 {ag}a3/2f/2 {g}e1c1 {gBd}B1{e}A1|{g}B4{GdGe}B3e1|!
+{g}c3/2d/2 {g}e1c1{gBd}B2{G}A1{d}c1|{Gdc}d3/2{g}f/2 a1f1{gef}e2{g}c3/2d/2|{gef}e2{g}c1e1 {gde}d3/2B/2 {g}G1{d}B1|{g}A4{GAG}A3|]
+
+%%newpage
+
+X:22
+T:Shoshanna's Lullaby
+C:Ian Lyons
+M:6/4
+K:HP
+{g}ed {gcd}c2-c2 {g}c{d}A{GdG}B2-B2| {g}ce{g}f2-fa f/2{g}e3/2 {gfg}f2{g}e2-|ed{gcd}c2{e}A2-AB {g}ce {Gdc}d2-|dc{gBd}B2-B2{g}c{d}A{GdG}B2-B2|!
+{g}ed{gcd}c2-ce {g}c{d}A {Gdc}d2 {g}c2- | cd{gef}e2-e2 ae {gfg} f2-f2| {g}ed {gcd}c2{e}A2{g}ce{Gdc}d2-dB | {g}G{d}B{g}A2-A2{GAG}A2{d}A2-A2 ||!
+{g}fg {ag}a2-a2 {g}ae {g}f2-f2| a2 e2-ef {g}eB {GdG}c2-c2 | {g}cB {g}A2{GAG}A2{g}AB {g}ce {Gdc}d2-|dc{gBd}B2-B2{g}c{d}A{GdG}B2-B2|!
+{g}ed{gcd}c2-ce {g}c{d}A {Gdc}d2 {g}c2- | cd{gef}e2-e2 ae {gfg} f2-f2| {g}ed {gcd}c2{e}A2{g}ce{Gdc}d2-dB | {g}G{d}B{g}A2-A2{GAG}A2{d}A2-A2 |]!
+
+X:23
+T:Amazing Grace
+M:3/4
+K:HP
+|:{g}Ad|{gdG}d4{g}f1e/2d/2|{g}f4{g}f1e1|{Gdc}d4{g}B2|{G}A4{g}Ad|!
+{gdG}d4{g}f1e/2d/2|{g}f4{g}e1f1|{ag}a6|{g}a4f1a1|!
+{g}a4f1e/2d/2|{g}f4{g}f1e|{Gdc}d4{g}B2|{G}A4{g}Ad|!
+{gdG}d4{g}f1e/2d/2|{g}f4{g}e2|1 !rbstop! {Gdc}d6|{gdG}d4:|2 !rbstop! {gef}e6|{Gdc}d6|]
+
+%%newpage
+
+X:24
+T:P/M Angus MacDonald's Unknown Jig
+R:Jig
+M:6/8
+K:HP
+|:{g}Ad{c}d {g}fd{c}d | {g}fge {g}fd{c}d | {g}Ad{c}d {g}def | ge{A}e {g}edB |!
+  {g}Ad{c}d {g}fd{c}d | {g}fge {g}fd{c}d | {g}fa{g}a gec | {g}ed{c}d {g}d3 :|!
+|:aA{d}A {g}fd{c}d | gA{d}A {g}ec{G}c | aA{d}A {g}def | ge{A}e {g}efg |!
+  aA{d}A {g}fd{c}d | gA{d}A {g}ec{G}c | {g}fa{g}a gec | {g}ed{c}d {g}d3 :|!
+  
+X:25
+T:Scarce O' Tatties
+C:Traditional 
+M:6/8
+K:HP
+|:{g}A2e {A}efg | {ef}e2B {g}dBG | {g}A2e {A}efg | {a}dBG {d}A3 |!
+{ag}a3 {f}g3 | {a}fgf {g}eA{d}A |  {g}Ae{A}e {A}efg | {a}dBG {d}A3 :|!
+|: aeg {ag}a2f | {gf}g2f {g}eA{d}A | aeg {ag}a2f |{gf}g2f {g}e3 |!
+{g}e2{A}e {g}A{d}A{e}A | {Gdc}d2f {g}fe{A}e | {g}Ae{A}e {g}efg | {a}dBG {d}A3 :|!
