@@ -4,7 +4,6 @@ I:abc-include piping.abh
 % http://moinejf.free.fr/abcm2ps-doc/features.xhtml
 % http://richardrobinson.tunebook.org.uk/static/abcprogs/abcplus_en.pdf
 % trillian.mit.edu/~jc/doc/doc/abc2midi.txt
-% https://web.archive.org/web/20180501153241/http://abcnotation.com:80/wiki/abc:standard:v2.1
 % https://www.bbc.co.uk/programmes/b007jdhn
 
 X:1
@@ -30,19 +29,19 @@ R:air
 S:transcribed from Seumas MacNeill's recording.
 % s: !pp! ** !f!
 % U: T = !trill!
-V:1 clef=treble stem=down
+V:1 clef=treble
 % W:lyrics after tune
 % w:lyrics aligned with notes
 Z:abc-transcription Kevin Griffin, Jan 1, 2019
-K:AMix
+K:Hp
 %%MIDI gracedivider 8
 %%MIDI drone 70 45 33 70 70
 %%MIDI drum ddd 76 77 77 100 100 100
 %%MIDI droneon
 %%MIDI drumon
 % still working on transcribing gracenotes and embellishments
-A3/2B1/2 {gef}e2 {g}e2 | f3/2d/ e2 A2 | A3/2B1/2 {gef}e2 {g}e2 | f3/2e/ {Gdc}d2 G3/2B/ |
-{Gdc}d3/2B/ {Gdc}d2 e3/2d/ | {gBe}B/A3/2 {gAe}A/G3/2 A3/2B1/2 | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 :|
-|: A3/2B1/2 e2 {ag}a2 | g3/2e/ {g}e3/2d/ B/A3/2 | A3/2B1/2 e2 {ag}a2 | g/f/e/d/ g2 G3/2B/ |
-[1  {Gdc}d3/2B/ {Gdc}d2 e3/2d/ | {gBe}B/A3/2 {gAe}A/G3/2 A3/2B1/2 | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 :|
-[2  {Gdc}d3/2B/ {Gdc}d2 ef/g/ | {Be}B/A3/2 {gAe}A/G3/2 g3/2f/ | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 |]
+A3/2B1/2 {gef}e2 {g}e2 | f3/2d/ e2 A2 | A3/2B1/2 {gef}e2 {g}e2 | f3/2e/ {Gdc}d2 G2 |
+B/{Gdc}d3/2 B/{Gdc}d3/2 e3/2d/ | {gBe}B/A3/2 {gAe}A/G3/2 A3/2B1/2 | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 :|
+|: A3/2B1/2 e2 {ag}a2 | g3/2e/ {g}e3/2d/ B/A3/2 | A3/2B1/2 e2 {ag}a2 | g/f/e/d/ g2 G2 |
+[1  B/{Gdc}d3/2 B/{Gdc}d3/2 e3/2d/ | {gBe}B/A3/2 {gAe}A/G3/2 A3/2B1/2 | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 :|
+[2  B/{Gdc}d3/2 B/{Gdc}d3/2 ef/g/ | {Be}B/A3/2 {gAe}A/G3/2 g3/2f/ | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 |]
