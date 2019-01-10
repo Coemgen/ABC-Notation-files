@@ -63,7 +63,7 @@ K:AMix
 %%MIDI drum dddd 76 77 77 77 100 100 100 100
 %%MIDI droneon
 %%MIDI drumon
-c2 d2 c4 | BG B2 A4 | A>B c2 f2 e2 | c>A e2 B d3 ||$
+A>B c2 d2 c2 | BG B2 A4 | A>B c2 f2 e2 | c>A e2 B d3 ||$
 c>A e2 d2 c2 | BG B2 A4 |: A>B c2 f2 e2 | c>A e2 B d3 |$
 [1 c>G B2 A>B c2 | c2 e2 B d3 || c>A e2 d2 c2 | BG B2 A4 :|$
 %%MIDI droneoff
