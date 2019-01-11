@@ -1,0 +1,16 @@
+I:linebreak $
+ 
+X:1
+T:Irish Set
+M:4/4
+K:HP
+%%MIDI gracedivider 8
+P:Minstrel Boy
+|: e1 |{AGAG}A3B1 {Gdc}d1c1 {gBd}B1{e}A1|{gcd}c2e2{ag}a2g1a1|{fg}f2{g}e2{g}c2{GdG}e1c1 |1!rbstop! {gBd}B4{G}A3 :|2!rbstop!  {gBd}B4{G}A2 |$
+{gcd}c1e1 |{ag}a2{f}g2{a}f2{gf}g1a1|{f}g2f2{gef}e3{A}e1|{g}f3c1{GdG}c3e1|{g}f2{GdG}f1g1a2{g}a2|$
+{AGAG}A3B1 {Gdc}d1c1 {gBd}B1{e}A1|{gcd}c2e2{ag}a2g1a1|{fg}f2{g}e2{g}c2{GdG}e1c1|{gBd}B4{G}A2|]$
+P:Wearing of the Green
+|:{g}A3/2B/2|{GdG}c2 {gcd}c1{e}B1 {gcd}c1e1 {A}e1c1 | {gcd}c1{e}B1 {gBd}B1{e}A1{gBd}B2{gcd}c1e1|{gfg}f1d1 {ag}a3/2g/2 {fg}f1e1 {gcd}c1{e}A1|{gBd}B1{e}A1 {GAG}A3/2B/2{G}A2:|$
+a3/2g/2|
+{fg}f1e1 {A}e1c1 {gef}e1c1 {g}A3/2B/2|{gcd}c1{e}B1 {gcd}c1d1{gcd}c2{ag}a3/2g/2|{fg}f1e1 {A}e1c1 {gef}e1c1 {g}A3/2B/2|{gcd}c1{e}B1 {gBd}B3/2c/2{gBd}B2{g}A3/2B/2|$
+{GdG}c2 {gcd}c1{e}B1 {gcd}c1e1 {A}e1c1|{gcd}c1{e}B1 {gBd}B1{e}A1{gBd}B2{gcd}c1e1|{gfg}f1d1 {ag}a3/2g/2 {fg}f1e1 {gcd}c1{e}A1|{gBd}B1{e}A1 {GAG}A3/2B/2 {G}A3|]$
