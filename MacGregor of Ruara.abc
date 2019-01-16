@@ -61,42 +61,34 @@ K:Hp
 {ed}B2 {gAe}A/{e}G3/2 {g}A2 | {GdG}B2 {G}A2 |]
 
 X:4
-T:MacGregor of Huara
-M:3/4
+T:MacGregor of Huara [sic]
+D:Highland Bagpipes, Seumas MacNeill, 1970
+I:linebreak $
 L:1/8
-Q:1/4=40
-N:This tune is also known as MacGregor of Roro, MacGregor of Ruara, MacGregor's Search, MacGregor o Ruadh Shruth, etc.
-N:It's likely that Huara is a misspelling of Ruara.
-S:Seumas MacNeill's 1970 record "Highland Bagpipes."
+M:3/4
+N:Huara appears to be a misspelling of Ruara.
+O:Scotland
+Q:"larghissimo" 1/4=40
+R:air
+S:transcribed from Seumas MacNeill's recording.
+V:1 clef=treble stem=down
 Z:abc-transcription Kevin Griffin, Jan 1, 2019
-K:Hp
-A3/2B1/2 {gef}e2 {g}e2 | f3/2d/ e2 A2 | A3/2B1/2 {gef}e2 {g}e2 | f3/2e/ {Gdc}d2 G2 |
-w: hin-to    edre     he ve-a  he en  hin-to      edre      he   ve-e  tra em
-B/{Gdc}d3/2 B/{Gdc}d3/2 e3/2d/ | {gBe}B/A3/2 {gAe}A/G3/2 A3/2B1/2 | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 :|
-w:    o tra    o tra      e-a       hio-en      hin-em    hin-to        he a-o-a-o        em   hin  dro   en
-|: A3/2B1/2 e2 {ag}a2 | g3/2e/ {g}e3/2d/ B/A3/2 | A3/2B1/2 e2 {ag}a2 | g/f/e/d/ g2 G2 |
-w:  hin-to  e   dili     i  e     he-a   o-en      hin-to   e  dili    i-ve-e-a i em
-[1  B/{Gdc}d3/2 B/{Gdc}d3/2 e3/2d/ | {gBe}B/A3/2 {gAe}A/G3/2 A3/2B1/2 | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 :|
-w:      o tra   o       tra e  a        hio-en      hin-em    hin-to     he a-o-a-o        em   hin  dro   en
-[2  B/{Gdc}d3/2 B/{Gdc}d3/2 ef/g/ | {Be}B/A3/2 {gAe}A/G3/2 g3/2f/ | e3/2d/ B/d3/2 B/G3/2 | A2 {GdG}B2 A2 |]
-w:      o tra   o       tra e  ve-di     hio-en      hin-em i-ve    e  a  -to-a-to    em   hin to     en
-
-X:5
-T:MacGregor of Huara (for MuseScore)
-M:3/4
-L:1/8
-Q:1/4=40
-K:D
-A3/2B1/2 {/gef}e2 {/g}e2 | f3/2d/ e2 A2 | A3/2B1/2 {/gef}e2 {/g}e2 | f3/2e/ {/Gdc}d2 G2 |
-w: hin-to    edre     he ve-a  he en  hin-to      edre      he   ve-e  tra em
-B/{/Gdc}d3/2 B/{/Gdc}d3/2 e3/2d/ | {/gBe}B/A3/2 {/gAe}A/G3/2 A3/2B1/2 | e3/2d/ B/d3/2 B/G3/2 | A2 {/GdG}B2 A2 :|
-w:    o tra    o tra      e-a       hio-en      hin-em    hin-to        he a-o-a-o        em   hin  dro   en
-|: A3/2B1/2 e2 {/ag}a2 | g3/2e/ {/g}e3/2d/ B/A3/2 | A3/2B1/2 e2 {/ag}a2 | g/f/e/d/ g2 G2 |
-w:  hin-to  e   dili     i  e     he-a   o-en      hin-to   e  dili    i-ve-e-a i em
-[1  B/{/Gdc}d3/2 B/{/Gdc}d3/2 e3/2d/ | {/gBe}B/A3/2 {/gAe}A/G3/2 A3/2B1/2 | e3/2d/ B/d3/2 B/G3/2 | A2 {/GdG}B2 A2 :|
-w:      o tra   o       tra e  a        hio-en      hin-em    hin-to     he a-o-a-o        em   hin  dro   en
-[2  B/{/Gdc}d3/2 B/{/Gdc}d3/2 ef/g/ | {/Be}B/A3/2 {/gAe}A/G3/2 g3/2f/ | e3/2d/ B/d3/2 B/G3/2 | A2 {/GdG}B2 A2 |]
-w:      o tra   o       tra e  ve-di     hio-en      hin-em i-ve    e  a  -to-a-to    em   hin to     en
+K:AMix
+%%MIDI gracedivider 8
+%%MIDI drone 70 45 33 70 70
+%%MIDI drum ddd 76 77 77 100 100 100
+%%MIDI droneon
+%%MIDI drumon
+{g}A3/2{d}B1/2 | {gef}e2 {g}e2 {g}f3/2d/ | {g}e2 {G}A2 {g}A3/2{d}B1/2 | \
+{gef}e2 {geA}e2 {g}f3/2e/ | {Gdc}d2 {e}G2 B/{Gdc}d3/2 |$
+B/{Gdc}d3/2 {g}e3/2d/ {gBe}B/A3/2 | {gAe}A/{e}G3/2 {g}A3/2{d}B1/2 {g}e3/2d/ | \
+{g}B/d3/2 {gBe}B/{e}G3/2 {g}A2 | {GdG}B2 {G}A2 :|$
+|: {g}A3/2{d}B1/2 | {g}e2 {ag}a2 g3/2e/ | {g}e3/2d/ {gBe}B/{e}A3/2 {g}A3/2{d}B1/2 | \
+{g}e2 {ag}a2 g/f/e/d/ | {gf}g2 G2 B/{Gdc}d3/2 |$
+|1 B/{Gdc}d3/2 {g}e3/2d/ {gBe}B/A3/2 | {gAe}A/{e}G3/2 {g}A3/2{d}B1/2 {g}e3/2d/ | \
+{g}B/d3/2 {gBe}B/{e}G3/2 {g}A2 | {GdG}B2 {G}A2 :|$
+|2 B/{Gdc}d3/2 {g}ef/g/ {Be}B/{e}A3/2 | {gAe}A/{e}G3/2 {a}g3/2f/ {g}e3/2d/ | \
+{g}B/d3/2 {gBe}B/{e}G3/2 {g}A2 | {GdG}B2 !rbstop! {G}A2 |]$
 
 X:6
 T:MacGregor of Ruaro's Lament
@@ -113,14 +105,3 @@ K:Hp
 {GdGc}d2 {g}e3/2d/ {Bd}B3/2{G}A/ | {g}A{d}G {gf}g2 {G}d/{A}e3/2 | {g}G2 {d}A2 {GdGc}d3/2c/ | {gBd}B2 {G}A2 :|$
 |: {gf}g3/2e/ | {ag}a2 {g}a2 {f}g3/2e/ | {GdGc}d2 {g}d2 {gf}g3/2e/ | {ag}a2 {g}a2 {f}g3/2e/ | {gf}g2 {GdGc}d2 {g}e3/2f/ |$
 {gf}g2 a2 {f}g3/2e/ [1 {GdGc}d2 {gf}g2 {a}e/g3/2 |2 {GdGc}d2 {ag}a2 e/f/g || {g}G2 {d}A2 {GdGc}d3/2c/ | {gBd}B2 {G}A2 :|
-
-X:7
-T:MacGregor of Ruaro's Lament (for MuseScore)
-M:3/4
-L:1/8
-Q:1/4=40
-K:D
-{/g}A3/2B/ | {/GdG}e2 {/A}e2 {/gef}e3/2d/ | {/g}e2 {/g}A2 {/g}A3/2B/ | {/GdG}e2 {/A}e2 {/gfg}f3/2e/ | {/g}e/d3/2 {/G}B/{/G}A3/2 {/g}A3/2B/2 |
-{/GdGc}d2 {/g}e3/2d/ {/Bd}B3/2{/G}A/ | {/g}A{/d}G {/gf}g2 {/G}d/{/A}e3/2 | {/g}G2 {/d}A2 {/GdGc}d3/2c/ | {/gBd}B2 {/G}A2 :|
-|: {/gf}g3/2e/ | {/ag}a2 {/g}a2 {/f}g3/2e/ | {/GdGc}d2 {/g}d2 {/gf}g3/2e/ | {/ag}a2 {/g}a2 {/f}g3/2e/ | {/gf}g2 {/GdGc}d2 {/g}e3/2f/ |
-{/gf}g2 a2 {/f}g3/2e/ [1 {/GdGc}d2 {/gf}g2 {/a}e/g3/2 |2 {/GdGc}d2 {/ag}a2 e/f/g || {/g}G2 {/d}A2 {/GdGc}d3/2c/ | {/gBd}B2 {/G}A2 :|

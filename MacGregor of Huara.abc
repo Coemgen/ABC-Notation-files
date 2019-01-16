@@ -39,13 +39,13 @@ K:AMix
 %%MIDI drum ddd 76 77 77 100 100 100
 %%MIDI droneon
 %%MIDI drumon
-{g}A3/2{d}B1/2 {gef}e2 {g}e2 | {g}f3/2d/ {g}e2 {G}A2 | {g}A3/2{d}B1/2 {gef}e2 \
-{geA}e2 | {g}f3/2e/ {Gdc}d2 {e}G2 |$
-B/{Gdc}d3/2 B/{Gdc}d3/2 {g}e3/2d/ | {gBe}B/A3/2 {gAe}A/{e}G3/2 {g}A3/2{d}B1/2 | \
-{g}e3/2d/ {g}B/d3/2 {gBe}B/{e}G3/2 | {g}A2 {GdG}B2 {G}A2 :|$
-|: {g}A3/2{d}B1/2 {g}e2 {ag}a2 | g3/2e/ {g}e3/2d/ {gBe}B/{e}A3/2 | {g}A3/2{d}B1/2 \
-{g}e2 {ag}a2 | g/f/e/d/ {gf}g2 G2 |$
-|1 B/{Gdc}d3/2 B/{Gdc}d3/2 {g}e3/2d/ | {gBe}B/A3/2 {gAe}A/{e}G3/2 {g}A3/2{d}B1/2 | \
-{g}e3/2d/ {g}B/d3/2 {gBe}B/{e}G3/2 | {g}A2 {GdG}B2 {G}A2 :|$
-|2 B/{Gdc}d3/2 B/{Gdc}d3/2 {g}ef/g/ | {Be}B/{e}A3/2 {gAe}A/{e}G3/2 {a}g3/2f/ | \
-{g}e3/2d/ {g}B/d3/2 {gBe}B/{e}G3/2 | {g}A2 {GdG}B2 !rbstop! {G}A2 |]$
+{g}A3/2{d}B1/2 | {gef}e2 {g}e2 {g}f3/2d/ | {g}e2 {G}A2 {g}A3/2{d}B1/2 | \
+{gef}e2 {geA}e2 {g}f3/2e/ | {Gdc}d2 {e}G2 B/{Gdc}d3/2 |$
+B/{Gdc}d3/2 {g}e3/2d/ {gBe}B/A3/2 | {gAe}A/{e}G3/2 {g}A3/2{d}B1/2 {g}e3/2d/ | \
+{g}B/d3/2 {gBe}B/{e}G3/2 {g}A2 | {GdG}B2 {G}A2 :|$
+|: {g}A3/2{d}B1/2 | {g}e2 {ag}a2 g3/2e/ | {g}e3/2d/ {gBe}B/{e}A3/2 {g}A3/2{d}B1/2 | \
+{g}e2 {ag}a2 g/f/e/d/ | {gf}g2 G2 B/{Gdc}d3/2 |$
+|1 B/{Gdc}d3/2 {g}e3/2d/ {gBe}B/A3/2 | {gAe}A/{e}G3/2 {g}A3/2{d}B1/2 {g}e3/2d/ | \
+{g}B/d3/2 {gBe}B/{e}G3/2 {g}A2 | {GdG}B2 {G}A2 :|$
+|2 B/{Gdc}d3/2 {g}ef/g/ {Be}B/{e}A3/2 | {gAe}A/{e}G3/2 {a}g3/2f/ {g}e3/2d/ | \
+{g}B/d3/2 {gBe}B/{e}G3/2 {g}A2 | {GdG}B2 !rbstop! {G}A2 |]$
