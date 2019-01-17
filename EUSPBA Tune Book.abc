@@ -1,5 +1,6 @@
 %abc-2.1
 %%linebreak !
+%%MIDI gracedivider 8
 
 X:1
 T:Amazing Grace
@@ -24,6 +25,7 @@ T:Brown Haired Maiden, The
 C:Traditional (RSPBA setting)
 M:2/4
 K:HP
+%%MIDI gracedivider 4
 |:A2|{Gdc}d3c1 {gBd}B2{e}A2|{Gdc}d4 {e}A3B1|{Gdc}d3e1 {gf}g2f2|{gfg}f2e2 {A}e2{gf}g2|!
    {a}f1a3 {fg}f2a2|{AGAG}A4{Gdc}d3e1|{g}f4{gf}g2{a}e2|{Gdc}d4{gdG}d2:|!
 |: {gf}g2 | {a}f1a3 {fg}f2a2|{AGAG}A4{Gdc}d3e1|{g}f2d2 {gf}g2f2|{gfg}f2e2 {A}e2{gf}g2|!
@@ -62,6 +64,7 @@ Z:Pipeline Pipeband
 L:1/8
 M:2/4
 K:HP
+%%MIDI gracedivider 4
 |:{g} e>f{g} eA |{gcd} c{e}A{g} e2 |{Gdc} d{g}f/2>e/2{Gdc} d{e}G |{gBd} B{e}G{Gdc} d2 |!
 {g} e>f{g} eA |{gcd} c{e}A{g} e2 |{g} A>B{gcd} c{e}A |{gBd} B2{G} A2 :|!
 |:{gcd} c{e}A{g} A>B | {gcd} c{e}A{gcd} c2 |{Gdc} d>c{g} B>c |{Gdc} d{e}B{Gdc} d2 |!
@@ -73,6 +76,7 @@ C:Traditional
 L:1/8
 M:2/4
 K:HP
+%%MIDI gracedivider 4
 |: {g}A/2>B/2 | {Gdc}d>e {g}fa | g/2>f/2{g}e/2>d/2 {g}f2 | {gfg}fe {gef}e{g}d/2>e/2 | {gfg}fe {gef}ed/2<{e}B/2 |!
 {Gdc}d>e {g}fa | g/2>f/2{g}e/2>d/2 {gfg}fe/2>f/2 | {Gdc}d{e}B {gBd}B{g}A/2>B/2 | {Gdc}d{e}B {gBd}B :|!
 |: {gf}g | {ag}ag/2<f/2 {gf}gf/2<e/2 | {gfg}f/2>e/2{g}d/2>e/2 {g}f2 | {gfg}fe {gef}e{g}d/2>e/2 | {gfg}fe {gef}e{gf}g |!
