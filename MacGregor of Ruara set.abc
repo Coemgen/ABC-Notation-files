@@ -1,72 +1,66 @@
-N:First heard on "Crunluath" played by Fin Moore (son of Hamish Moore).
-
 %abc-2.1
+N:First heard on "Crunluath" played by Fin Moore (son of Hamish Moore).
+%%MIDI program 109
+%%linebreak !
 
 X:1
 T:MacGregor's Search
 M:3/4
-I:linebreak $
 L:1/8
 Q:1/4=40
 R:retreat
 S:MacLeod's Tutor for the Highland Bagpipe
-K:Hp
-%%MIDI gracedivider 8
+K:AMix
 %%MIDI drone 70 45 33 70 70
 %%MIDI droneon
-e |: {g}A3/2B1/2 {GA}e2 {A}e2 | {gfg}f3/2d1/2 {g}fe {g}A2 | {g}A3/2B1/2 {GdA}e2 {A}e2 | {gfg}f3/2e1/2 {g}ed {e}G2 | 
-{dc}d3/2c1/2 {Gdc}d2 {g}ed |$
-{gBd}B3/2A1/2 {g}G2 {gf}g2 | {eg}e3/2d1/2 {g}B1/2d3/2 {g}G2 | {g}A2 {GBA}B2 {G}A2 :|: {gf}ge {ag}a2 {g}a2 |
-{gf}ge {g}e2 d{c}d |$
-{gf}ge a2 {g}a2 | {gf}ge {gf}g2 {a}G2 | {dc}dc {Gdc}d2 {g}eg | {dBd}B3/2A1/2 {g}G2 {gf}g2 |
-{eg}e3/2d1/2 {g}B1/2d3/2 {g}G2 | {g}A2 {GBA}B2 {g}A2 :|
+e |: {/g}A3/2B1/2 {/GA}e2 {/A}e2 | {/gfg}f3/2d1/2 {/g}fe {/g}A2 | {/g}A3/2B1/2 {/GdA}e2 {/A}e2 | {/gfg}f3/2e1/2 {/g}ed {/e}G2 | 
+{/dc}d3/2c1/2 {/Gdc}d2 {/g}ed |!
+{/gBd}B3/2A1/2 {/g}G2 {/gf}g2 | {/eg}e3/2d1/2 {/g}B1/2d3/2 {/g}G2 | {/g}A2 {/GBA}B2 {/G}A2 :|: {/gf}ge {/ag}a2 {/g}a2 |
+{/gf}ge {/g}e2 d{/c}d |!
+{/gf}ge a2 {/g}a2 | {/gf}ge {/gf}g2 {/a}G2 | {/dc}dc {/Gdc}d2 {/g}eg | {/dBd}B3/2A1/2 {/g}G2 {/gf}g2 |
+{/eg}e3/2d1/2 {/g}B1/2d3/2 {/g}G2 | {/g}A2 {/GBA}B2 {/g}A2 :|
 
 X:2
 T:MacGregor of Roro
 M:3/4
 L:1/8
-I:linebreak $
 Q:1/4=40
 S:The Edinburgh Collection of Highland Bagpipe Music
-K:Hp
-%%MIDI gracedivider 8
+K:AMix
 %%MIDI drone 70 45 33 70 70
 %%MIDI droneon
-{g}A3/2{GdG}B1/2 | {g}e2 {A}e2 {g}ed | {GdG}e2 {g}A2 {g}A3/2{GdG}B1/2 | {g}e2 {gf}g2 f1/2a3/2 |
-{GdGc}d2 {g}G2 {g}d1/2c3/2 | {GdGc}d2 {g}e3/2d1/2 {Bd}B3/2{G}A1/2|$
-{g}A{e}G {gf}g3/2f1/2 {g}e3/2d1/2 | {g}Bd {g}G2 {e}A2 | {GdG}B2 {G}A2 :|: {g}A3/2{GdG}B1/2 |
-{g}e2 {ag}a2 {f}g3/2f1/2 | {g}ed {Bd}B{G}A {g}A3/2{GdG}B1/2 |$ {g}e2 a2 {f}g3/2e1/2 | 
-{gf}g2 G2 {g}d1/2c3/2 {GdGc}d2 {g}e3/2d1/2 {Bd}B{G}A | {g}A3/2{e}G1/2 {gf}g3/2f1/2 {g}e3/2d1/2 |
-{g}Bd {g}G2 {e}A2 | {GdG}B2 {G}A2 :|
+{/g}A3/2{/GdG}B1/2 | {/g}e2 {/A}e2 {/g}ed | {/GdG}e2 {/g}A2 {/g}A3/2{/GdG}B1/2 | {/g}e2 {/gf}g2 f1/2a3/2 |
+{/GdGc}d2 {/g}G2 {/g}d1/2c3/2 | {/GdGc}d2 {/g}e3/2d1/2 {/Bd}B3/2{/G}A1/2|!
+{/g}A{/e}G {/gf}g3/2f1/2 {/g}e3/2d1/2 | {/g}Bd {/g}G2 {/e}A2 | {/GdG}B2 {/G}A2 :|: {/g}A3/2{/GdG}B1/2 |
+{/g}e2 {/ag}a2 {/f}g3/2f1/2 | {/g}ed {/Bd}B{/G}A {/g}A3/2{/GdG}B1/2 |! {/g}e2 a2 {/f}g3/2e1/2 | 
+{/gf}g2 G2 {/g}d1/2c3/2 {/GdGc}d2 {/g}e3/2d1/2 {/Bd}B{/G}A | {/g}A3/2{/e}G1/2 {/gf}g3/2f1/2 {/g}e3/2d1/2 |
+{/g}Bd {/g}G2 {/e}A2 | {/GdG}B2 {/G}A2 :|
 
 X:3
 T:MacGregor of Ruaro
 M:3/4
 L:1/8
-I:linebreak $
 Q:1/4=40
 S:Henderson's Tutor for the Bagpipe and Collection of Pipe Music
-K:Hp
-%%MIDI gracedivider 8
+K:AMix
 %%MIDI drone 70 45 33 70 70
 %%MIDI droneon
-{g}A3/2{d}B1/2 | {g}e3/2{A}e1/2 {g}e3/2f1/2 {g}d3/2f1/2 | {g}f1/2e3/2 A2 {g}A3/2{d}B1/2 | 
-{g}e2 {A}ef {a}ge1/2{g}e1/2 | d2 {e}G2 {dc}dB |$
-{Gdc}d2 {g}e3/2d1/2 {gBd}B{e}A | {eAd}A1/2{e}G3/2 {g}B1/2{G}B1/2d {g}e3/2d1/2 | 
-{ed}B2 {gAd}A1/2{e}G3/2 {g}A2 | {GdG}B2 {G}A2 :|$
-{g}A3/2{d}B1/2 | {g}e2 a2 ga | e2 {g}A2 {g}A3/2{GdG}B1/2 | {g}e2 a2 g/f/{g}e/d/ |
-{gf}g2 {a}G2 {dc}d{e}B |$
-{Gdc}d2 {g}e3/2d1/2 {gBd}B{G}A | {eAd}A1/2{d}G3/2 {g}B1/2{G}B1/2d {g}e3/2d1/2 | 
-{ed}B2 {gAd}A1/2{e}G3/2 {g}A2 | {GdG}B2 {G}A2 {g}A3/2B1/2 |$
-{g}e2 a2 ga | e2 {g}A2 {g}A3/2{GdG}B1/2 | {g}e2 a2 g/f/{g}e/d/ | 
-{gf}g2 {a}G2 {g}ed1/2{e}B1/2 |$
-{Gdc}d2 {g}e/f/g {Bd}B{e}A | {gAd}A/{e}G3/2 {g}B/{G}B/d {g}e3/2d/ | 
-{ed}B2 {gAe}A/{e}G3/2 {g}A2 | {GdG}B2 {G}A2 |]
+{/g}A3/2{/d}B1/2 | {/g}e3/2{/A}e1/2 {/g}e3/2f1/2 {/g}d3/2f1/2 | {/g}f1/2e3/2 A2 {/g}A3/2{/d}B1/2 | 
+{/g}e2 {/A}ef {/a}ge1/2{/g}e1/2 | d2 {/e}G2 {/dc}dB |!
+{/Gdc}d2 {/g}e3/2d1/2 {/gBd}B{/e}A | {/eAd}A1/2{/e}G3/2 {/g}B1/2{/G}B1/2d {/g}e3/2d1/2 | 
+{/ed}B2 {/gAd}A1/2{/e}G3/2 {/g}A2 | {/GdG}B2 {/G}A2 :|!
+{/g}A3/2{/d}B1/2 | {/g}e2 a2 ga | e2 {/g}A2 {/g}A3/2{/GdG}B1/2 | {/g}e2 a2 g/f/{/g}e/d/ |
+{/gf}g2 {/a}G2 {/dc}d{/e}B |!
+{/Gdc}d2 {/g}e3/2d1/2 {/gBd}B{/G}A | {/eAd}A1/2{/d}G3/2 {/g}B1/2{/G}B1/2d {/g}e3/2d1/2 | 
+{/ed}B2 {/gAd}A1/2{/e}G3/2 {/g}A2 | {/GdG}B2 {/G}A2 {/g}A3/2B1/2 |!
+{/g}e2 a2 ga | e2 {/g}A2 {/g}A3/2{/GdG}B1/2 | {/g}e2 a2 g/f/{/g}e/d/ | 
+{/gf}g2 {/a}G2 {/g}ed1/2{/e}B1/2 |!
+{/Gdc}d2 {/g}e/f/g {/Bd}B{/e}A | {/gAd}A/{/e}G3/2 {/g}B/{/G}B/d {/g}e3/2d/ | 
+{/ed}B2 {/gAe}A/{/e}G3/2 {/g}A2 | {/GdG}B2 {/G}A2 |]
 
 X:4
 T:MacGregor of Ruara
 D:Highland Bagpipes, Seumas MacNeill, 1970
-I:linebreak $
 L:1/8
 M:3/4
 N:Huara appears to be a misspelling of Ruara.
@@ -77,33 +71,30 @@ S:transcribed from Seumas MacNeill's recording.
 V:1 clef=treble stem=down
 Z:abc-transcription Kevin Griffin, Jan 1, 2019
 K:AMix
-%%MIDI gracedivider 8
 %%MIDI drone 70 45 33 70 70
 %%MIDI droneon
-{g}A3/2{d}B1/2 | {gef}e2 {g}e2 {g}f3/2d/ | {g}e2 {G}A2 {g}A3/2{d}B1/2 | \
-{gef}e2 {geA}e2 {g}f3/2e/ | {Gdc}d2 {e}G2 B/{Gdc}d3/2 |$
-B/{Gdc}d3/2 {g}e3/2d/ {gBe}B/A3/2 | {gAe}A/{e}G3/2 {g}A3/2{d}B1/2 {g}e3/2d/ | \
-{g}B/d3/2 {gBe}B/{e}G3/2 {g}A2 | {GdG}B2 {G}A2 :|$
-|: {g}A3/2{d}B1/2 | {g}e2 {ag}a2 g3/2e/ | {g}e3/2d/ {gBe}B/{e}A3/2 {g}A3/2{d}B1/2 | \
-{g}e2 {ag}a2 g/f/e/d/ | {gf}g2 G2 B/{Gdc}d3/2 |$
-|1 B/{Gdc}d3/2 {g}e3/2d/ {gBe}B/A3/2 | {gAe}A/{e}G3/2 {g}A3/2{d}B1/2 {g}e3/2d/ | \
-{g}B/d3/2 {gBe}B/{e}G3/2 {g}A2 | {GdG}B2 {G}A2 :|$
-|2 B/{Gdc}d3/2 {g}ef/g/ {Be}B/{e}A3/2 | {gAe}A/{e}G3/2 {a}g3/2f/ {g}e3/2d/ | \
-{g}B/d3/2 {gBe}B/{e}G3/2 {g}A2 | {GdG}B2 !rbstop! {G}A2 |]$
+{/g}A3/2{/d}B1/2 | {/gef}e2 {/g}e2 {/g}f3/2d/ | {/g}e2 {/G}A2 {/g}A3/2{/d}B1/2 | \
+{/gef}e2 {/geA}e2 {/g}f3/2e/ | {/Gdc}d2 {/e}G2 B/{/Gdc}d3/2 |!
+B/{/Gdc}d3/2 {/g}e3/2d/ {/gBe}B/A3/2 | {/gAe}A/{/e}G3/2 {/g}A3/2{/d}B1/2 {/g}e3/2d/ | \
+{/g}B/d3/2 {/gBe}B/{/e}G3/2 {/g}A2 | {/GdG}B2 {/G}A2 :|!
+|: {/g}A3/2{/d}B1/2 | {/g}e2 {/ag}a2 g3/2e/ | {/g}e3/2d/ {/gBe}B/{/e}A3/2 {/g}A3/2{/d}B1/2 | \
+{/g}e2 {/ag}a2 g/f/e/d/ | {/gf}g2 G2 B/{/Gdc}d3/2 |!
+|1 B/{/Gdc}d3/2 {/g}e3/2d/ {/gBe}B/A3/2 | {/gAe}A/{/e}G3/2 {/g}A3/2{/d}B1/2 {/g}e3/2d/ | \
+{/g}B/d3/2 {/gBe}B/{/e}G3/2 {/g}A2 | {/GdG}B2 {/G}A2 :|!
+|2 B/{/Gdc}d3/2 {/g}ef/g/ {/Be}B/{/e}A3/2 | {/gAe}A/{/e}G3/2 {/a}g3/2f/ {/g}e3/2d/ | \
+{/g}B/d3/2 {/gBe}B/{/e}G3/2 {/g}A2 | {/GdG}B2 !rbstop! {/G}A2 |]!
 
 X:6
 T:MacGregor of Ruaro's Lament
 M:3/4
-I:linebreak $
 L:1/8
 Q:1/4=40
 R:retreat
 S:David Glen's Collection of Highland Bagpipe Music
-K:Hp
-%%MIDI gracedivider 8
+K:AMix
 %%MIDI drone 70 45 33 70 70
 %%MIDI droneon
-{g}A3/2B/ | {GdG}e2 {A}e2 {gef}e3/2d/ | {g}e2 {g}A2 {g}A3/2B/ | {GdG}e2 {A}e2 {gfg}f3/2e/ | {g}e/d3/2 {G}B/{G}A3/2 {g}A3/2B/2 |$
-{GdGc}d2 {g}e3/2d/ {Bd}B3/2{G}A/ | {g}A{d}G {gf}g2 {G}d/{A}e3/2 | {g}G2 {d}A2 {GdGc}d3/2c/ | {gBd}B2 {G}A2 :|$
-|: {gf}g3/2e/ | {ag}a2 {g}a2 {f}g3/2e/ | {GdGc}d2 {g}d2 {gf}g3/2e/ | {ag}a2 {g}a2 {f}g3/2e/ | {gf}g2 {GdGc}d2 {g}e3/2f/ |$
-{gf}g2 a2 {f}g3/2e/ [1 {GdGc}d2 {gf}g2 {a}e/g3/2 |2 {GdGc}d2 {ag}a2 e/f/g || {g}G2 {d}A2 {GdGc}d3/2c/ | {gBd}B2 {G}A2 :|
+{/g}A3/2B/ | {/GdG}e2 {/A}e2 {/gef}e3/2d/ | {/g}e2 {/g}A2 {/g}A3/2B/ | {/GdG}e2 {/A}e2 {/gfg}f3/2e/ | {/g}e/d3/2 {/G}B/{/G}A3/2 {/g}A3/2B/2 |!
+{/GdGc}d2 {/g}e3/2d/ {/Bd}B3/2{/G}A/ | {/g}A{/d}G {/gf}g2 {/G}d/{/A}e3/2 | {/g}G2 {/d}A2 {/GdGc}d3/2c/ | {/gBd}B2 {/G}A2 :|!
+|: {/gf}g3/2e/ | {/ag}a2 {/g}a2 {/f}g3/2e/ | {/GdGc}d2 {/g}d2 {/gf}g3/2e/ | {/ag}a2 {/g}a2 {/f}g3/2e/ | {/gf}g2 {/GdGc}d2 {/g}e3/2f/ |!
+{/gf}g2 a2 {/f}g3/2e/ [1 {/GdGc}d2 {/gf}g2 {/a}e/g3/2 |2 {/GdGc}d2 {/ag}a2 e/f/g || {/g}G2 {/d}A2 {/GdGc}d3/2c/ | {/gBd}B2 {/G}A2 :|
