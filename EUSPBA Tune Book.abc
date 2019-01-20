@@ -1,144 +1,136 @@
 %abc-2.1
 %%linebreak !
-%%MIDI gracedivider 8
+%%MIDI program 109
 
 X:1
 T:Amazing Grace
 M:3/4
-K:HP
-|:{g}Ad|{gdG}d4{g}f1e/2d/2|{g}f4{g}f1e1|{Gdc}d4{g}B2|{G}A4{g}Ad|!
-{gdG}d4{g}f1e/2d/2|{g}f4{g}e1f1|{ag}a6|{g}a4f1a1|!
-{g}a4f1e/2d/2|{g}f4{g}f1e|{Gdc}d4{g}B2|{G}A4{g}Ad|!
-{gdG}d4{g}f1e/2d/2|{g}f4{g}e2|1 {Gdc}d6|{gdG}d4:|2 {gef}e6|{Gdc}d6|]
+K:D
+|:{/g}Ad|{/gdG}d4{/g}f1e/2d/2|{/g}f4{/g}f1e1|{/Gdc}d4{/g}B2|{/G}A4{/g}Ad|!
+{/gdG}d4{/g}f1e/2d/2|{/g}f4{/g}e1f1|{/ag}a6|{/g}a4f1a1|!
+{/g}a4f1e/2d/2|{/g}f4{/g}f1e|{/Gdc}d4{/g}B2|{/G}A4{/g}Ad|!
+{/gdG}d4{/g}f1e/2d/2|{/g}f4{/g}e2|1 {/Gdc}d6|{/gdG}d4:|2 {/gef}e6|{/Gdc}d6|]
 
 X:2
 T:Bonnie Dundee
 M:6/8
-K:HP
-|:{g}c/4d3/4|{g}e2{GdG}e1 {gef}e3/2{g}c/2e1|a3/2g/2{a}f1 {gef}e2d1|{g}c/2e3/2{g}A1 {g}c/2e3/2c1|{g}B2{GdGe}B1 {gBd}B3/2{g}c/2d1|!
-{g}e2{GdG}e1 {gef}e3/2{g}c/2e1|a3/2g/2{a}f1{gef}e2d1|{g}c/2e3/2{g}A1 {g}c/2e3/2c1|{g}A2{GdGe}A1{GAG}A2:|!
-|:G1|{g}A2{GdGe}A1{Gdc}d2c1|{g}B2{GdGe}B1{gBd}B3|{g}B2{GdGe}B1 {g}B3/2c/2d1|{g}c2{GdGe}c1{gcd}c2{e}A1|!
-{gcd}c3/2{e}B/2{d}c1 {Gdc}d3/2{g}c/2d1|{g}e2{GdG}e1 {gfg}f3/2e/2d1|{g}c/2e3/2{g}A1 {g}c/2e3/2c1|{g}A2{GdGe}A1{GAG}A2:|
+K:D
+|:{/g}c/4d3/4|{/g}e2{/GdG}e1 {/gef}e3/2{/g}c/2e1|a3/2g/2{/a}f1 {/gef}e2d1|{/g}c/2e3/2{/g}A1 {/g}c/2e3/2c1|{/g}B2{/GdGe}B1 {/gBd}B3/2{/g}c/2d1|!
+{/g}e2{/GdG}e1 {/gef}e3/2{/g}c/2e1|a3/2g/2{/a}f1{/gef}e2d1|{/g}c/2e3/2{/g}A1 {/g}c/2e3/2c1|{/g}A2{/GdGe}A1{/GAG}A2:|!
+|:G1|{/g}A2{/GdGe}A1{/Gdc}d2c1|{/g}B2{/GdGe}B1{/gBd}B3|{/g}B2{/GdGe}B1 {/g}B3/2c/2d1|{/g}c2{/GdGe}c1{/gcd}c2{/e}A1|!
+{/gcd}c3/2{/e}B/2{/d}c1 {/Gdc}d3/2{/g}c/2d1|{/g}e2{/GdG}e1 {/gfg}f3/2e/2d1|{/g}c/2e3/2{/g}A1 {/g}c/2e3/2c1|{/g}A2{/GdGe}A1{/GAG}A2:|
 
 X:3
 T:Brown Haired Maiden, The
 C:Traditional (RSPBA setting)
 M:2/4
-K:HP
-%%MIDI gracedivider 3
-|:A2|{Gdc}d3c1 {gBd}B2{e}A2|{Gdc}d4 {e}A3B1|{Gdc}d3e1 {gf}g2f2|{gfg}f2e2 {A}e2{gf}g2|!
-   {a}f1a3 {fg}f2a2|{AGAG}A4{Gdc}d3e1|{g}f4{gf}g2{a}e2|{Gdc}d4{gdG}d2:|!
-|: {gf}g2 | {a}f1a3 {fg}f2a2|{AGAG}A4{Gdc}d3e1|{g}f2d2 {gf}g2f2|{gfg}f2e2 {A}e2{gf}g2|!
-[1 {a}f1a3 {fg}f2a2|{AGAG}A4{Gdc}d3e1|{g}f4{gf}g2{a}e2|{Gdc}d4{gdG}d2:|!
-[2 {ag}a3g {fg}f2a2|{AGAG}A4{Gdc}d3e1|{g}f4{gf}g2{a}e2|{Gdc}d4{gdG}d2|]
+K:D
+|:A2|{/Gdc}d3c1 {/gBd}B2{/e}A2|{/Gdc}d4 {/e}A3B1|{/Gdc}d3e1 {/gf}g2f2|{/gfg}f2e2 {/A}e2{/gf}g2|!
+   {/a}f1a3 {/fg}f2a2|{/AGAG}A4{/Gdc}d3e1|{/g}f4{/gf}g2{/a}e2|{/Gdc}d4{/gdG}d2:|!
+|: {/gf}g2 | {/a}f1a3 {/fg}f2a2|{/AGAG}A4{/Gdc}d3e1|{/g}f2d2 {/gf}g2f2|{/gfg}f2e2 {/A}e2{/gf}g2|!
+[1 {/a}f1a3 {/fg}f2a2|{/AGAG}A4{/Gdc}d3e1|{/g}f4{/gf}g2{/a}e2|{/Gdc}d4{/gdG}d2:|!
+[2 {/ag}a3g {/fg}f2a2|{/AGAG}A4{/Gdc}d3e1|{/g}f4{/gf}g2{/a}e2|{/Gdc}d4{/gdG}d2|]
 
 X:4
 T:Glendaruel Highlanders
 L:1/8
 M:6/8
-K:HP
-|: e | {g}A2 {GdGe}A {g}A>B{GdG}c | {gef}e2 {GdG}e {gfg}f2 e | {gcd}c>{g}B{d}A {g}f<af |
-{gef}e3 {A}e>fa |!
-A2 {GdGe}A {g}A>B{GdG}c | {gef}e2 {GdG}e {gfg}f2 e | {g}f<ac {gef}e>dB |
-{g}A3 [1 {GAG}A2 :| [2 {GAG}A3/2 ] |!
-|: {g}e/2d | {gcd}c2 {e}A {g}c<eB | {gcd}c2 {e}A {GAG}A>{g}ce | {g}f2 {AGAG}A {g}f<af | 
-{gef}e2 [1 {A}e>fa ] [2 {A}e2 {gf}g ] |!
-[1 {cd}c2 {e}A {g}c<eB | {gcd}c2 {e}A {GAG}A>{g}ce | {g}f>ec {gef}e>dB |
-{g}A3 {GAG}A3/2 :|!
-[2 a>c{G}c {g}c>fe | {g}f>B{G}B {g}B>de | {g}f<ac {gef}e>dB |
-{g}A3 {GAG}A2 |]!
+K:D
+|: e | {/g}A2 {/GdGe}A {/g}A>B{/GdG}c | {/gef}e2 {/GdG}e {/gfg}f2 e | {/gcd}c>{/g}B{/d}A {/g}f<af |
+{/gef}e3 {/A}e>fa |!
+A2 {/GdGe}A {/g}A>B{/GdG}c | {/gef}e2 {/GdG}e {/gfg}f2 e | {/g}f<ac {/gef}e>dB |
+{/g}A3 [1 {/GAG}A2 :| [2 {/GAG}A3/2 ] |!
+|: {/g}e/2d | {/gcd}c2 {/e}A {/g}c<eB | {/gcd}c2 {/e}A {/GAG}A>{/g}ce | {/g}f2 {/AGAG}A {/g}f<af | 
+{/gef}e2 [1 {/A}e>fa ] [2 {/A}e2 {/gf}g ] |!
+[1 {/cd}c2 {/e}A {/g}c<eB | {/gcd}c2 {/e}A {/GAG}A>{/g}ce | {/g}f>ec {/gef}e>dB |
+{/g}A3 {/GAG}A3/2 :|!
+[2 a>c{/G}c {/g}c>fe | {/g}f>B{/G}B {/g}B>de | {/g}f<ac {/gef}e>dB |
+{/g}A3 {/GAG}A2 |]!
 
 X:5
 T:Green Hills of Tyrol
 C:J. MacLeod
 M:3/4
-K:HP
-|:{g}A3/2B/2{GdG}c2{gcd}c1{e}A1|{g}c1{Gdc}d1{gef}e2{A}e1f1|{gcd}c1f1 {gef}e3/2c/2{g}B2|{GdGe}B1f1 {gef}e3/2c/2{G}A2|!
-{g}A3/2B/2{GdG}c2{gcd}c1{e}A1|{g}c1{Gdc}d1{gef}e2{A}e1f1|{gcd}c1f1 {gef}e3/2c/2{g}B2|{GdGe}B1A1 {gcd}c3/2B/2{G}A2:|!
-|:{gcd}c1e1{ag}a2{g}a2|{f}g1f1 {gfg}f1e1{A}e2|{g}e3/2f/2 {gef}e1d1{gdG}d2|{g}d3/2e/2 {gde}d1c1{GdG}c2|!
-{gcd}c1e1{ag}a2{g}a2|{f}g1f1 {gfg}f1e1{A}e2|{g}e3/2f/2{gef}e2{A}e3/2d/2|{g}c3/2d/2{gef}e2{A}e2:|
+K:D
+|:{/g}A3/2B/2{/GdG}c2{/gcd}c1{/e}A1|{/g}c1{/Gdc}d1{/gef}e2{/A}e1f1|{/gcd}c1f1 {/gef}e3/2c/2{/g}B2|{/GdGe}B1f1 {/gef}e3/2c/2{/G}A2|!
+{/g}A3/2B/2{/GdG}c2{/gcd}c1{/e}A1|{/g}c1{/Gdc}d1{/gef}e2{/A}e1f1|{/gcd}c1f1 {/gef}e3/2c/2{/g}B2|{/GdGe}B1A1 {/gcd}c3/2B/2{/G}A2:|!
+|:{/gcd}c1e1{/ag}a2{/g}a2|{/f}g1f1 {/gfg}f1e1{/A}e2|{/g}e3/2f/2 {/gef}e1d1{/gdG}d2|{/g}d3/2e/2 {/gde}d1c1{/GdG}c2|!
+{/gcd}c1e1{/ag}a2{/g}a2|{/f}g1f1 {/gfg}f1e1{/A}e2|{/g}e3/2f/2{/gef}e2{/A}e3/2d/2|{/g}c3/2d/2{/gef}e2{/A}e2:|
 
 X:6
 T:High Road to Gairloch, The
 Z:Pipeline Pipeband
 L:1/8
 M:2/4
-K:HP
-%%MIDI gracedivider 3
-|:{g} e>f{g} eA |{gcd} c{e}A{g} e2 |{Gdc} d{g}f/2>e/2{Gdc} d{e}G |{gBd} B{e}G{Gdc} d2 |!
-{g} e>f{g} eA |{gcd} c{e}A{g} e2 |{g} A>B{gcd} c{e}A |{gBd} B2{G} A2 :|!
-|:{gcd} c{e}A{g} A>B | {gcd} c{e}A{gcd} c2 |{Gdc} d>c{g} B>c |{Gdc} d{e}B{Gdc} d2 |!
-{gcd} c{e}A{g} A>B | {gcd} c{e}B{gcd} ce |{g} A>B{gcd} c{e}A |{gBd} B2{G} A2 :|
+K:D
+|:{/g} e>f{/g} eA |{/gcd} c{/e}A{/g} e2 |{/Gdc} d{/g}f/2>e/2{/Gdc} d{/e}G |{/gBd} B{/e}G{/Gdc} d2 |!
+{/g} e>f{/g} eA |{/gcd} c{/e}A{/g} e2 |{/g} A>B{/gcd} c{/e}A |{/gBd} B2{/G} A2 :|!
+|:{/gcd} c{/e}A{/g} A>B | {/gcd} c{/e}A{/gcd} c2 |{/Gdc} d>c{/g} B>c |{/Gdc} d{/e}B{/Gdc} d2 |!
+{/gcd} c{/e}A{/g} A>B | {/gcd} c{/e}B{/gcd} ce |{/g} A>B{/gcd} c{/e}A |{/gBd} B2{/G} A2 :|
 
 X:7
 T:Highland Laddie
 C:Traditional
 L:1/8
 M:2/4
-K:HP
-%%MIDI gracedivider 3
-|: {g}A/2>B/2 | {Gdc}d>e {g}fa | g/2>f/2{g}e/2>d/2 {g}f2 | {gfg}fe {gef}e{g}d/2>e/2 | {gfg}fe {gef}ed/2<{e}B/2 |!
-{Gdc}d>e {g}fa | g/2>f/2{g}e/2>d/2 {gfg}fe/2>f/2 | {Gdc}d{e}B {gBd}B{g}A/2>B/2 | {Gdc}d{e}B {gBd}B :|!
-|: {gf}g | {ag}ag/2<f/2 {gf}gf/2<e/2 | {gfg}f/2>e/2{g}d/2>e/2 {g}f2 | {gfg}fe {gef}e{g}d/2>e/2 | {gfg}fe {gef}e{gf}g |!
-{ag}ag/2<f/2 {gf}gf/2<e/2 | {gfg}f/2>e/2{g}d/2>e/2 {gfg}fe/2>f/2 | {Gdc}d {e}B {gBd}B{g}A/2>B/2 | {Gdc}d {e}B {gBd}B :|
+K:D
+|: {/g}A/2>B/2 | {/Gdc}d>e {/g}fa | g/2>f/2{/g}e/2>d/2 {/g}f2 | {/gfg}fe {/gef}e{/g}d/2>e/2 | {/gfg}fe {/gef}ed/2<{/e}B/2 |!
+{/Gdc}d>e {/g}fa | g/2>f/2{/g}e/2>d/2 {/gfg}fe/2>f/2 | {/Gdc}d{/e}B {/gBd}B{/g}A/2>B/2 | {/Gdc}d{/e}B {/gBd}B :|!
+|: {/gf}g | {/ag}ag/2<f/2 {/gf}gf/2<e/2 | {/gfg}f/2>e/2{/g}d/2>e/2 {/g}f2 | {/gfg}fe {/gef}e{/g}d/2>e/2 | {/gfg}fe {/gef}e{/gf}g |!
+{/ag}ag/2<f/2 {/gf}gf/2<e/2 | {/gfg}f/2>e/2{/g}d/2>e/2 {/gfg}fe/2>f/2 | {/Gdc}d {/e}B {/gBd}B{/g}A/2>B/2 | {/Gdc}d {/e}B {/gBd}B :|
 
 X:8
 T:Minstrel Boy
 C:Traditional
 M:4/4
-K:HP
-|: e1 |{AGAG}A3B1 {Gdc}d1c1 {gBd}B1{e}A1|{gcd}c2e2{ag}a2g1a1|{fg}f2{g}e2{g}c2{GdG}e1c1 |1 {gBd}B4{G}A3 :|2 {gBd}B4{G}A2 |!
-{gcd}c1e1 |{ag}a2{f}g2{a}f2{gf}g1a1|{f}g2f2{gef}e3{A}e1|{g}f3c1{GdG}c3e1|{g}f2{GdG}f1g1a2{g}a2|!
-{AGAG}A3B1 {Gdc}d1c1 {gBd}B1{e}A1|{gcd}c2e2{ag}a2g1a1|{fg}f2{g}e2{g}c2{GdG}e1c1|{gBd}B4{G}A2|]!
+K:D
+|: e1 |{/AGAG}A3B1 {/Gdc}d1c1 {/gBd}B1{/e}A1|{/gcd}c2e2{/ag}a2g1a1|{/fg}f2{/g}e2{/g}c2{/GdG}e1c1 |1 {/gBd}B4{/G}A3 :|2 {/gBd}B4{/G}A2 |!
+{/gcd}c1e1 |{/ag}a2{/f}g2{/a}f2{/gf}g1a1|{/f}g2f2{/gef}e3{/A}e1|{/g}f3c1{/GdG}c3e1|{/g}f2{/GdG}f1g1a2{/g}a2|!
+{/AGAG}A3B1 {/Gdc}d1c1 {/gBd}B1{/e}A1|{/gcd}c2e2{/ag}a2g1a1|{/fg}f2{/g}e2{/g}c2{/GdG}e1c1|{/gBd}B4{/G}A2|]!
 
 X:9
 T:Rowan Tree
 C:Traditional
 M:4/4
-K:HP
-% Franks edit
-{g}A3/2B/2|{GdG}c3{d}c1{gcd}c2B2|{gcd}c1e3{A}e2a2|{fg}f3e1{g}f2a2|{fg}f2e2{A}e2{g}A3/2B/2|!
-%{g}A3/2B/2|{GdG}c3{d}c1{gcd}c2{e}B2|{gcd}c1e3{A}e2{ag}a2|{fg}f3e1{g}f2a2|{fg}f2e2{A}e2{g}A3/2B/2|!
-{GdG}c3{d}c1{gcd}c2B2|{gcd}c1e3{g}f3e1|{gef}e1c3{gBd}B3{G}A1|{g}A4{GAG}A3||!
-e1 |{A}e3a1{g}a3g1|{a}g2f2{e}f2{ag}a2|{ef}e3f1 {g}f1e1 {g}d1c1|{gcd}c4{gBd}B2 A3/2B/2|!
-{GdG}c3{d}c1{gcd}c2B2|{gcd}c1e3{g}f3e1|{gef}e1c3{gBd}B3{G}A1|{g}A4{GAG}A2|]!
+K:D
+{/g}A3/2B/2|{/GdG}c3{/d}c1{/gcd}c2B2|{/gcd}c1e3{/A}e2a2|{/fg}f3e1{/g}f2a2|{/fg}f2e2{/A}e2{/g}A3/2B/2|!
+{/GdG}c3{/d}c1{/gcd}c2B2|{/gcd}c1e3{/g}f3e1|{/gef}e1c3{/gBd}B3{/G}A1|{/g}A4{/GAG}A3||!
+e1 |{/A}e3a1{/g}a3g1|{/a}g2f2{/e}f2{/ag}a2|{/ef}e3f1 {/g}f1e1 {/g}d1c1|{/gcd}c4{/gBd}B2 A3/2B/2|!
+{/GdG}c3{/d}c1{/gcd}c2B2|{/gcd}c1e3{/g}f3e1|{/gef}e1c3{/gBd}B3{/G}A1|{/g}A4{/GAG}A2|]!
 
 X:10
 T:Scotland the Brave
 C:Traditional
 M:4/4
-K:HP
-%Franks edit
-{g}A2{GdGe}A3/2B/2 {gcd}c1{e}A1 {gcd}c1e1|{ag}a2{g}a2 {GdG}a1e1 {gcd}c1{e}A1|{Gdc}d2{g}f3/2d/2 {gcd}c1e1 {gcd}c1{e}A1|{gBd}B2{g}e2{A}e3/2f/2 {g}e3/4d/4c3/4B/4|!
-% THis is a good version
-%{g}A2{GdGe}A3/2B/2 {gcd}c1{e}A1 {gcd}c1e1|{ag}a2{g}a2 {GdG}a1e1 {gcd}c1{e}A1|{Gdc}d2{g}f3/2d/2 {gcd}c1e1 {gcd}c1{e}A1|{gBd}B2{gef}e2{A}e3/2f/2 {gef}e3/4d/4{gcd}c3/4B/4|!
-{g}A2{GdGe}A3/2B/2 {gcd}c1{e}A1 {gcd}c1e1|{ag}a2{g}a2{GdG}a1e1 {gcd}c1{e}A1|{Gdc}d2{g}f3/2d/2 {gcd}c1e1 {gcd}c1{e}A1|{gBd}B2{g}A3/2B/2{G}A2{gcd}c1e1|!
-{ag}a2{g}a2{GdG}a1e1 {gce}c1{e}A1|{ag}a2{g}a2{GdG}a1e1 {gcd}c1e1| {ag}a2 {g}a3/2g/2 {a}f2{ag}a3/2g/2 | {a}fa {f}gf {gef}ed {gcd}cB|!
-{g}A2{GdGe}A3/2B/2 {gcd}c1{e}A1 {gcd}c1e1|{ag}a2{g}a2{GdG}a1e1 {gcd}c1{e}A1|{Gdc}d2{g}f3/2d/2 {gcd}c1e1 {gcd}c1{e}A1|{gBd}B2{g}A3/2B/2{G}A3|]
+K:D
+{/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2 {/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}e2{/A}e3/2f/2 {/g}e3/4d/4c3/4B/4|!
+{/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}A3/2B/2{/G}A2{/gcd}c1e1|!
+{/ag}a2{/g}a2{/GdG}a1e1 {/gce}c1{/e}A1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1e1| {/ag}a2 {/g}a3/2g/2 {/a}f2{/ag}a3/2g/2 | {/a}fa {/f}gf {/gef}ed {/gcd}cB|!
+{/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}A3/2B/2{/G}A3|]
 
 X:11
 T:When the Battle's O'er
 C:W. Robb
 M:3/4
-K:HP
-|:{g}A3/2B/2{GdG}c2{ag}a2|{fg}f1e1{gcd}c2{G}A2|{g}A3/2B/2{GdG}c2 {gef}e3/2c/2|{gBd}B1{G}A1{GdG}B4|!
-{g}A3/2B/2{GdG}c2{ag}a2|{fg}f1e1{gcd}c2{G}A2|{g}A3/2B/2{GdG}c2{gef}e3/2c/2|{g}B3/2c/2{G}A4:|!
+K:D
+|:{/g}A3/2B/2{/GdG}c2{/ag}a2|{/fg}f1e1{/gcd}c2{/G}A2|{/g}A3/2B/2{/GdG}c2 {/gef}e3/2c/2|{/gBd}B1{/G}A1{/GdG}B4|!
+{/g}A3/2B/2{/GdG}c2{/ag}a2|{/fg}f1e1{/gcd}c2{/G}A2|{/g}A3/2B/2{/GdG}c2{/gef}e3/2c/2|{/g}B3/2c/2{/G}A4:|!
 |:
-{gef}e3/2c/2{gBd}B2{G}A2|{ag}a3/2g/2{fg}f2{g}e2|{g}A3/2B/2{GdG}c2{gef}e3/2c/2|{gBd}B1{G}A1{GdG}B4|!
-{gef}e3/2c/2{gBd}B2{G}A2|{ag}a3/2g/2{fg}f2{g}e2|{g}A3/2B/2{GdG}c2{gef}e3/2c/2|{g}B3/2c/2{G}A4:|
+{/gef}e3/2c/2{/gBd}B2{/G}A2|{/ag}a3/2g/2{/fg}f2{/g}e2|{/g}A3/2B/2{/GdG}c2{/gef}e3/2c/2|{/gBd}B1{/G}A1{/GdG}B4|!
+{/gef}e3/2c/2{/gBd}B2{/G}A2|{/ag}a3/2g/2{/fg}f2{/g}e2|{/g}A3/2B/2{/GdG}c2{/gef}e3/2c/2|{/g}B3/2c/2{/G}A4:|
 
 X:12
 T:Wings
 C:Trad.
 L:1/8
 M:4/4
-K:HP
-e | {g}A2 {GdGe}A>B {GdG}c3 e | {g}f2 {GdG}fa {ef}e2 {gcd}ce | {g}f>g af{g} e<c {gBd}B{G}A |
-{g} B>c{Gdc} dc{gBd} Be{gde} dB |!
-{g} A2{GdGe} A>B{GdG} c3 e | {g}f2 {GdG}fa {ef} e2{gcd} ce | {g} f>g af{g} e<c{g} B3/2{d}c/ | 
-{G}A4 {GAG}A3 |]!
- e | {ag}a2 {g}a2 {GdG}ag{fg} fe | {g}f2 {GdG}fa {fg}fe {gcd}ce | {g}f>g af {g}e<c {gBd}B{G}A |
-{g}B>c {Gdc}d>c {gBd}Be {gde}dB |!
-{g} A2{GdGe} A>B{GdG} c3 e |{g} f2 {GdG}fa{ef} e2{gcd} ce |{g} f>g af{g} e<c{g} B3/2{d}c/ |
-{G} A4{GAG} A3 |]
+K:D
+e | {/g}A2 {/GdGe}A>B {/GdG}c3 e | {/g}f2 {/GdG}fa {/ef}e2 {/gcd}ce | {/g}f>g af{/g} e<c {/gBd}B{/G}A |
+{/g} B>c{/Gdc} dc{/gBd} Be{/gde} dB |!
+{/g} A2{/GdGe} A>B{/GdG} c3 e | {/g}f2 {/GdG}fa {/ef} e2{/gcd} ce | {/g} f>g af{/g} e<c{/g} B3/2{/d}c/ | 
+{/G}A4 {/GAG}A3 |]!
+ e | {/ag}a2 {/g}a2 {/GdG}ag{/fg} fe | {/g}f2 {/GdG}fa {/fg}fe {/gcd}ce | {/g}f>g af {/g}e<c {/gBd}B{/G}A |
+{/g}B>c {/Gdc}d>c {/gBd}Be {/gde}dB |!
+{/g} A2{/GdGe} A>B{/GdG} c3 e |{/g} f2 {/GdG}fa{/ef} e2{/gcd} ce |{/g} f>g af{/g} e<c{/g} B3/2{/d}c/ |
+{/G} A4{/GAG} A3 |]
 
