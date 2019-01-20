@@ -9,12 +9,12 @@ M:6/8
 L:1/8
 Q:3/8=56
 K:D
-P:A Hundred Pipers
+T:A Hundred Pipers
 |: {/gfg}f2A1 {/g}A3/2B/2{/G}A1|{/gBd}B2d1{/gdc}d2{/gf}g1|{/ag}a2f1 {/gfg}f3/2e/2d1|{/gfg}f2e1 {/g}e3/2d/2e1|!
 {/gfg}f2A1 {/g}A3/2B/2{/G}A1|{/gBd}B2 d1{/gdc}d2{/gf}g1|{/ag}a2f1 {/g}e3/2d/2e1|1 {/g}d3{/G}d3 :|2 {/g}d3{/G}d2 ||!
 |:{/g}c/4d3/4|{/g}e2{/GdG}e1 {/g}e3/2c/2e1|{/gfg}f2a1 {/g}a3/2g/2f1|{/gef}e2c1 {/gcd}c3/2B/2{/G}A1|{/gcd}c2{/e}B1 {/G}B3/2c/2d1|!
 {/g}e2{/GdG}e1 {/g}e3/2c/2e1|{/gfg}f2a1 {/g}a3/2g/2f1|{/gef}e2c1 {/gBd}B3/2A/2B1|{/g}A3{/GAG}A2:|!
-P:Bonnie Dundee
+T:Bonnie Dundee
 |:{/g}c/4d3/4|{/g}e2{/GdG}e1 {/gef}e3/2{/g}c/2e1|a3/2g/2{/a}f1 {/gef}e2d1|{/g}c/2e3/2{/g}A1 {/g}c/2e3/2c1|{/g}B2{/GdGe}B1 {/gBd}B3/2{/g}c/2d1|!
 {/g}e2{/GdG}e1 {/gef}e3/2{/g}c/2e1|a3/2g/2{/a}f1{/gef}e2d1|{/g}c/2e3/2{/g}A1 {/g}c/2e3/2c1|{/g}A2{/GdGe}A1{/GAG}A2:|!
 |:G1|{/g}A2{/GdGe}A1{/Gdc}d2c1|{/g}B2{/GdGe}B1{/gBd}B3|{/g}B2{/GdGe}B1 {/g}B3/2c/2d1|{/g}c2{/GdGe}c1{/gcd}c2{/e}A1|!
@@ -28,12 +28,12 @@ M:4/4
 L:1/8
 Q:1/4=56
 K:D
-P:Mrs. MacLeod Of Raasay
+T:Mrs. MacLeod Of Raasay
 {/gAGAG}A2{/ag}a3/2g/2 {/fg}f1e1 {/g}f1a1|{/fg}f1e1 {/gcd}c1{/e}B1 {/g}c2{/GdGe}c1e1|{/gAGAG}A2{/ag}a3/2g/2 {/fg}f1e1 {/g}f1a1|{/fg}f1e1 {/gcd}c1{/e}A1 {/g}B2{/GdGe}B1e1|!
 {/gAGAG}A2{/ag}a3/2g/2 {/fg}f1e1 {/g}f1a1|{/fg}f1e1 {/gcd}c1{/e}B1 {/g}c2{/GdGe}c1e1|{/gfg}f3/2e/2 {/g}f1a1{/fg}f2{/g}e1{/g}f3/4g/4|{/ag}a3/2f/2 {/gef}e1c1 {/gcd}c1{/e}B1 {/GdG}B1e1||!
 {/gAGAG}A2{/gcd}c1{/e}A1 {/gef}e1A1 {/gcd}c1a1|{/gfg}f1e1 {/gcd}c1{/e}B1{/g}c2{/GdGe}c1e1|{/gAGAG}A2 {/gcd}c1{/e}A1 {/gef}e1A1 {/gcd}c1a1|{/fg}f1e1 {/gcd}c1{/e}A1 {/g}B2{/GdGe}B1e1|!
 {/gAGAG}A2{/gcd}c1{/e}A1 {/gef}e1A1 {/gcd}c1a1|{/gfg}f1e1 {/gcd}c1{/e}B1{/g}c2{/GdGe}c1e1|{/gfg}f3/2e/2 {/g}f1a1 {/fg}f2{/g}e1{/g}f3/4g/4|{/ag}a3/2f/2 {/gef}e1c1 {/gcd}c1{/e}B1 {/GdG}B|]!
-P:The Piper's Cave
+T:The Piper's Cave
 M:2/4
 |:{/gce} c/>B/ |{/g} A2{/GAG} A>B |{/GdG} cf{/e} fa/>f/ | {/gef} ec{/gce} c{/g}B/4{/d}A3/4 |!
 {/gce} c{/g}B{/GdGe} B{/gce}c/>B/ |{/g} A2{/GAG} A>B | {/GdG} cf{/e} fa/>f/ |{/gef} e>c{/g} B{/gce}c/>B/ |{/g} A2{/GAG} A :|!
@@ -41,7 +41,7 @@ M:2/4
 {/ag} af{/gfg} f{/g}e/>f/ |{/ag} ac{/GdG} ca/>f/ | {/gef} e>c{/g} B{/gce}c/>B/ |{/g} A2{/GAG} A{/gf}g |!
 {/ag} af{/gfg} f{/g}e/>f/ | {/ag} ac{/GdG} ca/>f/ |{/gef} ec{/gce} c{/g}B/4{/d}A3/4 |{/gce} c{/g}B{/GdGe} B{/gce}c/>B/ |!
 {/g} A2{/GAG} A>B |{/GdG} cf{/e} fa/>f/ |{/gef} e>c{/g} B{/gce}c/>B/ |{/g} A2{/GAG} A |]!
-P:Walter Douglas, MBE
+T:Walter Douglas, MBE
 M:2/4
 |: e |{/g} A2{/GdGe} A{/gf}g |{/ef} ed{/g} e>f |{/gf} g>e{/Gdc} dg | {/Bd} B{/e}A{/gBd} B{/e}G |!
 {/g} A2{/GdGe} A{/gf}g |{/ef} ed{/g} e>f |{/gf} g>e{/Gdc} d{/e}B | {/gef} e{/g}A{/GAG} A :|!
@@ -56,13 +56,13 @@ M:2/4
 L:1/8
 Q:1/4=84
 K:D
-P:Teribus
+T:Teribus
 |:A2|{/Gdc}d2{/e}A2 {/Gdc}d3e1|{/g}f2a2 {/fg}f2d2|{/gf}g3f1 {/gef}e3d1|{/gcd}c2e2 {/gcd}c2{/e}A2|!
 {/Gdc}d2{/e}A2 {/Gdc}d3e1|{/g}f2a2 {/gf}f2d2|{/gf}g3f1 {/gef}e2a2|{/gfg}f2d2 {/gdG}d2:|!
 |: {/gf}g2 | a4{/GdG}a3g1|{/fg}f2a2 {/fg}f2d2|{/gf}g3f1 {/gef}e3d1|{/gcd}c2e2 {/gcd}c2{/e}A2|!
 [1 a4{/GdG}a3g1|{/fg}f2a2 {/fg}f2d2|{/gf}g3f1 {/gef}e2a2|{/gfg}f2d2 {/gdG}d2:|!
 [2 {/Gdc}d2{/e}A2 {/Gdc}d3e1|{/g}f2a2 {/gf}f2d2|{/gf}g3f1 {/gef}e2a2|{/gfg}f2d2 {/gdG}d2 |]!
-P:The Brown Haired Maiden
+T:The Brown Haired Maiden
 |:A2|{/Gdc}d3c1 {/gBd}B2{/e}A2|{/Gdc}d4 {/e}A3B1|{/Gdc}d3e1 {/gf}g2f2|{/gfg}f2e2 {/A}e2{/gf}g2|!
    {/a}f1a3 {/fg}f2a2|{/AGAG}A4{/Gdc}d3e1|{/g}f4{/gf}g2{/a}e2|{/Gdc}d4{/gdG}d2:|!
 |: {/gf}g2 | {/a}f1a3 {/fg}f2a2|{/AGAG}A4{/Gdc}d3e1|{/g}f2d2 {/gf}g2f2|{/gfg}f2e2 {/A}e2{/gf}g2|!
@@ -75,21 +75,21 @@ M:4/4
 L:1/8
 Q:1/4=84
 K:D
-P:Caissons Go Rolling Along
+T:Caissons Go Rolling Along
 |:{/g}e1c1|{/gef}e2{/g}e1c1 {/gef}e2{/g}e1c1 | {/g}e3/2f/2 {/g}e1c1 {/gef}e2{/g}c1d1 | {/gef}e1d1- d1B1 {/gef}e1d1- d1B1 | {/G}A4{/GAG}A2:|!
 e{/A}e|a2{/g}a2 {/ef}e2-e2| {/g}f3/2g/2 a1f1 {/gef}e2-e2 | a1{/g}a1- a1g1 {/a}f2{/gf}g1a1 | {/f}g2{/a}f2{/g}e3{/A}e|!
 a2{/g}a2{/ef}e2-e2|{/g}f3/2g/2 a1f1{/gef}e2{/g}c1d1|{/gef}e1d1- d1B1 {/gef}e1d1- d1B1 | {/G}A4{/GAG}A2 |]!
-P:Marine Corps Hymn
+T:Marine Corps Hymn
 |:{/g}A1{/d}c1| \
 {/gef}e2{/A}e2{/gef}e2{/A}e2 |{/gef}e3a1{/ef}e2c1d1|{/gef}e2{/A}e2{/gde}d1B3 |{/G}A4{/GAG}A2:|!
 a1g1 |\
 {/fg}f2d2{/g}f2d2|{/gef}e3c1{/gef}e2a1g1|{/fg}f2d2{/g}f1a3 |{/ef}e4{/A}e2 |!
 {/g}A1{/d}c1| {/gef}e2{/A}e2{/gef}e2{/A}e2 |{/gef}e3a1{/ef}e2c1d1|{/gef}e2{/A}e2{/gde}d1B3 |{/G}A4{/GAG}A2 |]!
-P:Anchors Aweigh
+T:Anchors Aweigh
 |:{/gAd}A4{/g}c2e2 |{/gfg}f3c1{/g}f4 |{/Gdc}d4{/gef}e2A2 |{/Gdc}d4-d4 |!
 [1  {/gBd}B4 {/Gdc}d2B2 |{/gAd}A2B2 {/g}c2{/Gdc}d2 |{/g}G2{/d}B2{/gef}e2d2 |{/gcd}c2{/g}A2{/gfg}f2{/g}e2 :|!
 [2  {/gBd}B4 {/Gdc}d2B2 |{/gAd}A2B2 {/g}c2{/Gdc}d2 |{/g}f3/2A/2 {/g}G1{/d}A1 {/g}e3/2A/2 {/g}G1{/d}A1 |{/Gdc}d4{/gdG}d4 |]!
-P:Semper Paratus
+T:Semper Paratus
 e2 | {/g} A2{/d} A2{/e} AG{/g} Ad |{/g} (e2 e4){/A} e2 |{/gfg} (f2 f)e{/Gdc} d2 f2 | 
 {/gef} (e2 e4){/g} c2 |! 
 {/Gdc} (d2 d)c{/gBd} B2 e2 | {/gcd} c2 B2{/G} A2 c2 |{/g} B2 e2 d2 f2 | {/g} e8 ||!
@@ -103,17 +103,17 @@ M:4/4
 L:1/8
 Q:1/4=56
 K:D
-P:Scotland the Brave
+T:Scotland the Brave
 {/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2 {/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}e2{/A}e3/2f/2 {/g}e3/4d/4c3/4B/4|!
 {/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}A3/2B/2{/G}A2{/gcd}c1e1|!
 {/ag}a2{/g}a2{/GdG}a1e1 {/gce}c1{/e}A1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1e1| {/ag}a2 {/g}a3/2g/2 {/a}f2{/ag}a3/2g/2 | {/a}fa {/f}gf {/gef}ed {/gcd}cB|!
 {/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}A3/2B/2{/G}A3|]
-P:Rowan Tree
+T:Rowan Tree
 {/g}A3/2B/2|{/GdG}c3{/d}c1{/gcd}c2B2|{/gcd}c1e3{/A}e2a2|{/fg}f3e1{/g}f2a2|{/fg}f2e2{/A}e2{/g}A3/2B/2|!
 {/GdG}c3{/d}c1{/gcd}c2B2|{/gcd}c1e3{/g}f3e1|{/gef}e1c3{/gBd}B3{/G}A1|{/g}A4{/GAG}A3||!
 e1 |{/A}e3a1{/g}a3g1|{/a}g2f2{/e}f2{/ag}a2|{/ef}e3f1 {/g}f1e1 {/g}d1c1|{/gcd}c4{/gBd}B2 A3/2B/2|!
 {/GdG}c3{/d}c1{/gcd}c2B2|{/gcd}c1e3{/g}f3e1|{/gef}e1c3{/gBd}B3{/G}A1|{/g}A4{/GAG}A2|]!
-P:The Battle of Waterloo
+T:The Battle of Waterloo
 {/g}ed/4B3/4 | 
 {/g}A2 {/GdGe}AB {/gAd}AG {/g}GA | {/GdG}c3/2d/2 {/g}ec {/Gdc}d2 {/g}ef/4g3/4 | {/ag}a3/2g/2 {/a}ed {/gef}e3/2d/2 {/gBd}BA | {/g}G3/2{/d}G/2 {/e}GA {/gGd}G2 {/g}ed/4B3/4 |!
 {/g}A2 {/GdGe}AB {/gAd}AG {/g}GA | {/GdG}c3/2d/2 {/g}ec {/Gdc}d2 {/g}ef/4g3/4 | {/ag}a3/2g/2 {/a}ed {/gef}e3/2d/2 {/gBd}B{/e}G | {/g}A4 {/GAG}A2  ||!
@@ -127,16 +127,16 @@ M:4/4
 L:1/8
 Q:1/4=56
 K:D
-P:Minstrel Boy
+T:Minstrel Boy
 |: e1 |{/AGAG}A3B1 {/Gdc}d1c1 {/gBd}B1{/e}A1|{/gcd}c2e2{/ag}a2g1a1|{/fg}f2{/g}e2{/g}c2{/GdG}e1c1 |1 {/gBd}B4{/G}A3 :|2  {/gBd}B4{/G}A2 |!
 {/gcd}c1e1 |{/ag}a2{/f}g2{/a}f2{/gf}g1a1|{/f}g2f2{/gef}e3{/A}e1|{/g}f3c1{/GdG}c3e1|{/g}f2{/GdG}f1g1a2{/g}a2|!
 {/AGAG}A3B1 {/Gdc}d1c1 {/gBd}B1{/e}A1|{/gcd}c2e2{/ag}a2g1a1|{/fg}f2{/g}e2{/g}c2{/GdG}e1c1|{/gBd}B4{/G}A2|]!
-P:Wearing of the Green
+T:Wearing of the Green
 |:{/g}A3/2B/2|{/GdG}c2 {/gcd}c1{/e}B1 {/gcd}c1e1 {/A}e1c1 | {/gcd}c1{/e}B1 {/gBd}B1{/e}A1{/gBd}B2{/gcd}c1e1|{/gfg}f1d1 {/ag}a3/2g/2 {/fg}f1e1 {/gcd}c1{/e}A1|{/gBd}B1{/e}A1 {/GAG}A3/2B/2{/G}A2:|!
 a3/2g/2|
 {/fg}f1e1 {/A}e1c1 {/gef}e1c1 {/g}A3/2B/2|{/gcd}c1{/e}B1 {/gcd}c1d1{/gcd}c2{/ag}a3/2g/2|{/fg}f1e1 {/A}e1c1 {/gef}e1c1 {/g}A3/2B/2|{/gcd}c1{/e}B1 {/gBd}B3/2c/2{/gBd}B2{/g}A3/2B/2|!
 {/GdG}c2 {/gcd}c1{/e}B1 {/gcd}c1e1 {/A}e1c1|{/gcd}c1{/e}B1 {/gBd}B1{/e}A1{/gBd}B2{/gcd}c1e1|{/gfg}f1d1 {/ag}a3/2g/2 {/fg}f1e1 {/gcd}c1{/e}A1|{/gBd}B1{/e}A1 {/GAG}A3/2B/2 {/G}A3|]!
-P:Twenty Men from Dublin
+T:Twenty Men from Dublin
 e1| \
 {/g}A3{/d}B1{/G}A2{/Gdc}d2|{/gfg}f3{/g}e1{/Gdc}d4|{/gBd}B3c1 {/gef}e1d1 {/gcd}c1{/e}B1|{/G}A4{/GAG}A4|!
 {/g}A3{/d}B1{/G}A2{/Gdc}d2|{/gfg}f3{/g}e1{/Gdc}d4|{/gef}e3f1 {/gf}g1e1 {/gcd}c1{/e}A1|{/Gdc}d4{/gdG}d4||!
@@ -149,13 +149,13 @@ M:3/4
 L:1/8
 Q:1/4=56
 K:D
-P:Castle Dangerous
+T:Castle Dangerous
 |:{/Gdc}d3/2e/2 {/gfg}f2{/ag}a2 |{/fg}f1d1 {/g}G2{/d}B2|{/g}d3/2B/2 {/G}A2{/Gdc}d2|{/g}f1a1{/ef}e2-e2|!
 {/Gdc}d3/2e/2 {/gfg}f2{/ag}a2 |{/fg}f1d1{/g}G2{/d}B2|{/g}d3/2B/2 {/G}A2{/gfg}f2|{/gf}g1c1{/Gdc}d2{/gdG}d2:|!
 |:{/g}f3/2g/2{/ag}a2{/fg}f1a1   |{/fg}f1d1{/g}G2{/d}B2|{/g}d3/2B/2{/G}A2{/Gdc}d2|{/g}f1a1{/ef}e2-e2|!
 [1 {/g}f3/2g/2{/ag}a2{/fg}f1a1    |{/fg}f1d1{/g}G2{/d}B2|{/g}d3/2B/2{/G}A2{/gfg}f2|{/gf}g1c1{/Gdc}d2{/gdG}d2:|!
 [2  {/Gdc}d3/2e/2 {/gfg}f2{/ag}a2 |{/fg}f1d1{/g}G2{/d}B2|{/g}d3/2B/2 {/G}A2{/gfg}f2|{/gf}g1c1{/Gdc}d2{/gdG}d2|]!
-P:Dream Valley of Glendaruel
+T:Dream Valley of Glendaruel
 |:{/g}A3/2B/2{/Gdc}d2{/G}A2|{/g}f3/2g/2{/ag}a2{/Gdc}d2|{/g}e3/2f/2{/gf}g3B1|{/g}f1d1 {/g}f1g3/4f/4{/g}e2|!
   {/g}f3/2e/2 {/Gdc}d1f1{/AGAG}A2|{/ag}a3/2g/2 {/a}f1a1{/Gdc}d2|{/g}d3/2c/2{/gBd}B2{/g}G1{/gf}g1|{/a}e3/2c/2{/Gdc}d4:|!
 |:{/g}f3/2g/2{/ag}a2{/Gdc}d2|{/gf}g1f1{/gfg}f2{/g}e2|{/g}f3/2g/2{/ag}a2{/Gdc}d3/2c/2|{/gBd}B1e1 {/gcd}c2{/G}A2|!
@@ -168,12 +168,12 @@ L:1/8
 M:3/4
 Q:1/4=56
 K:D
-P:Green Hills of Tyrol
+T:Green Hills of Tyrol
 |:{/g}A3/2B/2{/GdG}c2{/gcd}c1{/e}A1|{/g}c1{/Gdc}d1{/gef}e2{/A}e1f1|{/gcd}c1f1 {/gef}e3/2c/2{/g}B2|{/GdGe}B1f1 {/gef}e3/2c/2{/G}A2|!
 {/g}A3/2B/2{/GdG}c2{/gcd}c1{/e}A1|{/g}c1{/Gdc}d1{/gef}e2{/A}e1f1|{/gcd}c1f1 {/gef}e3/2c/2{/g}B2|{/GdGe}B1A1 {/gcd}c3/2B/2{/G}A2:|!
 |:{/gcd}c1e1{/ag}a2{/g}a2|{/f}g1f1 {/gfg}f1e1{/A}e2|{/g}e3/2f/2 {/gef}e1d1{/gdG}d2|{/g}d3/2e/2 {/gde}d1c1{/GdG}c2|!
 {/gcd}c1e1{/ag}a2{/g}a2|{/f}g1f1 {/gfg}f1e1{/A}e2|{/g}e3/2f/2{/gef}e2{/A}e3/2d/2|{/g}c3/2d/2{/gef}e2{/A}e2:|!
-P:When the Battle's O'er
+T:When the Battle's O'er
 |:{/g}A3/2B/2{/GdG}c2{/ag}a2|{/fg}f1e1{/gcd}c2{/G}A2|{/g}A3/2B/2{/GdG}c2 {/gef}e3/2c/2|{/gBd}B1{/G}A1{/GdG}B4|!
 {/g}A3/2B/2{/GdG}c2{/ag}a2|{/fg}f1e1{/gcd}c2{/G}A2|{/g}A3/2B/2{/GdG}c2{/gef}e3/2c/2|{/g}B3/2c/2{/G}A4:|!
 |:
