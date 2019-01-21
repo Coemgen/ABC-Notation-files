@@ -1,0 +1,45 @@
+%abc-2.1
+%%MIDI program 109
+
+X:1
+T:Mo Chailin D\`ileas Donn
+M:C
+Q:1/4=56
+K:Hp
+{g}A<{d}A {g}B{GdG}c {g}f2 {gef}e>d | {gcd}c{e}A {GAG}A>B {G}A4 | \
+{g}A<{d}A {g}B{GdG}c {ag}a2 {f}ga | {fg}f>e {gcd}ce {gfg}f3 a |$
+{ef}e>c {g}e{g}f/g/ {ag}a2 {f}ga | {fg}f>e {gcd}ce {gfg}f3 a | \
+e>f {gef}ec {gfg}f2 {ef}e>d | {gcd}c{e}A {GAG}A>B {G} A4 ||$
+{g}e>f {gef}ec {ag}a2 f>d | {gcd}c{e}A {GAG}A>B {G}A4 | \
+{g}A<{d}A {g}B{GdG}c {ag}a>g {fg}fe | {g}f>e {gcd}ce {gfg}f3 {gf}g |$
+{ag}a>f {g}ea {fg}f>e {g}fa | {ef}e>c {G}ce {gfg}f3 a | \
+e>c {g}eA {g}B{GdG}c {gfg}f>d | {gcd}c{e}A {GAG}A>B {G}A4 \]$
+
+X:1
+%
+T:Gu mo slan a chi mi mo challin dileas doun
+M:C
+L:1/8
+R:"A Pastoral Melody"
+Q:"Tenderly"
+B:James Logan - The Scottish Gael: or, Celtic manners preserved 
+B:among the Highlanders, vol. 2 (London, 1831, No. VII)
+Z:AK/Fiddler's Companion
+K:F
+D|F2 G>B {A}d2 c>B|A2 DTE {DE}G2 zA|TG>F GA {A}f2 e>c|
+d>cA>c d2 zD|F2 G>B {A}f2 e>c|d>cA>c d2 zA|
+c>d{e}c>B {A}d2 cB|A2 {B,}DTE {DE}F2:||(A/B/)|c>d{e}c>B {A}d2 c>B|
+A2 DTE {DE}!fermata!F2 (3cde|Tf>efg (fe)(dc)|TA>GAc d2 z(A/B/)|
+cA (cd/e/) f3a|g>f{c}e>d !fermata!c2 Td/(^c/d/e/)|f>ed>c {A}!fermata!d2 cB|A2 {B,}D>T(E {DE}F2)||
+
+X:1
+T: Cailín Donn [1], An (The Brown-Haired Girl)
+M:3/4
+L:1/8
+Q:"With expression"
+S:Joyce - Old Irish Folk Music and Song (1909), No. 711
+Z:AK/Fiddler's Companion
+K:Emin
+EF | G2F2E2 | d2e2 dc | B2E2 BA | AG E2 GA | B2g2f2 | 
+e3 dBA | B2e2d2 | e4 || e>f | g2f2c2 | d2e2 dc | B2E2 BA | 
+AG E2 GA | B2g2 fd | e>dBAGB | AG E2E2 | E4 || 
