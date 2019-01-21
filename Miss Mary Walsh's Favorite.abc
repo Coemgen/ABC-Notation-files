@@ -1,0 +1,19 @@
+%%MIDI program 109
+
+X:1
+T:Miss Mary Walsh's Favourite
+T:The Glass of Beer
+L:1/8
+Q:1/4=168
+M:2/2
+I:linebreak $
+K:D
+|:{/g} ce |{/g} fB{/d}B{/e}B{/g} fB{/d}B{/e}B |{/fAG} A2{/g} c{/d}A{/g} eA{/g}c{/d}A |1 
+{/g} fB{/d}B{/e}B{/g} fB{/d}B{/e}B |{/g} ef{/g}ec{/gBG} B2 :|2$ 
+{/GdGc} d2{/g} Bd{/cd} c2{/g} A{/d}c |{/g} ec{/g}A{/d}c{/gBG} B2 |:{/g} Bc | 
+{/GdGc} d2{/g} fd ad{/g}fd |{/gdc} d2 af{/g} ec{/g}A{/d}c |1{/GdGc} d2{/g} fd adaf |$ 
+{/g} ec{/g}A{/d}c{/gBG} B2 :|2{/GdGc} d2{/g} fd{/cd} c2{/g} A{/d}c |{/g} ec{/g}A{/d}c{/gBG} B2 |: 
+{/g} Bc |{/GdGc} d2 ef{/ag} a2 de | a2{/g} af{/g} ec{/g}A{/d}c |1${/GdGc} d2 ef a2{/g} af ||2 
+{/GdGc} d2{/g} Bd{/cd} c2{/g} A{/d}c ||{/g} ec{/g}A{/d}c{/gBG} B2 :| 
+
+
