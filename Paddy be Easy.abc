@@ -1,0 +1,16 @@
+X:1
+T:Paddy be Easy
+%%scale 0.83
+%%pagewidth 21.59cm
+%%leftmargin 1.00cm
+%%rightmargin 1.00cm
+L:1/8
+Q:1/4=90
+M:9/8
+I:linebreak $
+K:D
+V:1 treble nm="Bagpipe" snm="Bagp."
+V:1
+|:{/g} A2 e{/A} e2 d{/g} efg |{/a} A2 e{/A} efe{/g} d2 B |{/g} A2 e{/A} e2 d{/g} efg | %3
+{/a} fed{/g} edB{/Gdc} d2 B ::${/gfg} f3{/e} f2 a efg |{/afg} f3{/e} f2 a{/f} g2 e | %6
+{/gfg} f3{/A} f2 a efg |{/a} fed{/g} edB{/Gdc} d2 B :| %8

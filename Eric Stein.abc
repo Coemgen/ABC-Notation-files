@@ -1,0 +1,19 @@
+X:1
+T:Eric Stein
+%%scale 0.83
+%%pagewidth 21.59cm
+%%leftmargin 1.00cm
+%%rightmargin 1.00cm
+L:1/16
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm="Bagpipe" snm="Bagp."
+V:1
+|: e2 |{/g} A2{/GAG}A2{/gef} e2{/A}ef |{/g} ed{/g}Bd{/gef} e2ge |{/Gdc} d2{/g}G2{/g} G{/d}Gge |$ %4
+{/g} dB{/g}GA{/g} B{/G}B{/gef}ed |{/g} eA{/g}A{/d}A{/ag} a2fa | ge{/g}de{/gf} g2{/a}ge |$ %7
+{/g} cd{/c}dB{/g} GA{/g}B{/d}G |{/g} A4{/GAG} A2 :: e2 |{/ag} a2{/AGAG}A2{/ag} a2Aa | %11
+ ge{/g}de{/gf} g2{/a}ge |${/g} d{/c}d{/g}ed{/g} B{/G}B{/g}de |{/gef} ed{/c}de{/g} B{/G}B{/g}de | %14
+{/ag} a2{/AGAG}A2{/ag} a2Aa |$ ge{/g}de{/gf} g2{/a}ge |{/g} cd{/c}dB{/g} GA{/g}B{/d}G | %17
+{/g} A4{/GAG} A2 :| %18

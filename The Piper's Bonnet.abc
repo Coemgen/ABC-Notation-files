@@ -1,0 +1,19 @@
+X:1
+T:The Piper's Bonnet
+%%scale 0.83
+%%pagewidth 27.94cm
+%%leftmargin 1.00cm
+%%rightmargin 1.00cm
+L:1/8
+Q:1/4=90
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Bagpipe" snm="Bagp."
+V:1
+|:{/g} e2{/AGAG} A{/gef} e2 d |{/g} e2{/AGAG} A{/g} Bcd |{/g} e2{/AGAG} A{/gef} e2 d | %3
+{/g} B{/d}G{/e}G{/g} Bcd |${/g} e2{/AGAG} A{/g} e2{/AGAG} A | a2{/AGAG} A{/g} e2{/AGAG} A | %6
+{/g} d{/d}d{/e}d{/g} ca{/g}a | B{/d}G{/e}G{/g} Bcd ::${/g} c{/d}A{/e}A{/gce} c2 B | %9
+{/g} c{/d}A{/e}A{/g} Bcd |{/gce} c2 B{/g} c{/d}A{/e}A |{/g} B{/d}G{/e}G{/g} Bcd |$ %12
+{/g} c{/d}A{/e}A{/g} c{/d}A{/e}A |{/g} ec{/d}A{/g} c{/d}A{/e}A |{/g} d{/e}d{/c}d{/g} ca{/e}a | %15
+ B{/d}G{/e}G{/g} Bcd :| %16
