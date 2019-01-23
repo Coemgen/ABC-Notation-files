@@ -1,10 +1,10 @@
+I:linebreak $
 
 X:1
-T:Canntaireachd
+T:Canntaireachd #1
 L:1/8
 Q:1/4=40
 M:none
-I:linebreak $
 K:D
 V:1 stem=down
 {g/4}e2 A>B {G/2d/2G/2}c2 {g/4}d2 c<{G/2d/2G/2}c | {g/4}BG {d/4}B2 {g/4}e2 {dAGAG}A2 | 
@@ -13,3 +13,40 @@ w: hi en o dro ha o- dro|hio em to hi- harin|
 w: hi en o dro he dre|hi do en dre hi to tra|
 {g/4}e2 {d/4}c>A {e/2A/2f/2A/2}e2 {g/4}e2 d2 c<{G/2d/2G/2}c | {g/4}BG {d/4}B2 {g/4}e2 {d/2A/2G/2A/2G/2}A2 || 
 w: hi do en dre hi a o- dro|hio em to hi- harin|
+
+X:2
+T:Canntaireachd #2
+L:1/4
+Q:1/4=40
+M:none
+K:C
+{g} e A/>B/{GdG} c{g} d c/4{GdG}c/ |{g} B/G/{d} B{g} e{dAGAG} A |{g} e A/>B/{GdG} c{g} f{eAfA} e |$ 
+w: hi en o dro ha o- dro|hio em to hi- harin|hi en o dro he dre|
+{g} e{d} c/>A/{eAfA} e{g} e{d} B/{Gdc} d3/2 |{g} e{d} c/>A/{eAfA} e{g} e d c/4{GdG}c/ | 
+w: hi do en dre hi to tra|hi do en dre hi a o- dro|
+{g} B/G/{d} B{g} e{dAGAG} A ||$ a g f e d c B A G z2 z |$ 
+w: hio em to hi- harin|I di ve e a o o en em|
+"^cadence"{ge}{g} f{g} e{g} d{g} c{g} B{g} A{g} G z4 |${d} c{d} B{d} A{d} G | 
+w: he che ha ho hio hin him|do to dan dam,bam|
+z4{e} d{e} c{e} B{e} A{e} G |$"^leumluath"{GdG} e/ z/ d"^leumluath"{GBG} e/ z/ z/ z/ | 
+w: ea eo eo en em|bare ha~- bare|
+{GdGe} A/ z/ d{GBGe} A/ z/ z |"^crunluath"{GdGeAfA} e/ z/ d{GBGeAfA} e/ z/ z |$ 
+w: darid ha~- darid|bandre ha~- bandre|
+"^throw on D"{Gdc} d z{GdG} c z"^bubbly note"{GdGcG} B |$ 
+w: tra dro darodo|
+"^throw on F"{fege} f z{eGfG} g z{GdG} B z"^grip on C" c/{GdG}c/ z"^grip on B" B/{GdG}B/ z{g} A/{GdG}A/ z |$ 
+w: dare bari tro o~- dro o~- tro hin~- bain|
+{g} e{dAGAG} A z z |{g} e d/4{G}d3/4{Gdc} d B | G/4d/4G/4 B2 z/4 z/ z/ | z z z d |] 
+w: hi~- harin|hi~- ha~- ra~- ra *|||
+
+X:3
+T:Taorluath a-mach
+M:4/4
+L:1/8
+Q:1/4=40
+K:D
+V:pipes stem=down
+%%MIDI program 109
+%%MIDI transpose 1
+z8 | {/g}G3/2{/d}A/{/e}A z z4 | {/g}B{/GdGe}B2 z z4 | {/g}c{/GdGe}c2 z z4 | {/g}B{/Gdc}d {/e}d z z4 |$
+w:   him-da-rid              hio-troeo           ho-droeo            hio-tra-ea    
