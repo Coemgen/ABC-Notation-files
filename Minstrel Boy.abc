@@ -1,0 +1,12 @@
+%%linebreak !
+%%MIDI program 109
+
+X:8
+T:Minstrel Boy
+C:Traditional
+M:4/4
+K:HP
+|: e1 |{AGAG}A3B1 {Gdc}d1c1 {gBd}B1{e}A1|{gcd}c2e2{ag}a2g1a1|{fg}f2{g}e2{g}c2{GdG}e1c1 |1 {gBd}B4{G}A3 :|2 {gBd}B4{G}A2 |!
+{gcd}c1e1 |{ag}a2{f}g2{a}f2{gf}g1a1|{f}g2f2{gef}e3{A}e1|{g}f3c1{GdG}c3e1|{g}f2{GdG}f1g1a2{g}a2|!
+{AGAG}A3B1 {Gdc}d1c1 {gBd}B1{e}A1|{gcd}c2e2{ag}a2g1a1|{fg}f2{g}e2{g}c2{GdG}e1c1|{gBd}B4{G}A2|]!
+
