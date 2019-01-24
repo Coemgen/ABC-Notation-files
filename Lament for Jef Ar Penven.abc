@@ -32,15 +32,15 @@ I:linebreak $
 K:D
 %%MIDI droneoff
 V:1
-|: {g} B2{d} B{g} f3 |{a} gfe{g} d3 |{g} efe{gde} d2 B | 
-{gef} e2 d{gcd} c6 |{g} B2{d} B{g} f3 |{gde} dcd{g} e3 |${a} gfe{gde} d2 B |{g} c2 d{gBd} B6 ::$ 
-{g} f2 a{fg} f2 e/d/ |{g} e2 f{g} B2 c/d/ |{g} e2 f a>ga |{e} f6 |{g} f2 a{fg} f2 e/d/ | 
-{g} e2 f{g} B2 c/d/ |{g} e2 f{gde} d2 c |${gcd} c<B-B{d} B3 :|
+|: {g} B2{d} B{g} f3 |{a} gfe{g} d3 |{g} efe{gde} d2 B | {gef} e2 d{gcd} c6 |$
+{g} B2{d} B{g} f3 |{gde} dcd{g} e3 |{a} gfe{gde} d2 B |{g} c2 d{gBd} B6 :|$ 
+{g} f2 a{fg} f2 e/d/ |{g} e2 f{g} B2 c/d/ |{g} e2 f a>ga |{e} f6 |$
+{g} f2 a{fg} f2 e/d/ | {g} e2 f{g} B2 c/d/ |{g} e2 f{gde} d2 c |{gcd} c<B-B{d} B3 :|$
 V:2
 %%MIDI program 109
 %%MIDI transpose 1
-|:${g} B3{g} d3 |{g} e3{g} f3 | 
-{ag} a2 g{a} f3 |{g} eag{a} fed{gcd} c3 |{g} d3{e} B3 |{gBd} Bcd{g} edc |{g} d2 e{gfg} f3 |$ 
-{g} ecd{gef} edc{gBd} B3 ::${g} B3{g} d3 |{g} cBc{g} d3 |{g} edc{g} d2 e |{g} edc{gBd} B2 A | 
-{g} B3{g} d3 |{g} ced{g} B2 A |{g} GAB{gBd} B2 c |${gcd} c<B-B{d} B3 :| 
+|:${g} B3{g} d3 |{g} e3{g} f3 |  {ag} a2 g{a} f3 |{g} eag{a} fed{gcd} c3 |$
+{g} d3{e} B3 |{gBd} Bcd{g} edc |{g} d2 e{gfg} f3 | {g} ecd{gef} edc{gBd} B3 :|$
+|: {g} B3{g} d3 |{g} cBc{g} d3 |{g} edc{g} d2 e |{g} edc{gBd} B2 A |$
+{g} B3{g} d3 |{g} ced{g} B2 A |{g} GAB{gBd} B2 c |{gcd} c<B-B{d} B3 :|$ 
 %%MIDI droneoff
