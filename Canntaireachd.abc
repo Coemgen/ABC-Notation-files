@@ -40,7 +40,7 @@ w: dare bari tro o~- dro o~- tro hin~- bain|
 w: hi~- harin|hi~- ha~- ra~- ra *|||
 
 X:3
-T:Taorluath a-mach
+T:Taorluath a-mach (for sound conversion)
 M:4/4
 L:1/8
 Q:1/4=40
@@ -49,4 +49,14 @@ V:pipes stem=down
 %%MIDI program 109
 %%MIDI transpose 1
 z8 | {/g}G3/2{/d}A/{/e}A z z4 | {/g}B{/GdGe}B2 z z4 | {/g}c{/GdGe}c2 z z4 | {/g}B{/Gdc}d {/e}d z z4 |$
+w:   him-da-rid              hio-troeo           ho-droeo            hio-tra-ea    
+
+X:4
+T:Taorluath a-mach (for image conversion)
+M:4/4
+L:1/8
+Q:1/4=40
+K:D
+V:pipes stem=down
+z8 | {g//}G3/2{d//}A/{e//}A z z4 | {g//}B{G/d/G/e/}B2 z z4 | {g//}c{G/d/G/e/}c2 z z4 | {g//}B{Gd/c/}d {e//}d z z4 |$
 w:   him-da-rid              hio-troeo           ho-droeo            hio-tra-ea    
