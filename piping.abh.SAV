@@ -1,0 +1,45 @@
+% The included file may contain information fields, stylesheet directives and
+% comments, but no other abc constructs.
+% http://abcnotation.com/wiki/abc:standard:v2.2#include_field
+% %%papersize A4
+% A:area 
+% A:Donegal, A:Bampton (deprecated) 
+% B:book 
+% B:O'Neills 
+% C:composer 
+% C:Robert Jones, C:Trad. 
+% D:discography 
+% D:Chieftains IV 
+% F:file url 
+% F:http://a.b.c/file.abc 
+% G:group 
+% G:flute 
+% H:history 
+% H:The story behind this tune … 
+% I:instruction 
+% I:papersize A4
+% L:unit note length 
+% L:1/4, L:1/8 
+% M:meter 
+% M:3/4, M:4/4 
+% m:macro 
+% m: ~G2 = {A}G{F}G 
+% N:notes 
+% N:see also O'Neills - 234 
+% O:origin 
+% O:UK; Yorkshire; Bradford 
+% R:rhythm 
+% R:R, R:reel 
+% r:remark 
+% r:I love abc 
+% S:source 
+% S:collected in Brittany 
+% U:user defined 
+% U: T = !trill! 
+% Z:transcription 
+% Z:John Smith, <j.s@mail.com>
+%
+%%linebreak $
+%%MIDI program 109
+%%MIDI gracedivider 8
+%%MIDI drone 70 45 33 70 70

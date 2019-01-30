@@ -1,0 +1,18 @@
+%abc-2.1
+%%MIDI program 109
+%%MIDI gracedivider 8
+%%MIDI drone 70 45 33 70 70
+
+X:1
+T:Ch\`i mi na m\`orbheanna
+C:Iain Camshroin
+M:6/8
+L:1/8
+Q:1/8=112
+K:Hp
+%%MIDI droneon
+|: {g}B3 {GdG}B3 | {g}f>{Gd}Af {gfg}f>ec | {g}A3 {GAG}A3 | {gcd}c>{e}Bc {gBd}B2 {e}A/>B/ |
+{Gdc}d3 {gef}e3 | {g}f>ga {cd}c>B{e}A | {g}B>{d}cf {gef}e>dc | {g}B3 {GdG}B3 :|
+|: {g}f3 {GdG}f3 | {g}e>fa {fg}f>ec | {g}A>{GdG}A{e}A {gef}e2 c | {g}f>{Gd}Gf {gef}e>dc |
+{g}B3 {Gdc}d3 | {g}e>fa {cd}c>BA | {g}B>{d}cf {gef}e>dc | {g}B3 {GdG}B3 :|
+%%MIDI droneoff
