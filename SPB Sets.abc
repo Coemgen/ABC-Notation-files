@@ -107,7 +107,7 @@ T:Scotland the Brave
 {/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2 {/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}e2{/A}e3/2f/2 {/g}e3/4d/4c3/4B/4|!
 {/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}A3/2B/2{/G}A2{/gcd}c1e1|!
 {/ag}a2{/g}a2{/GdG}a1e1 {/gce}c1{/e}A1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1e1| {/ag}a2 {/g}a3/2g/2 {/a}f2{/ag}a3/2g/2 | {/a}fa {/f}gf {/gef}ed {/gcd}cB|!
-{/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}A3/2B/2{/G}A3|]
+{/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}A3/2B/2{/G}A2|]
 T:Rowan Tree
 {/g}A3/2B/2|{/GdG}c3{/d}c1{/gcd}c2B2|{/gcd}c1e3{/A}e2a2|{/fg}f3e1{/g}f2a2|{/fg}f2e2{/A}e2{/g}A3/2B/2|!
 {/GdG}c3{/d}c1{/gcd}c2B2|{/gcd}c1e3{/g}f3e1|{/gef}e1c3{/gBd}B3{/G}A1|{/g}A4{/GAG}A3||!
@@ -141,7 +141,7 @@ T:Twenty Men from Dublin
 {/g}A3{/d}B1{/G}A2{/Gdc}d2|{/gfg}f3{/g}e1{/Gdc}d4|{/gBd}B3c1 {/gef}e1d1 {/gcd}c1{/e}B1|{/G}A4{/GAG}A4|!
 {/g}A3{/d}B1{/G}A2{/Gdc}d2|{/gfg}f3{/g}e1{/Gdc}d4|{/gef}e3f1 {/gf}g1e1 {/gcd}c1{/e}A1|{/Gdc}d4{/gdG}d4||!
 {/gf}g2{/a}f2{/gef}e2{/AGAG}A2|{/gfg}f3{/g}e1{/Gdc}d4|{/gBd}B3c1 {/gef}e1d1 {/gcd}c1{/e}B1|{/G}A4{/GAG}A4|!
-{/g}A3{/d}B1{/G}A2{/Gdc}d2|{/gfg}f3{/g}e1{/Gdc}d4|{/gef}e3f1 {/gf}g1e1 {/gcd}c1{/e}A1|{/Gdc}d4{/gdG}d3:|]
+{/g}A3{/d}B1{/G}A2{/Gdc}d2|{/gfg}f3{/g}e1{/Gdc}d4|{/gef}e3f1 {/gf}g1e1 {/gcd}c1{/e}A1|{/Gdc}d4{/gdG}d3|]
 
 X:7
 T:Retreat Set #1
