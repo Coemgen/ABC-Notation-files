@@ -1,0 +1,17 @@
+
+X:4
+T:The Skye Boat Song
+C:Trad.
+L:1/16
+Q:1/4=46
+M:6/8
+I:linebreak $
+K:D
+|:"^<sym>metNoteQuarterUp</sym> = 46"{g} A3{d}B{e}A2{Gdc} d3{g}cd2 |{g} e2>f2{g}e2{ag} a6 | 
+{fg} f3{g}ef2{g} B4{GdGe} B2 |{g} A6{GAG} A6 ::${gfg} f3{g}df2{gfg} f6 |{gef} e3{g}Be2{gef} e6 | 
+{Gdc} d3{g}Bd2{gde} d4{c} d2 |{g} B6{GdGe} B6 :|${g} A3{d}B{e}A2{Gdc} d3{g}cd2 | 
+{g} e2>f2{g}e2{ag} a6 |{fg} f3{g}ef2{g} B4{GdGe} B2 |{g} A6{GAG} A6 |$ 
+{g} A3{d}B{e}A2{Gdc} d3{g}cd2 |{g} e2>f2{g}e2{ag} a6 |{fg} f3{g}ef2{g} B4{d} c2 | 
+{Gdc} d6{gdc} d6 |] 
+
+
