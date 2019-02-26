@@ -1,11 +1,32 @@
+%abc-2.1
+%%MIDI program 109
+
 X:1
-%%MIDI gracedivider 8
 T:Deoch an Dorais
 L:1/8
 Q:1/4=56
 M:4/4
 I:linebreak $
-K:Hp
+K:HP
+%%MIDI gracedivider 8
+%%MIDI drone 70 45 33 70 70
+%%MIDI droneon
+{gef} e>d |{cd} c2{e} B{d}c{g} A2{g} AB |{g} c{G}d{A}ec{GdGc} d2{g} cd | 
+{gef} e2 af gf{gef}ed |{cd} c2{e} A2{g} G2{gef} e>d |${cd} c2{e} B{d}c{g} A2{g} AB | 
+{g} c{G}d{A}ec{GdGc} d2{g} c>d |{gef} e2 a>f gf{gef}ed |{cd} c2{e} A2{GdG} A2 ||$ 
+{g} e>f |{gf} gf{gf}ga{f} gf{gef}ed |{gef} e2 a2{g} a2{f} ga | 
+{f} gf{gef}ed{cd} cB{g}de |{g} e2{g} A2{d} G2{gef} e>d |$ 
+{cd} c2{e} B{d}c{g} A2{g} AB |{g} c{G}d{A}ec{GdGc} d2{g} c>d |{gef} e2 a>f gf{gef}ed | 
+{cd} c2{e} A2{GdG} A2 || 
+%%MIDI droneoff
+
+X:2
+T:Deoch an Dorais (mxl)
+L:1/8
+Q:1/4=56
+M:4/4
+I:linebreak $
+K:AMix
 {/gef} e>d |{/cd} c2{/e} B{/d}c{/g} A2{/g} AB |{/g} c{/G}d{/A}ec{/GdGc} d2{/g} cd | 
 {/gef} e2 af gf{/gef}ed |{/cd} c2{/e} A2{/g} G2{/gef} e>d |${/cd} c2{/e} B{/d}c{/g} A2{/g} AB | 
 {/g} c{/G}d{/A}ec{/GdGc} d2{/g} c>d |{/gef} e2 a>f gf{/gef}ed |{/cd} c2{/e} A2{/GdG} A2 ||$ 

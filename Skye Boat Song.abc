@@ -1,17 +1,30 @@
+%abc-2.1
+%%MIDI program 109
 
-X:4
+X:1
 T:The Skye Boat Song
 C:Trad.
 L:1/16
-Q:1/4=46
+Q:1/4=56
 M:6/8
-I:linebreak $
+K:HP
+%%MIDI gracedivider 8
+%%MIDI drone 70 45 33 70 70
+%%MIDI droneon
+|:{g} A3{d}B{e}A2{Gdc} d3{g}cd2 |{g} e2>f2{g}e2{ag} a6 | {fg} f3{g}ef2{g} B4{GdGe} B2 |{g} A6{GAG} A6 :|
+|:{gfg} f3{g}df2{gfg} f6 |{gef} e3{g}Be2{gef} e6 | {Gdc} d3{g}Bd2{gde} d4{c} d2 |{g} B6{GdGe} B6 :|
+{g} A3{d}B{e}A2{Gdc} d3{g}cd2 | {g} e2>f2{g}e2{ag} a6 |{fg} f3{g}ef2{g} B4{GdGe} B2 |{g} A6{GAG} A6 | 
+{g} A3{d}B{e}A2{Gdc} d3{g}cd2 |{g} e2>f2{g}e2{ag} a6 |{fg} f3{g}ef2{g} B4{d} c2 | {Gdc} d6{gdc} d6 |] 
+%%MIDI droneoff
+
+X:2
+T:The Skye Boat Song (mxl)
+C:Trad.
+L:1/8
+Q:1/4=56
+M:6/8
 K:D
-|:"^<sym>metNoteQuarterUp</sym> = 46"{g} A3{d}B{e}A2{Gdc} d3{g}cd2 |{g} e2>f2{g}e2{ag} a6 | 
-{fg} f3{g}ef2{g} B4{GdGe} B2 |{g} A6{GAG} A6 ::${gfg} f3{g}df2{gfg} f6 |{gef} e3{g}Be2{gef} e6 | 
-{Gdc} d3{g}Bd2{gde} d4{c} d2 |{g} B6{GdGe} B6 :|${g} A3{d}B{e}A2{Gdc} d3{g}cd2 | 
-{g} e2>f2{g}e2{ag} a6 |{fg} f3{g}ef2{g} B4{GdGe} B2 |{g} A6{GAG} A6 |$ 
-{g} A3{d}B{e}A2{Gdc} d3{g}cd2 |{g} e2>f2{g}e2{ag} a6 |{fg} f3{g}ef2{g} B4{d} c2 | 
-{Gdc} d6{gdc} d6 |] 
-
-
+|: {/g}A3/2{/d}B/{/e}A {/Gdc}d3/2{/g}c/d | {/g}e3/2f/{/g}e {/ag}a3 | {/fg}f3/2{/g}e/f {/g}B2 {/GdGe}B | {/g}A3 {/GAG}A3 :|
+|: {/gfg}f3/2{/g}d/f {/gfg}f3 | {/gef}e3/2{/g}B/e {/gef}e3 | {/Gdc}d3/2{/g}B/d {/gde}d2{/c}d | {/g}B3 {/GdGe}B3 :|
+{/g}A3/2{/d}B/{/e}A {/Gdc}d3/2{/g}c/d | {/g}e>f{/g}e {/ag}a3 | {/fg}f3/2{/g}e/f {/g}B2 {/GdGe}B | {/g}A3 {/GAG}A3 | 
+{/g}A3/2{/d}B/{/e}A {/Gdc}d3/2{/g}c/d | {/g}e>f{/g}e {/ag}a3 | {/fg}f3/2{/g}e/f {/g}B2 {/d}c | {/Gdc}d3 {/gdc}d3 |]
