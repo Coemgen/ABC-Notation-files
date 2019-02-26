@@ -1,0 +1,22 @@
+%abc-2.1
+%%MIDI program 109
+
+X:1
+T:THE WEE HIGHLAND LADDIE
+C:P/M Donald MacLeod
+Z:24
+L:1/8
+Q:1/4=84
+M:4/4
+I:linebreak $
+K:D
+"^<sym>metNoteQuarterUp</sym> = 84"{g} B2{GdGe} B{d}c{gfg} f2{gef} ec | 
+{gBd} B2{e} A>B{gcd} c{g}B{GdGe} B{d}c |{g} e>f{gef} ec{gef} e2{gcd} c{e}B |$ 
+{gAGAG} A2{gcd} c{e}B{gBd} B{e}A{gAd} A{e}G |${g} A2{GdGe} A{g}A{ag} a2{g} a>g | 
+{fg} f>e{g} fa{fg} fe{gcd} ce |{g} f>g ag{fg} f2{gef} ec |{gBd} B2{gfg} f>e{gcd} c{g}B{GdGe} B2 |$ 
+{g} f/ |{ag} a>g{a} fa{fg} f2{g} e{g}f |{ag} a>g{a} fa{fg} fe{gcd} cf | 
+{g} e>f{gef} ec{gef} e2{gcd} c{e}B |${gAGAG} A2{gcd} c{e}B{gBd} B{e}A{gAd} A{e}G |$ 
+{g} A2{GdGe} A{g}A{ag} a2{g} a>g |{fg} f>e{g} fa{fg} fe{gcd} ce |{g} f>g ag{fg} f2{gef} ec |$ 
+{gBd} B2{gfg} f>e{gcd} c{g}B{GdGe} B2 |] 
+
+
