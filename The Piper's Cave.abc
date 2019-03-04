@@ -1,0 +1,33 @@
+%abc-2.1
+%%linebreak !
+%%MIDI program 109
+
+X:1
+T:The Piper's Cave (png)
+M:2/4
+L:1/8
+Q:1/4=56
+K:HP
+|: {gce} c/>B/ | \
+{g} A2{GAG} A>B |{GdG} cf{e} fa/>f/ | {gef} ec{gce} c{g}B/4{d}A3/4 | {gce} c{g}B{GdGe} B{gce}c/>B/ |!
+{g} A2{GAG} A>B | {GdG} cf{e} fa/>f/ |{gef} e>c{g} B{gce}c/>B/ |{g} A2{GAG} A :|!
+{gf} g | \
+{ag} af{gfg} f{g}e/>f/ |{ag} ac{GdG} ca/>f/ |{gef} ec{gce} c{g}B/4{d}A3/4 | {gce} c{g}B{GdGe} B{gf}g |!
+{ag} af{gfg} f{g}e/>f/ |{ag} ac{GdG} ca/>f/ | {gef} e>c{g} B{gce}c/>B/ |{g} A2{GAG} A{gf}g |!
+{ag} af{gfg} f{g}e/>f/ | {ag} ac{GdG} ca/>f/ |{gef} ec{gce} c{g}B/4{d}A3/4 |{gce} c{g}B{GdGe} B{gce}c/>B/ |!
+{g} A2{GAG} A>B |{GdG} cf{e} fa/>f/ |{gef} e>c{g} B{gce}c/>B/ |{g} A2{GAG} A |]!
+
+X:2
+T:The Piper's Cave (mp3)
+M:2/4
+L:1/8
+Q:1/4=56
+K:AMix
+|: {/gce} c/>B/ | \
+{/g} A2{/GAG} A>B |{/GdG} cf{/e} fa/>f/ | {/gef} ec{/gce} c{/g}B/4{/d}A3/4 | {/gce} c{/g}B{/GdGe} B{/gce}c/>B/ |!
+{/g} A2{/GAG} A>B | {/GdG} cf{/e} fa/>f/ |{/gef} e>c{/g} B{/gce}c/>B/ |{/g} A2{/GAG} A :|!
+{/gf} g | \
+{/ag} af{/gfg} f{/g}e/>f/ |{/ag} ac{/GdG} ca/>f/ |{/gef} ec{/gce} c{/g}B/4{/d}A3/4 | {/gce} c{/g}B{/GdGe} B{/gf}g |!
+{/ag} af{/gfg} f{/g}e/>f/ |{/ag} ac{/GdG} ca/>f/ | {/gef} e>c{/g} B{/gce}c/>B/ |{/g} A2{/GAG} A{/gf}g |!
+{/ag} af{/gfg} f{/g}e/>f/ | {/ag} ac{/GdG} ca/>f/ |{/gef} ec{/gce} c{/g}B/4{/d}A3/4 |{/gce} c{/g}B{/GdGe} B{/gce}c/>B/ |!
+{/g} A2{/GAG} A>B |{/GdG} cf{/e} fa/>f/ |{/gef} e>c{/g} B{/gce}c/>B/ |{/g} A2{/GAG} A |]!
