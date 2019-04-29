@@ -1,0 +1,34 @@
+%%linebreak !
+%%MIDI gracedivider 8
+%%MIDI drone 70 45 33 70 70
+% %%MIDI drum ddd 76 77 77 100 100 100
+% %%MIDI droneon
+% %%MIDI drumon
+
+X:10
+T:Scotland the Brave
+C:Traditional
+M:4/4
+K:D
+V:chanter
+%%MIDI channel 0
+%%MIDI program 109
+z8 | z4 e4 |!
+{/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2 {/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}e2{/A}e3/2f/2 {/g}e3/4d/4c3/4B/4|!
+{/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}A3/2B/2{/G}A2{/gcd}c1e1|!
+{/ag}a2{/g}a2{/GdG}a1e1 {/gce}c1{/e}A1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1e1| {/ag}a2 {/g}a3/2g/2 {/a}f2{/ag}a3/2g/2 | {/a}fa {/f}gf {/gef}ed {/gcd}cB|!
+{/g}A2{/GdGe}A3/2B/2 {/gcd}c1{/e}A1 {/gcd}c1e1|{/ag}a2{/g}a2{/GdG}a1e1 {/gcd}c1{/e}A1|{/Gdc}d2{/g}f3/2d/2 {/gcd}c1e1 {/gcd}c1{/e}A1|{/gBd}B2{/g}A3/2B/2{/G}A4|]
+V:bass clef=perc
+K:C stafflines=3
+%%MIDI channel 10
+%%MIDI program 0
+%%MIDI drummap G 36
+G2 G2 G2 z2 | G2 G2 G2 z2 |!
+G2 G2 G2 G2 | G2 G2 G2 G2 |!
+G2 G2 G2 G2 | G2 G2 G2 G2 |!
+G2 G2 G2 G2 | G2 G2 G2 G2 |!
+G2 G2 G2 G2 | G2 G2 G2 G2 |!
+G2 G2 G2 G2 | G2 G2 G2 G2 |!
+G2 G2 G2 G2 | G2 G2 G2 G2 |!
+G2 G2 G2 G2 | G2 G2 G2 G2 |!
+GG z2 GG z2 | G2 G2 G4 |]
