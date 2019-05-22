@@ -7,7 +7,7 @@ X:1
 T:MacGregor's Search
 M:3/4
 L:1/8
-Q:1/4=40
+Q:1/4=84
 R:retreat
 S:MacLeod's Tutor for the Highland Bagpipe
 K:AMix
@@ -24,7 +24,7 @@ X:2
 T:MacGregor of Roro
 M:3/4
 L:1/8
-Q:1/4=40
+Q:1/4=84
 S:The Edinburgh Collection of Highland Bagpipe Music
 K:AMix
 %%MIDI drone 70 45 33 70 70
@@ -40,7 +40,7 @@ X:3
 T:MacGregor of Ruaro
 M:3/4
 L:1/8
-Q:1/4=40
+Q:1/4=84
 S:Henderson's Tutor for the Bagpipe and Collection of Pipe Music
 K:AMix
 %%MIDI drone 70 45 33 70 70
@@ -88,7 +88,7 @@ X:6
 T:MacGregor of Ruaro's Lament
 M:3/4
 L:1/8
-Q:1/4=40
+Q:1/4=84
 R:retreat
 S:David Glen's Collection of Highland Bagpipe Music
 K:AMix
@@ -98,3 +98,17 @@ K:AMix
 {/GdGc}d2 {/g}e3/2d/ {/Bd}B3/2{/G}A/ | {/g}A{/d}G {/gf}g2 {/G}d/{/A}e3/2 | {/g}G2 {/d}A2 {/GdGc}d3/2c/ | {/gBd}B2 {/G}A2 :|!
 |: {/gf}g3/2e/ | {/ag}a2 {/g}a2 {/f}g3/2e/ | {/GdGc}d2 {/g}d2 {/gf}g3/2e/ | {/ag}a2 {/g}a2 {/f}g3/2e/ | {/gf}g2 {/GdGc}d2 {/g}e3/2f/ |!
 {/gf}g2 a2 {/f}g3/2e/ [1 {/GdGc}d2 {/gf}g2 {/a}e/g3/2 |2 {/GdGc}d2 {/ag}a2 e/f/g || {/g}G2 {/d}A2 {/GdGc}d3/2c/ | {/gBd}B2 {/G}A2 :|
+
+X:7
+T:MacGregor of Rora
+M:3/4
+L:1/8
+Q:1/4=84
+R:retreat
+K:AMix
+%%MIDI drone 70 45 33 70 70
+%%MIDI droneon
+|: {/g}A3/2{/d}B/ {/gef}e2 {/A}e2 | {/gef}ed {/gef}e2 {/gAGAG}A2 | {/g}A3/2{/d}B/ {/gef}e2 {/gf}g2 | {/a}f/a3/2 {/GdGc}d2 {/e}G2 |!
+{/dc}d{/e}B {/GdGc}d2 {/gef}e3/2d/ | {/gBd}B{/e}A {/eAd}A{/e}G {/gf}g3/2f/ | {/gef}e3/2d/ {/g}B/d3/2 {/e}G2 | {/g}A2 {/GdG}B2 {/G}A2 :|!
+|: {/g}A3/2B/ {/gef}e2 {/ag}a2 | {/f}ge {/gef}ed {/gBd}B{/G}A | {/g}A3/2{/d}B/ {/gef}e2 {/ag}a2 | {/f}g3/4f/4{/g}e3/4d/4 {/gf}g2 {/a}G2 |!
+{/dc}d{/e}B {/GdGc}d2 {/gef}e3/2d/ | {/gBd}B{/e}A {/eAd}A{/e}G {/gf}g3/2f/ | {/gef}e3/2d/ {/g}B/d3/2 {/e}G2 | {/g}A2 {/GdG}B2 {/G}A2 :|!
