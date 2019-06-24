@@ -1,0 +1,19 @@
+
+X:4
+T:Flowers of the Forest
+L:1/8
+M:2/4
+I:linebreak $
+Q:1/4=56
+K:D
+%%MIDI program 109
+|: e |{/g} A2{/GAG} AB |{/G} A{/g}B/c/{/GdGc} d{/g}((3e/f/g/) |{/fg} f2{/gef} ed | 
+{/g} B<d{/gBd} B{/g}A/4{/d}G3/4 |${/g} A2{/GAG} AB |{/G} A{/g}B/c/{/Gdc} d{/g}((3e/f/g/) |{/fg} f2{/GdG} e>f | 
+{/GdGc} d2{/gdG} d2 ::${/gcd} c2{/g} c/<e/{/gde}d/>c/ |{/gBd} B{/G}A{/g} B<d |{/g} A<f{/gef} ed | 
+{/g} B<d{/gBd} B{/g}A/4{/d}G3/4 |${/gcd} c2{/g} c/<e/{/gde}d/>c/ |{/gBd} B{/G}A{/g} B<d |{/g} A>f{/g} e>c | 
+{/GdGc} d2{/gdG} d2 :|$ e |{/g} f<a{/g} a2 |{/GdG} a>g{/a} f/ag/ |{/fg} f2{/gef} ed |{/g} B<d{/G} A2 |$ 
+{/g} f<a{/g} a2 |{/GdG} a>g{/a} f/ag/ |{/fg} f2{/g} e>c |{/GdGc} d2{/gdG} de |${/g} f<a{/g} a2 | 
+{/GdG} a>g{/a} f/ag/ |{/fg} f2{/gef} ed |{/g} B<d{/gBd} B{/g}A/4{/d}G3/4 |${/g} A2{/GAG} AB | 
+{/G} A{/g}B/c/{/GdGc} d{/g}((3e/f/g/) |{/fg} f2{/GdG} e>f |{/GdGc} d2{/gdG} d2 |] 
+
+
