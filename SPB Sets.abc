@@ -56,10 +56,10 @@ T:2-4 Set #1 (Teribus)
 C:Traditional (RSPBA setting)
 M:2/4
 L:1/8
-Q:1/4=84
+Q:1/2=56
 K:D
 T:Teribus
-e2
+e6
 |:A2|{/Gdc}d2{/e}A2 {/Gdc}d3e1|{/g}f2a2 {/fg}f2d2|{/gf}g3f1 {/gef}e3d1|{/gcd}c2e2 {/gcd}c2{/e}A2|!
 {/Gdc}d2{/e}A2 {/Gdc}d3e1|{/g}f2a2 {/gf}f2d2|{/gf}g3f1 {/gef}e2a2|{/gfg}f2d2 {/gdG}d2:|!
 |: {/gf}g2 | a4{/GdG}a3g1|{/fg}f2a2 {/fg}f2d2|{/gf}g3f1 {/gef}e3d1|{/gcd}c2e2 {/gcd}c2{/e}A2|!
