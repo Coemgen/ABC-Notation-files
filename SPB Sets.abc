@@ -4,7 +4,7 @@
 %%MIDI program 109
 
 X:1
-T:6-8 Set #1
+T:6-8 Set (A Hundred Pipers)
 M:6/8
 L:1/8
 Q:3/8=56
@@ -52,7 +52,7 @@ M:2/4
 |2{/g} A2{/GdGe} A{/gf}g |{/ef} ed{/g} e>f |{/gf} g>e{/Gdc} d{/e}B | {/gef} e{/g}A{/GAG} A |]!
 
 X:3
-T:2-4 Set #1
+T:2-4 Set #1 (Teribus)
 C:Traditional (RSPBA setting)
 M:2/4
 L:1/8
@@ -73,7 +73,7 @@ T:The Brown Haired Maiden
 [2 {/ag}a3g {/fg}f2a2|{/AGAG}A4{/Gdc}d3e1|{/g}f4{/gf}g2{/a}e2|{/Gdc}d4{/gdG}d2|]!
 
 X:4
-T:Patriotic Set
+T:Military Set #2 (Land)
 M:4/4
 L:1/8
 Q:1/4=84
@@ -89,16 +89,6 @@ T:Marine Corps Hymn
 a1g1 |\
 {/fg}f2d2{/g}f2d2|{/gef}e3c1{/gef}e2a1g1|{/fg}f2d2{/g}f1a3 |{/ef}e4{/A}e2 |!
 {/g}A1{/d}c1| {/gef}e2{/A}e2{/gef}e2{/A}e2 |{/gef}e3a1{/ef}e2c1d1|{/gef}e2{/A}e2{/gde}d1B3 |{/G}A4{/GAG}A2 |]!
-T:Anchors Aweigh
-|:{/gAd}A4{/g}c2e2 |{/gfg}f3c1{/g}f4 |{/Gdc}d4{/gef}e2A2 |{/Gdc}d4-d4 |!
-[1  {/gBd}B4 {/Gdc}d2B2 |{/gAd}A2B2 {/g}c2{/Gdc}d2 |{/g}G2{/d}B2{/gef}e2d2 |{/gcd}c2{/g}A2{/gfg}f2{/g}e2 :|!
-[2  {/gBd}B4 {/Gdc}d2B2 |{/gAd}A2B2 {/g}c2{/Gdc}d2 |{/g}f3/2A/2 {/g}G1{/d}A1 {/g}e3/2A/2 {/g}G1{/d}A1 |{/Gdc}d4{/gdG}d4 |]!
-T:Semper Paratus
-{/g} A2{/d} A2{/e} AG{/g} Ad |{/g} (e2 e4){/A} e2 |{/gfg} (f2 f)e{/Gdc} d2 f2 | 
-{/gef} (e2 e4){/g} c2 |! 
-{/Gdc} (d2 d)c{/gBd} B2 e2 | {/gcd} c2 B2{/G} A2 c2 |{/g} B2 e2 d2 f2 | {/g} e8 ||!
-{/g} A2{/d} A2{/e} AG{/g} Ad |{/g} ((e2 e4)){/A} e2 |{/gfg} (f2 f)e{/Gdc} d2 f2 | {/gef} (e2 e4){/g} c2 |!
-{/Gdc} (d2 d)c{/gBd} B2 e2 |{/gcd} c2 B2{/G} A2 B2 |{/g} c(ee)c{/g} A2 B2 | {/G} A4{/GAG} A2 |]!
 
 X:5
 T:Traditional Set
@@ -150,7 +140,7 @@ T:Twenty Men from Dublin
 {/g}A3{/d}B1{/G}A2{/Gdc}d2|{/gfg}f3{/g}e1{/Gdc}d4|{/gef}e3f1 {/gf}g1e1 {/gcd}c1{/e}A1|{/Gdc}d4{/gdG}d3|]
 
 X:7
-T:Retreat Set #1
+T:3-4 Set #1 (Castle Dangerous)
 M:3/4
 L:1/8
 Q:1/4=56
@@ -169,7 +159,7 @@ T:Dream Valley of Glendaruel
   {/g}f3/2e/2 {/Gdc}d1f1{/AGAG}A2|{/ag}a3/2g/2 {/a}f1a1{/Gdc}d2 |{/g}d3/2c/2{/gBd}B2{/g}G1{/gf}g1 |  {/a}e3/2c/2{/Gdc}d4 :|]!
 
 X:8
-T:Retreat Set #2
+T:3-4 Set #2 (Green Hills)
 C:J. MacLeod
 L:1/8
 M:3/4
@@ -187,3 +177,32 @@ T:When the Battle's O'er
 |:
 {/gef}e3/2c/2{/gBd}B2{/G}A2|{/ag}a3/2g/2{/fg}f2{/g}e2|{/g}A3/2B/2{/GdG}c2{/gef}e3/2c/2|{/gBd}B1{/G}A1{/GdG}B4|!
 {/gef}e3/2c/2{/gBd}B2{/G}A2|{/ag}a3/2g/2{/fg}f2{/g}e2|{/g}A3/2B/2{/GdG}c2{/gef}e3/2c/2|{/g}B3/2c/2{/G}A4:|
+
+X:9
+T:Military Set #1 (Sea)
+M:4/4
+L:1/8
+Q:1/4=84
+K:D
+T:Anchors Aweigh
+e4
+|:{/gAd}A4{/g}c2e2 |{/gfg}f3c1{/g}f4 |{/Gdc}d4{/gef}e2A2 |{/Gdc}d4-d4 |!
+[1  {/gBd}B4 {/Gdc}d2B2 |{/gAd}A2B2 {/g}c2{/Gdc}d2 |{/g}G2{/d}B2{/gef}e2d2 |{/gcd}c2{/g}A2{/gfg}f2{/g}e2 :|!
+[2  {/gBd}B4 {/Gdc}d2B2 |{/gAd}A2B2 {/g}c2{/Gdc}d2 |{/g}f3/2A/2 {/g}G1{/d}A1 {/g}e3/2A/2 {/g}G1{/d}A1 |{/Gdc}d4{/gdG}d4 |]!
+T:Semper Paratus
+{/g} A2{/d} A2{/e} AG{/g} Ad |{/g} e2-e4 {/A} e2 |{/gfg} f2-f e{/Gdc} d2 f2 | 
+{/gef} e2-e4 {/g} c2 |! 
+{/Gdc} d2-d c{/gBd} B2 e2 | {/gcd} c2 B2{/G} A2 c2 |{/g} B2 e2 d2 f2 | {/g} e8 ||!
+{/g} A2{/d} A2{/e} AG{/g} Ad |{/g} e2-e4 {/A} e2 |{/gfg} f2-f e{/Gdc} d2 f2 | {/gef} e2-e4 {/g} c2 |!
+{/Gdc} d2-d c{/gBd} B2 e2 |{/gcd} c2 B2{/G} A2 B2 |{/g} ce-ec{/g} A2 B2 | {/G} A4{/GAG} A2 |]!
+
+X:10
+T:Amazing Grace
+M:3/4
+Q:1/4=56
+K:D
+e2
+|:{/g}Ad|{/gdG}d4{/g}f1e/2d/2|{/g}f4{/g}f1e1|{/Gdc}d4{/g}B2|{/G}A4{/g}Ad|!
+{/gdG}d4{/g}f1e/2d/2|{/g}f4{/g}e1f1|{/ag}a6|{/g}a4f1a1|!
+{/g}a4f1e/2d/2|{/g}f4{/g}f1e|{/Gdc}d4{/g}B2|{/G}A4{/g}Ad|!
+{/gdG}d4{/g}f1e/2d/2|{/g}f4{/g}e2|1  {/Gdc}d6|{/gdG}d4:|2  {/gef}e6|{/Gdc}d6|]

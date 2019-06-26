@@ -1,4 +1,5 @@
-I:abc-include piping.abh
+%abc-2.1
+I:abc-include C:\Users\coemg\OneDrive\Documents\GitHub\EasyABC\piping.abh
 
 % https://ifdo.ca/~seymour/runabc/abcguide/abc2midi_guide.html
 % http://moinejf.free.fr/abcm2ps-doc/features.xhtml
@@ -15,7 +16,6 @@ D:Highland Bagpipes, Seumas MacNeill, 1970
 F:https://github.com/Coemgen/ABC-Notation-files/blob/master/MacGregor%20of%20Huara.abc
 G:great highland bagpipe
 H:history TBD
-I:linebreak $
 L:1/8
 M:3/4
 % m: ~G2 = {A}G{F}G
@@ -34,6 +34,7 @@ V:1 clef=treble stem=down
 % w:lyrics aligned with notes
 Z:abc-transcription Kevin Griffin, Jan 1, 2019
 K:AMix
+%%MIDI program 109
 %%MIDI gracedivider 8
 %%MIDI drone 70 45 33 70 70
 %%MIDI drum ddd 76 77 77 100 100 100

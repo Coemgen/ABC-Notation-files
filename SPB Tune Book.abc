@@ -366,11 +366,11 @@ T:Semper Paratus
 M:4/4
 K:D
  e2 | 
-{/g} A2{/d} A2{/e} AG{/g} Ad |{/g} (e2 e4){/A} e2 |{/gfg} (f2 f)e{/Gdc} d2 f2 | 
-{/gef} (e2 e4){/g} c2 |! 
-{/Gdc} (d2 d)c{/gBd} B2 e2 | {/gcd} c2 B2{/G} A2 c2 |{/g} B2 e2 d2 f2 | {/g} e8 ||!
-{/g} A2{/d} A2{/e} AG{/g} Ad |{/g} ((e2 e4)){/A} e2 |{/gfg} (f2 f)e{/Gdc} d2 f2 | {/gef} (e2 e4){/g} c2 |!
-{/Gdc} (d2 d)c{/gBd} B2 e2 |{/gcd} c2 B2{/G} A2 B2 |{/g} c(ee)c{/g} A2 B2 | {/G} A4{/GAG} A4 |]!
+{/g} A2{/d} A2{/e} AG{/g} Ad |{/g} e2-e4 {/A} e2 |{/gfg} f2-f e{/Gdc} d2 f2 | 
+{/gef} e2-e4 {/g} c2 |! 
+{/Gdc} d2-d c{/gBd} B2 e2 | {/gcd} c2 B2{/G} A2 c2 |{/g} B2 e2 d2 f2 | {/g} e8 ||!
+{/g} A2{/d} A2{/e} AG{/g} Ad |{/g} e2-e4 {/A} e2 |{/gfg} f2-f e{/Gdc} d2 f2 | {/gef} e2-e4 {/g} c2 |!
+{/Gdc} d2-d c{/gBd} B2 e2 |{/gcd} c2 B2{/G} A2 B2 |{/g} ce-ec{/g} A2 B2 | {/G} A4{/GAG} A2 |]!
 
 X:33
 T:The Piper's Bonnet
