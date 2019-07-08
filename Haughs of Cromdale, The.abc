@@ -1,0 +1,21 @@
+%abc-2.1
+%%linebreak !
+%%MIDI program 109
+
+X:1
+T:Haughs of Cromdale, The
+C:Trad.
+L:1/8
+Q:1/4=90
+M:2/4
+K:AMix
+a |: {ef}e{g}A {GAG}A{g}B/<d/ | {gef}e>d {gBd}B{Gdc}d | {gef}e{g}A {GAG}A{gBd}B/>A/ | {g}G>A {g}B{Gdc}d |!
+{gef}e{g}A {GAG}A{g}B/<d/ | {gef}e>d {gBd}B{Gdc}d | {gef}e{g}d {gf}gB | {gBd}B{e}A {GAG}A :|!
+a | {ef}e2 {GdG}e>f | {gf}ga {f}ge | {Gdc}de {Gdc}d{e}B | {Gdc}d>e {Gdc}d{e}B |!
+{gef}e2 {GdG}e>f | {gf}ga {f}ge | {Gdc}d{e}B {gf}gB | {gBd}B{e}A {GAG}A |!
+a | {ef}e2 {GdG}e>f | {gf}ga {f}ge | {Gdc}de {Gdc}d{e}B | {Gdc}d>e {g}f{g}d |!
+{gef}e2 {GdG}e>f | {gf}ga {f}ge | {Gdc}d{e}B {gf}gB | {gBd}B{e}A {GAG}A |! 
+a |: {ef}e{g}A {GAG}A2 | {gef}e>A {gef}e>d | {gBd}B>A {g}G{dc}d | {gBd}B{e}A {gBd}B{Gdc}d |! 
+{gef}e{g}A {GAG}A2 | {gf}g>f {gef}e{gf}g | {Gdc}d>B {g}G{d}B | {g}A2 {GAG}A :|!
+{gBd}B/>A/ |: {g}G3/2{d}B/ {gf}ga | {f}gf/4{g}e3/4 {gf}g2 | {a}G>B {Gdc}de | {g}ed/4{e}B3/4 {Gdc}d2 |! 
+{gef}e2 {GdG}e{gf}g | a2 {GdG}ag | {a}ef/<g/ {Gdc}d>B | {g}A2 {GAG}A :| 

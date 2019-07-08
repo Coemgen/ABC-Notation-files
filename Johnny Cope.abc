@@ -1,0 +1,19 @@
+%%linebreak !
+%%MIDI program 109
+
+X:1
+T:Johnny Cope
+L:1/8
+Q:1/2=56
+M:2/4
+K:AMix
+e6 |: {/gef}e2 | {/g}A4 {/GdGe}A2{/g}B<d | {/gef}e2{/g}A2 {/gBd}B2{/e}A3/2{/d}B/ | {/g}G4 {/gGd}G2{/g}A>B | {/Gdc}d2{/e}G2 {/gBd}B2{/g}A/{/d}G3/2 |! 
+{/g}A4 {/GdGe}A2{/g}B<d | {/gef}e2{/gf}g2 {/aBd}B2{/g}A/{/d}G3/2 | {/gAd}A2{/g}B<d {/gef}e2d/{/e}B3/2 | {/gBd}B2{/e}A2 {/GAG}A2 :|!
+|: {/gef}e2 | {/g}A4 {/GdGe}A2{/g}B<d | {/gef}e>d{/gcd}c3/2{/g}B/ {/g}A4 | {/gBd}B2{/e}A3/2{/d}B/ {/g}G>A{/g}B>c | {/gde}d>c{/gBd}B>A {/g}G2{/gef}e>d |! 
+{/gcd}c2{/e}B3/2{/d}c/ {/Gdc}d2{/g}c>d | {/gef}e2{/gf}g2 {/aBd}B2{/g}A/{/d}G3/2 | {/gAd}A2{/g}B<d {/gef}e2d/{/e}B3/2 | {/gBd}B2{/e}A2 {/GAG}A2 :|!
+|: {/gef}e2 | {/gAGAG}A2{/ag}a2 {/g}a4 | {/f}g>e{/g}d>e {/gf}g4 | {/aGd}G2{/gf}g2 {/a}g2a2 | {/f}g>e{/g}d>e {/gf}g2d2 |!
+{/g}e>fg>e {/ag}a4 | {/f}g>e{/g}d>e {/gf}g2a2 | {/f}g2{/a}e<a {/ef}e2d/{/e}B3/2 | {/gBd}B2{/e}A2 {/GAG}A2 :|!
+|: {/g}B<d | {/g}e4 {/gef}e3{/GdG}e | {/gfg}f2{/g}e2 {/A}e2d/{/e}B3/2 | {/g}A2>B2 {/Gdc}d2>e2 | {/g}f<ae>f {/Gdc}d2{/e}A2 |!
+{/gBd}B2{/g}e2 {/gef}e3{/GdG}e | {/gfg}f2{/g}e2 {/A}e2d/{/e}B3/2 | {/gf}g2{/a}e<a {/ef}e2d/{/e}B3/2 | {/gBd}B2{/e}A2 {/GAG}A2 :| 
+
+
