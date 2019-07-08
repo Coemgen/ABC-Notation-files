@@ -6,16 +6,16 @@ X:1
 T:Haughs of Cromdale, The
 C:Trad.
 L:1/8
-Q:1/4=90
+Q:1/2=56
 M:2/4
 K:AMix
-a |: {ef}e{g}A {GAG}A{g}B/<d/ | {gef}e>d {gBd}B{Gdc}d | {gef}e{g}A {GAG}A{gBd}B/>A/ | {g}G>A {g}B{Gdc}d |!
-{gef}e{g}A {GAG}A{g}B/<d/ | {gef}e>d {gBd}B{Gdc}d | {gef}e{g}d {gf}gB | {gBd}B{e}A {GAG}A :|!
-a | {ef}e2 {GdG}e>f | {gf}ga {f}ge | {Gdc}de {Gdc}d{e}B | {Gdc}d>e {Gdc}d{e}B |!
-{gef}e2 {GdG}e>f | {gf}ga {f}ge | {Gdc}d{e}B {gf}gB | {gBd}B{e}A {GAG}A |!
-a | {ef}e2 {GdG}e>f | {gf}ga {f}ge | {Gdc}de {Gdc}d{e}B | {Gdc}d>e {g}f{g}d |!
-{gef}e2 {GdG}e>f | {gf}ga {f}ge | {Gdc}d{e}B {gf}gB | {gBd}B{e}A {GAG}A |! 
-a |: {ef}e{g}A {GAG}A2 | {gef}e>A {gef}e>d | {gBd}B>A {g}G{dc}d | {gBd}B{e}A {gBd}B{Gdc}d |! 
-{gef}e{g}A {GAG}A2 | {gf}g>f {gef}e{gf}g | {Gdc}d>B {g}G{d}B | {g}A2 {GAG}A :|!
-{gBd}B/>A/ |: {g}G3/2{d}B/ {gf}ga | {f}gf/4{g}e3/4 {gf}g2 | {a}G>B {Gdc}de | {g}ed/4{e}B3/4 {Gdc}d2 |! 
-{gef}e2 {GdG}e{gf}g | a2 {GdG}ag | {a}ef/<g/ {Gdc}d>B | {g}A2 {GAG}A :| 
+e6 |: a2 | {/ef}e2{/g}A2 {/GAG}A2{/g}B<d | {/gef}e2>d2 {/gBd}B2{/Gdc}d2 | {/gef}e2{/g}A2 {/GAG}A2{/gBd}B>A | {/g}G2>A2 {/g}B2{/Gdc}d2 |!
+{/gef}e2{/g}A2 {/GAG}A2{/g}B<d | {/gef}e2>d2 {/gBd}B2{/Gdc}d2 | {/gef}e2{/g}d2 {/gf}g2B2 | {/gBd}B2{/e}A2 {/GAG}A2 :|!
+a2 | {/ef}e4 {/GdG}e2>f2 | {/gf}g2a2 {/f}g2e2 | {/Gdc}d2e2 {/Gdc}d2{/e}B2 | {/Gdc}d2>e2 {/Gdc}d2{/e}B2 |!
+{/gef}e4 {/GdG}e2>f2 | {/gf}g2a2 {/f}g2e2 | {/Gdc}d2{/e}B2 {/gf}g2B2 | {/gBd}B2{/e}A2 {/GAG}A2 ||!
+a2 | {/ef}e4 {/GdG}e2>f2 | {/gf}g2a2 {/f}g2e2 | {/Gdc}d2e2 {/Gdc}d2{/e}B2 | {/Gdc}d2>e2 {/g}f2{/g}d2 |!
+{/gef}e4 {/GdG}e2>f2 | {/gf}g2a2 {/f}g2e2 | {/Gdc}d2{/e}B2 {/gf}g2B2 | {/gBd}B2{/e}A2 {/GAG}A2 ||! 
+|: a2 | {/ef}e2{/g}A2 {/GAG}A4 | {/gef}e2>A2 {/gef}e2>d2 | {/gBd}B2>A2 {/g}G2{/dc}d2 | {/gBd}B2{/e}A2 {/gBd}B2{/Gdc}d2 |! 
+{/gef}e2{/g}A2 {/GAG}A4 | {/gf}g2>f2 {/gef}e2{/gf}g2 | {/Gdc}d2>B2 {/g}G2{/d}B2 | {/g}A4 {/GAG}A2 :|!
+|: {/gBd}B>A | {/g}G3{/d}B {/gf}g2a2 | {/f}g2f/2{/g}e3/2 {/gf}g4 | {/a}G2>B2 {/Gdc}d2e2 | {/g}e2d/2{/e}B3/2 {/Gdc}d4 |! 
+{/gef}e4 {/GdG}e2{/gf}g2 | a4 {/GdG}a2g2 | {/a}e2f<g {/Gdc}d2>B2 | {/g}A4 {/GAG}A2 :| 
