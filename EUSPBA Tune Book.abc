@@ -48,13 +48,13 @@ e3-
 |: e | {/g}A2 {/GdGe}A {/g}A>B{/GdG}c | {/gef}e2 {/GdG}e {/gfg}f2 e | {/gcd}c>{/g}B{/d}A {/g}f<af |
 {/gef}e3 {/A}e>fa |!
 A2 {/GdGe}A {/g}A>B{/GdG}c | {/gef}e2 {/GdG}e {/gfg}f2 e | {/g}f<ac {/gef}e>dB |
-{/g}A3 {/GAG}A2 :|!
-|: {/g}e/4d3/4 | {/gcd}c2 {/e}A {/g}c<eB | {/gcd}c2 {/e}A {/GAG}A>{/g}ce | {/g}f2 {/AGAG}A {/g}f<af | 
+{/g}A3 [1 {/GAG}A2 : [2 {/GAG}A3/2 :|!
+|: {/g}e/2d | {/gcd}c2 {/e}A {/g}c<eB | {/gcd}c2 {/e}A {/GAG}A>{/g}ce | {/g}f2 {/AGAG}A {/g}f<af | 
 {/gef}e3 [1 {/A}e>fa : [2 {/A}e2 {/gf}g |!
 [1 {/cd}c2 {/e}A {/g}c<eB | {/gcd}c2 {/e}A {/GAG}A>{/g}ce | {/g}f>ec {/gef}e>dB |
-{/g}A3 {/GAG}A2 :|!
+{/g}A3 {/GAG}A3/2 :|!
 [2 a>c{/G}c {/g}c>fe | {/g}f>B{/G}B {/g}B>de | {/g}f<ac {/gef}e>dB |
-{/g}A3 {/GAG}A2 |]!
+{/g}A3 {/GAG}A3/2 |]!
 
 X:5
 T:Green Hills of Tyrol
@@ -75,7 +75,7 @@ L:1/8
 Q:1/2=56
 K:D
 e8
-|: {/g}e3f {/g}e2A2 | {/gcd}c2{/e}A2 {/g}e4 | {/Gdc}d2{/g}f3/2e/2 {/Gdc}d2{/e}G2 | {/gBd}B2{/e}G2 {/Gdc}d4 |!
+|: {/g}e3f {/g}e2A2 | {/gcd}c2{/e}A2 {/g}e4 | {/Gdc}d2{/g}f3/2e/2 {/Gdc}d2{/e}G2 | {/gBd}B2{/e}G2 {/dc}d4 |!
 {/g}e3f {/g}e2A2 | {/gcd}c2{/e}A2 {/g}e4 | {/g}A3B {/gcd}c2{/e}A2 | {/gBd}B4 {/G}A4 :|!
 |: {/gcd}c2{/e}A2 {/g}A3B | {/gcd}c2{/e}A2 {/gcd}c4 | {/Gdc}d3c {/g}B3c | {/Gdc}d2{/e}B2 {/Gdc}d4 |!
 {/gcd}c2{/e}A2 {/g}A3B | {/gcd}c2{/e}B2 {/gcd}c2e2 | {/g}A3B {/gcd}c2{/e}A2 | {/gBd}B4 {/G}A4 :|
