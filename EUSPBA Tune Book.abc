@@ -44,13 +44,13 @@ L:1/8
 M:6/8
 Q:3/8=56
 K:D
-e3-
+e3
 |: e | {/g}A2 {/GdGe}A {/g}A>B{/GdG}c | {/gef}e2 {/GdG}e {/gfg}f2 e | {/gcd}c>{/g}B{/d}A {/g}f<af |
 {/gef}e3 {/A}e>fa |!
 A2 {/GdGe}A {/g}A>B{/GdG}c | {/gef}e2 {/GdG}e {/gfg}f2 e | {/g}f<ac {/gef}e>dB |
-{/g}A3 [1 {/GAG}A2 : [2 {/GAG}A3/2 :|!
+{/g}A3 [1 {/GAG}A2 :| [2 {/GAG}A3/2 ||!
 |: {/g}e/2d | {/gcd}c2 {/e}A {/g}c<eB | {/gcd}c2 {/e}A {/GAG}A>{/g}ce | {/g}f2 {/AGAG}A {/g}f<af | 
-{/gef}e3 [1 {/A}e>fa : [2 {/A}e2 {/gf}g |!
+{/gef}e3 [1 {/A}e>fa | [2 {/A}e2 {/gf}g |!
 [1 {/cd}c2 {/e}A {/g}c<eB | {/gcd}c2 {/e}A {/GAG}A>{/g}ce | {/g}f>ec {/gef}e>dB |
 {/g}A3 {/GAG}A3/2 :|!
 [2 a>c{/G}c {/g}c>fe | {/g}f>B{/G}B {/g}B>de | {/g}f<ac {/gef}e>dB |
