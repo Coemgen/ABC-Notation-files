@@ -1,0 +1,18 @@
+%abc-2.1
+I:MIDI=program 109
+
+X:1
+T:Taps (bugle setting)
+M:4/4
+L:1/4
+K:C
+G3/4G/4 | !fermata!c3 G3/4c/4 | !fermata!e3 G/2c/2 | e G/2c/2 e G/2c/2 |
+!fermata!e3 c3/4e/4 | g2 e c | G3 G3/4G/4 | !fermata!c3 |]
+
+X:2
+T:Taps (bagpipe setting)
+M:4/4
+L:1/4
+K:HP
+A3/4A/4 | !fermata!d3 A3/4d/4 | !fermata!f3 A/2d/2 | f A/2d/2 f A/2d/2 |
+!fermata!f3 d3/4f/4 | a2 f d | A3 A3/4A/4 | !fermata!d3 |]
