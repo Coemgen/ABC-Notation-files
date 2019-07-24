@@ -1,0 +1,34 @@
+%abc-2.1
+I:MIDI=program 109
+
+X:2
+T:Going Home
+C:arr. Pipe Major Donald MacLeod
+L:1/8
+Q:1/4=46
+M:2/4
+I:linebreak $
+K:D
+{/g} ce{/A} e2 |{/gcd} c{/e}B{/G} A2 |${/g} B{/GdG}c{/g} ec |{/gcd} B4 | 
+{/g} ce{/A} e2 |${/gcd} c{/e}B{/G} A2 |{/g} B{/GdG}c{/gBd} B{/e}A |{/GAG} A4 |${/g} fa{/g} a2 |{/f} ge{/g} f2 |$ 
+{/g} fa ge |{/g} f4 |{/g} fa{/g} a2 |${/f} ge{/g} f2 |{/g} fa ge |{/g} f4 |${/g} ce{/A} e2 | 
+{/gcd} c{/e}B{/G} A2 |${/g} B{/GdG}c{/g} ec |{/gcd} B4 |{/g} ce{/A} e2 |${/gcd} c{/e}B{/G} A2 | 
+{/g} B{/GdG}c{/gBd} B{/e}A |{/GAG} A4 |] 
+
+
+X:2
+T:Going Home
+L:1/8
+M:6/8
+Q:3/8=56
+I:linebreak $
+K:D
+|:{/gcd} c2{/g} e{/A} e3 |{/gcd} c2{/e} B{/G} A3 |{/g} B2{/GdG} c{/g} e2 c | 
+{/g} B3{/GdG} B3{/gcd} c2{/g} e{/A} e3 |{/gcd} c2{/e} B{/G} A3 |${/g} B2{/GdG} c{/gBd} B2{/G} A | 
+{/g} A3{/GAG} A3{/g} f2 a{/g} a3 |{/f} g2 e{/gfg} f3 |{/g} f2 a{/f} g2 e |{/gfg} f3{/e} f3{/g} f2 a{/g} a3 |$ 
+{/f} g2 e{/gfg} f3 |{/g} f2 a{/f} g2 e |{/Gdc} d3{/gef} e3{/gcd} c2{/g} e{/A} e3 |{/gcd} c2{/e} B{/G} A3 | 
+{/g} B2{/GdG} c{/g} e2 c |${/g} B3{/GdG} B3{/gcd} c2{/g} e{/A} e3 |{/g} f2 a{/g} a3 | 
+{/g} B2{/GdG} c{/gBd} B2{/G} A |{/g} A3{/GAG} A3 |] 
+
+
+
