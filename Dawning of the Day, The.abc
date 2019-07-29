@@ -1,0 +1,15 @@
+%abc-2.1
+%%linebreak !
+I:MIDI=program 109
+
+X:1
+T:Dawning of the Day, The
+T:F\'ainne Geal an Lae
+L:1/8
+Q:1/4=84
+M:2/4
+K:D
+e6 .| {/g}AB | {/g}c2{/GdG}c2 {/e}c2{/g}Bc | {/g}e2{/A}e2 {/gfg}f2ec | {/g}A2{/d}cB {/g}A2{/GdG}A2 | {/e}A6 e2 |! 
+{/gfg}f3e {/g}f3a | {/cd}c3{/G}B {/G}A3{/d}c | {/gef}e3c {/ag}a3c | {/gBd}B4 {/GdG}B3e |!
+{/gfg}f3e {/g}f3a | {/cd}c3{/G}B {/G}A3{/d}c | {/gef}e3c {/ag}a3c |{/gBd}B4 {/GdG}B2{/g}AB |! 
+{/g}c2{/GdG}c2 {/e}c2{/g}B{/d}c | {/g}e2{/A}e2 {/gfg}f2ec | {/g}A2{/d}cB {/g}A2{/GdG}A2 | {/e}A6 |]
