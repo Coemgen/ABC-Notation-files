@@ -1,0 +1,15 @@
+I:MIDI=program 109
+
+X:1
+T:AIR FORCE
+L:1/8
+Q:1/4=84
+M:4/4
+I:linebreak $
+K:HP
+"^<sym>metNoteQuarterUp</sym> = 84"{g} c2 d2 e2{A} e2 | f>g a4 BAf |{g} e4{A} e4 |$ 
+{g} c>d{g} e4 dcB |{g} c2 d2 e2{A} e2 | g>a B4 agf |{g} e4{A} e4 |${g} c>d{g} e4 dcB | 
+{g} c2 d2 e2{A} e2 | f>g a4 fga | g6 c2 |$ A3{G} A B3{G} B | c3{G} c d3{G} d | cBA c>A c>A B2 | 
+A4{GAG} A2 |] 
+
+
