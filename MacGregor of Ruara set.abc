@@ -15,7 +15,7 @@ K:AMix
 %%MIDI droneon
 e |: {/g}A3/2B1/2 {/GA}e2 {/A}e2 | {/gfg}f3/2d1/2 {/g}fe {/g}A2 | {/g}A3/2B1/2 {/GdA}e2 {/A}e2 | {/gfg}f3/2e1/2 {/g}ed {/e}G2 | 
 {/dc}d3/2c1/2 {/Gdc}d2 {/g}ed |!
-{/gBd}B3/2A1/2 {/g}G2 {/gf}g2 | {/eg}e3/2d1/2 {/g}B1/2d3/2 {/g}G2 | {/g}A2 {/GBA}B2 {/G}A2 :|: {/gf}ge {/ag}a2 {/g}a2 |
+{/gBd}B3/2A1/2 {/g}G2 {/gf}g2 | {/eg}e3/2d1/2 {/g}B1/2d3/2 {/g}G2 | {/g}A2 {/GBA}B2 {/G}A2 :: {/gf}ge {/ag}a2 {/g}a2 |
 {/gf}ge {/g}e2 d{/c}d |!
 {/gf}ge a2 {/g}a2 | {/gf}ge {/gf}g2 {/a}G2 | {/dc}dc {/Gdc}d2 {/g}eg | {/dBd}B3/2A1/2 {/g}G2 {/gf}g2 |
 {/eg}e3/2d1/2 {/g}B1/2d3/2 {/g}G2 | {/g}A2 {/GBA}B2 {/g}A2 :|
@@ -31,7 +31,7 @@ K:AMix
 %%MIDI droneon
 {/g}A3/2{/GdG}B1/2 | {/g}e2 {/A}e2 {/g}ed | {/GdG}e2 {/g}A2 {/g}A3/2{/GdG}B1/2 | {/g}e2 {/gf}g2 f1/2a3/2 |
 {/GdGc}d2 {/g}G2 {/g}d1/2c3/2 | {/GdGc}d2 {/g}e3/2d1/2 {/Bd}B3/2{/G}A1/2|!
-{/g}A{/e}G {/gf}g3/2f1/2 {/g}e3/2d1/2 | {/g}Bd {/g}G2 {/e}A2 | {/GdG}B2 {/G}A2 :|: {/g}A3/2{/GdG}B1/2 |
+{/g}A{/e}G {/gf}g3/2f1/2 {/g}e3/2d1/2 | {/g}Bd {/g}G2 {/e}A2 | {/GdG}B2 {/G}A2 :: {/g}A3/2{/GdG}B1/2 |
 {/g}e2 {/ag}a2 {/f}g3/2f1/2 | {/g}ed {/Bd}B{/G}A {/g}A3/2{/GdG}B1/2 |! {/g}e2 a2 {/f}g3/2e1/2 | 
 {/gf}g2 G2 {/g}d1/2c3/2 {/GdGc}d2 {/g}e3/2d1/2 {/Bd}B{/G}A | {/g}A3/2{/e}G1/2 {/gf}g3/2f1/2 {/g}e3/2d1/2 |
 {/g}Bd {/g}G2 {/e}A2 | {/GdG}B2 {/G}A2 :|
