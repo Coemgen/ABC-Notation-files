@@ -84,3 +84,18 @@ G |: c2 e c2 G | c2 e c3 | c2 e geg | e2 c G2 G |
 c2 e c2 G | c2 e c3 | Gce geg |1 c3-c z G :|2 c3-c z g/g/ |
 |: (g3 e2) e/e/ | (e3 c2) z | Gce geg | (e3 c2) g/g/ |
 (g3 e2) e/e/ | (e3 c2) z | Gce geg |1 c3-c z g/g/ :|2 c3 c2 z |]
+
+X:10
+T:Carga a Deg\"uello
+M:2/4
+L:1/8
+S:https://tshaonline.org/handbook/online/articles/xed01
+N:Part 4 of Toques Particulares para la Caballeria
+N:Transposed up one octave to be playable by B-flat or G trumpets/bugles
+K:C
+%%MIDI transpose -9
+c'g3/4g/4 gg3/4g/4 | c'g3/4g/4 gg3/4g/4 | c'g3/4g/4 gg3/4g/4 | c'2 z c3/4c/4 |
+cc3/4c/4 cc3/4c/4 | cc3/4c/4 cc3/4c/4 | cc3/4c/4 cc3/4c/4 | !fermata!G2 (3ceg | c'g3/4g/4 gg3/4g/4 | 
+c'g3/4g/4 gg3/4g/4 | eg3/4g/4 gg3/4g/4 | c2 (3ccc | c2 (3ccc | c3/2G/ c3/2G/ | c3/2G/ c3/2G/ | 
+!fermata!G2 cc/e/ | cc/e/ cc/e/ | ce/g/ ee/g/ | ee/g/ eg/c'/ | 
+gg/c'/ gg/c'/ |[M:6/8] g3 gc'g | gg/g/g gc'g | gg/g/g gc'g | gc'g gc'g | g3 z3 | !fermata!G3 z3 |]
