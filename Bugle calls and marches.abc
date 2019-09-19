@@ -99,3 +99,11 @@ cc3/4c/4 cc3/4c/4 | cc3/4c/4 cc3/4c/4 | cc3/4c/4 cc3/4c/4 | !fermata!G2 (3ceg | 
 c'g3/4g/4 gg3/4g/4 | eg3/4g/4 gg3/4g/4 | c2 (3ccc | c2 (3ccc | c3/2G/ c3/2G/ | c3/2G/ c3/2G/ | 
 !fermata!G2 cc/e/ | cc/e/ cc/e/ | ce/g/ ee/g/ | ee/g/ eg/c'/ | 
 gg/c'/ gg/c'/ |[M:6/8] g3 gc'g | gg/g/g gc'g | gg/g/g gc'g | gc'g gc'g | g3 z3 | !fermata!G3 z3 |]
+
+X:11
+T:Bullfight Trumpet/Bugle Call
+M:3/4
+L:1/8
+K:C
+%%MIDI transpose -9
+c'2- c'g/g/ | (3geg (3geg c'2- | c'3/2c'/ g3/2g/ e3/2e/ | c4 |]
