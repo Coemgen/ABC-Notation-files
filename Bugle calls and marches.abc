@@ -108,3 +108,18 @@ Q:1/4=120
 K:C
 %%MIDI transpose -9
 c'2- c'g/g/ | (3geg (3geg c'2- | c'3/2c'/ g3/2g/ e3/2e/ | c4 |]
+
+X:12
+T:Semper Fidelis
+C:John Philip Sousa
+M:6/8
+L:1/8
+Q:3/8=80
+K:C
+V:Trumpet
+z6 | z6 | z2 z G2 G |: e6- | ece g2 e | g6 |
+e6 | c6- | cGc e2 c | G6- | G3 G2 G | e6- |
+ece g2 e | g6 | e6 | G6- | Gce g2 G | c6- |
+[1,2 c3 G2 G :|3 c2 z z2 z |: G3-G2 G/G/ | G3 G3 | cGc ece | g6 |
+G3-G2 G/G/ | G3 G3 | ege cec | G3-G2 G | G3-G2 G/G/ | G3 G3 |
+Gce geg | c6 | g3-g2 g/g/ | g3 g3 | ege g2 e | c2 z z2 z :|
