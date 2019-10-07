@@ -110,9 +110,10 @@ T:Bullfight Trumpet/Bugle Call
 M:3/4
 L:1/8
 Q:1/4=120
+N:First four bars of The Lonely Bull (
 K:C
 %%MIDI transpose -9
-c'2- c'g/g/ | (3geg (3geg c'2- | c'3/2c'/ g3/2g/ e3/2e/ | c4 |]
+z g/g/ c'2- c'g/g/ | (3geg (3geg c'2- | c'3/2c'/ g3/2g/ e3/2e/ | c6 |]
 
 X:12
 T:Semper Fidelis
