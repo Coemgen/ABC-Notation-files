@@ -261,7 +261,7 @@ K:AMix
 L:1/8
 Q:1/4=56
 M:2/4
-    e4 \
+    e4      \
 %%setbarnb 1
  |: {/g}A2  {/GdGe}A{/gf}g        | {/ef}ed {/g}e>f | {/gf}g>e {/Gdc}dg     | {/Bd}B{/e}A  {/gBd}B{/e}G   |  !
     {/g}A2  {/GdGe}A{/gf}g        | {/ef}ed {/g}e>f | {/gf}g>e {/Gdc}d{/e}B | {/gef}e{/g}A {/GAG}A \
