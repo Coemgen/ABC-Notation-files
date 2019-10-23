@@ -2,7 +2,7 @@
 % I:abc-include G:\Dropbox\pipin\Sutherland Tunes\SPB Tune Book 2018\sutherland.abh
 %%linebreak !
 %%pagewidth 10in
-% %%MIDI program 109
+%%barnumbers 1
 %%MIDI program 68
 
 X:1
@@ -213,6 +213,7 @@ X:11
 T:Shoshanna's Lullaby
 C:Ian Lyons
 M:6/4
+Q:1/4=56
 K:D
 e4 | {/g}ed {/gcd}c2-c2 {/g}c{/d}A{/GdG}B2-B2| {/g}ce{/g}f2-fa f/2{/g}e3/2 {/gfg}f2{/g}e2-|ed{/gcd}c2{/e}A2-AB {/g}ce {/Gdc}d2-|dc{/gBd}B2-B2{/g}c{/d}A{/GdG}B2-B2|!
 {/g}ed{/gcd}c2-ce {/g}c{/d}A {/Gdc}d2 {/g}c2- | cd{/gef}e2-e2 ae {/gfg} f2-f2| {/g}ed {/gcd}c2{/e}A2{/g}ce{/Gdc}d2-dB | {/g}G{/d}B{/g}A2-A2{/GAG}A2{/d}A2-A2 ||!
@@ -252,3 +253,20 @@ M:2/4
    {/gef}ea {/g}af    | {/gf}g3/2a/  {/f}ge   | {/gde}d3/2B/ {/a}gB    | {/g}A2     {/GAG}A{/d}B ||
    {/gAd}Aa {/g}af    | {/gf}g3/2a/  {/f}gd   | {/gef}ea     {/g}af    | {/gf}g2    {/fg}fd       |
    {/gef}ea {/g}af    | {/gf}g3/2a/  {/f}ge   | {/gde}d3/2B/ {/a}gB    | {/g}A2     {/GAG}A2      |]
+
+X:13
+T:Walter Douglas, MBE
+K:AMix
+L:1/8
+Q:1/4=56
+M:2/4
+    e4
+%%setbarnb 1
+ |: {/g}A2  {/GdGe}A{/gf}g        | {/ef}ed {/g}e>f | {/gf}g>e {/Gdc}dg     | {/Bd}B{/e}A  {/gBd}B{/e}G  |  !
+    {/g}A2  {/GdGe}A{/gf}g        | {/ef}ed {/g}e>f | {/gf}g>e {/Gdc}d{/e}B | {/gef}e{/g}A {/GAG}A \
+[1  e       \
+%%setbarnb 9
+:|2 {/ag}a                        | !
+ |: e>f     {/gf}ga               | {/ef}ed {/g}e>f | {/gf}g>e {/Gdc}dg     | {/Bd}B{/e}A  {/gBd}B{/e}G  |  !
+ |1 {/g}e>f {/gf}ga               | {/ef}ed {/g}e>f | {/gf}g>e {/Gdc}d{/e}B | {/gef}e{/g}A {/GAG}A      :|  !
+ |  2       {/g}A2 {/GdGe}A{/gf}g | {/ef}ed {/g}e>f | {/gf}g>e {/Gdc}d{/e}B | {/gef}e{/g}A {/GAG}A       |] !
