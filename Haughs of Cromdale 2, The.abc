@@ -1,0 +1,18 @@
+%abc-2.1
+%%MIDI program 68
+%%pagewidth 10in
+
+X:1
+T:Haughs o' Cromdale, The
+M:2/4
+L:1/8
+Q:1/4=56
+K:AMix
+[| {/gef}eA {/g}AB/d/ | {/gef}e3/2d/ {/gBd}Bd | {/gef}eA     {/g}AB/A/ | {/g}G3/2A/ {/gBd}Bd      |
+   {/gef}eA {/g}AB/d/ | {/gef}e3/2d/ {/gBd}Bd | {/gef}e3/2d/ {/a}gB    | {/g}A2     {/GAG}Aa     ||
+   [K:Bm]{/g}fB   {/g}Bc/e/ | {/g}f3/2e/   {/gcd}ce | {/g}fB       {/g}Bc    | {/g}A3/2B/ {/gcd}ce      |
+   {/g}fB   {/g}Bc/e/ | {/g}f3/2e/   {/gcd}ce | {/gfg}f3/2e/ {/ag}ac   | {/g}B2     {/gBG}BG     ||
+   [K:AMix]{/gAd}Aa {/g}af    | {/gf}g3/2a/  {/f}gd   | {/gef}ea     {/g}af    | {/gf}g2    {/fg}fd       |
+   {/gef}ea {/g}af    | {/gf}g3/2a/  {/f}ge   | {/gde}d3/2B/ {/a}gB    | {/g}A2     {/GAG}A{/d}B ||
+   {/gAd}Aa {/g}af    | {/gf}g3/2a/  {/f}gd   | {/gef}ea     {/g}af    | {/gf}g2    {/fg}fd       |
+   {/gef}ea {/g}af    | {/gf}g3/2a/  {/f}ge   | {/gde}d3/2B/ {/a}gB    | {/g}A2     {/GAG}A2      |]
