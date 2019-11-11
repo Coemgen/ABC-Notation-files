@@ -1,7 +1,6 @@
 %abc-2.1
 N:First heard on "Crunluath" played by Fin Moore (son of Hamish Moore).
-%%MIDI program 109
-%%linebreak !
+I:abc-include piping.abh
 
 X:1
 T:MacGregor's Search
@@ -63,9 +62,9 @@ T:MacGregor of Ruara
 D:Highland Bagpipes, Seumas MacNeill, 1970
 L:1/8
 M:3/4
-N:Huara appears to be a misspelling of Ruara.
+N:Ruara is misspelled as Huara in digitized recordings of this piece
 O:Scotland
-Q:"larghissimo" 1/4=40
+Q:1/4=56
 R:air
 S:transcribed from Seumas MacNeill's recording.
 V:1 clef=treble stem=down

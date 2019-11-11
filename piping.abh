@@ -1,3 +1,6 @@
 I: MIDI=program 109
+% %%MIDI program 109
 %%MIDI gracedivider 8
 %%MIDI drone 70 45 33 70 70
+%%linebreak !
+%%pagewidth 10in
