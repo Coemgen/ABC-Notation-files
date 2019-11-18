@@ -221,41 +221,6 @@ e4 | {/g}ed {/gcd}c2-c2 {/g}c{/d}A{/GdG}B2-B2| {/g}ce{/g}f2-fa f/2{/g}e3/2 {/gfg
 {/g}ed{/gcd}c2-ce {/g}c{/d}A {/Gdc}d2 {/g}c2- | cd{/gef}e2-e2 ae {/gfg} f2-f2| {/g}ed {/gcd}c2{/e}A2{/g}ce{/Gdc}d2-dB | {/g}G{/d}B{/g}A2-A2{/GAG}A2{/d}A2-A2 |]!
 
 X:12
-T:2020 Competition Set
-T:Road to Balquhidder, The
-M:4/4
-L:1/8
-Q:1/4=56
-K:AMix
-e4               \
-                            |: {/g}A3/2B/   {/GdGc}d2 {/g}B{/GdGc}d {/gef}e2   | {/g}A3/2B/   {/GdGc}d2 {/gef}e3/2d/ {/gBd}B{/e}G  |  \
-                               {/g}A3/2B/   {/GdGc}d2 {/g}eg {/aef}e2          | {/gde}d2     {/GBG}A2 {/g}A{/GdG}B {/gAd}A{/e}G  :|  !
-                               {/g}e3/2f/   {/gf}g2 {/a}f{/a}g {/ag}a2         | e3/2f/       {/gf}g2 {/ag}a3/2g/ {/afg}fd         |  \
-                               {/g}e3/2f/   {/gf}g2 {/a}f{/a}g {/ag}a2         | {/de}d2      {/GBG}A2 {/g}A{/GdG}B {/gAd}A{/e}G   |  !
-                               {/g}e3/2f/   {/gf}g2 {/a}f{/a}g {/ag}a2         | e3/2f/       {/gf}g2 {/ag}a3/2g/ {/afg}fd         |  \
-                               {/g}e3/2f/   {/gf}ga g/{/a}f3/2 {/g}e2          | {/gde}d2     {/GBG}A2 {/g}A{/GdG}B {/gAd}A{/e}G   |]
-T:Gardens of Skye, The
-                           [|  {/g}A2       {/GAG}A3/2B/ {/g}c/e3/2 {/A}e3/2c/ | {/gBd}B{/G}A {/gcd}c3/2B/ {/G}A2 {/gcd}ce         |  \
-                               {/gfg}f2     {/e}f3/2e/ {/g}f/a3/2 {/f}gf       | {/gfg}fe     {/A}e3/2f/ {/gef}e2 {/gcd}ce         |  !
-                               {/ag}a2      {/g}a3/2g/ {/afg}f2 {/ag}a3/2g/    | {/afg}fe     {/gcd}c{/e}B {/GdG}c2 {/gcd}c3/2B/   |  \
-                               {/g}A2       {/GAG}A3/2B/ {/g}c/e3/2 {/A}e3/2c/ | {/gBd}B{/G}A {/gcd}c3/2B/ {/G}A2 {/g}e3/2f/       |] !
-                           [|  {/g}c2       {/GdG}ce {/gfg}f2 {/e}fa           | {/ef}e2      {/A}e3/2f/ {/gef}ec {/g}B{/d}c       |  \
-                               {/gef}e2     {/A}e/a3/2 {/fg}f2 {/e}fa          | e3/2f/       {/gef}ec {/gBG}B2 {/gcd}ce           |  !
-                               {/ag}a2      {/g}a3/2g/ {/afg}f2 {/ag}a3/2g/    | {/afg}fe     {/gcd}c{/e}B {/GdG}c2 {/gcd}c3/2B/   |  \
-                               {/g}A2       {/GAG}A3/2B/ {/g}c/e3/2 {/A}e3/2c/ | {/gBd}B{/G}A {/gcd}c3/2B/ {/G}A4                  |]
-%%newpage
-T:Haughs o' Cromdale, The
-M:2/4
-                           [|  {/gef}eA     {/g}AB/d/                          | {/gef}e3/2d/ {/gBd}Bd                             |  {/gef}eA   {/g}AB/A/     |  {/g}G3/2A/ {/gBd}Bd | !
-{/gef}eA         {/g}AB/d/  |  {/gef}e3/2d/ {/gBd}Bd                           | {/gef}e3/2d/ {/a}gB                               |  {/g}A2     {/GAG}Aa     ||  !
-[K:Bm]{/g}fB     {/g}Bc/e/  |  {/g}f3/2e/   {/gcd}ce                           | {/g}fB       {/g}Bc                               |  {/g}A3/2B/ {/gcd}ce      |  !
-{/g}fB           {/g}Bc/e/  |  {/g}f3/2e/   {/gcd}ce                           | {/gfg}f3/2e/ {/ag}ac                              |  {/g}B2     {/gBG}BG     ||  !
-[K:AMix]{/gAd}Aa {/g}af     |  {/gf}g3/2a/  {/f}gd                             | {/gef}ea     {/g}af                               |  {/gf}g2    {/fg}fd       |  !
-{/gef}ea         {/g}af     |  {/gf}g3/2a/  {/f}ge                             | {/gde}d3/2B/ {/a}gB                               |  {/g}A2     {/GAG}A{/d}B ||  !
-{/gAd}Aa         {/g}af     |  {/gf}g3/2a/  {/f}gd                             | {/gef}ea     {/g}af                               |  {/gf}g2    {/fg}fd       |  !
-{/gef}ea         {/g}af     |  {/gf}g3/2a/  {/f}ge                             | {/gde}d3/2B/ {/a}gB                               |  {/g}A2     {/GAG}A2      |]
-
-X:13
 T:Walter Douglas, MBE
 K:AMix
 L:1/8
