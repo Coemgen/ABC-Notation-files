@@ -10,9 +10,9 @@ Q:1/4=84
 M:9/8
 K:D
 e4 \
-|: {g}e2     a            c{d}Ac       {g}c{d}Ac | {g}e2     a            c{d}Ac {GdGc}d2 {e}B | {g}e2     a            c{d}Ac    {g}c{d}Ac | {gfg}fef {g}B2  c  {GdGc}d2  {e}B    :|
-|: {g}A2     a            edc          {g}edc    | {g}A2     a            edc    {GdGc}d2 {e}B | {g}A2     a            edc       {g}edc    | {gfg}fef {g}B2  c  {GdGc}d2  {e}B    :|
-|: {g}e2     a            c{d}Ac       {g}c{d}Ac | {g}e2     a            c{d}Ac {GdGc}d2 {e}B | {g}e2     a            c{d}Ac    {g}c{d}Ac | {gfg}fef {g}B2  c  {GdGc}d2  {e}B    :|
-|: {g}A2     {d}c         {g}edc       {g}edc    | {g}A2     {d}c         {g}edc {GdGc}d2 {e}B | {g}A2     {d}c         {g}edc    {g}edc    | {gfg}fef {g}B2  c  {GdGc}d2  {e}B    :|
-|: {g}e/f/ed {g}c{d}A{d}c {g}c{d}A{d}c           | {g}e/f/ed {g}c{d}A{d}c {g}dcB               | {g}e/f/ed {g}c{d}A{d}c {g}edc              | {de}dcd  {g}B2  c  {g}dcB            :|
-|: {g}Ac{A}c ac{A}c       {g}ec{A}c              | {g}Ac{A}c ac{A}c       {g}dcB               | {g}Ac{A}c ac{A}c       {g}ec{A}c           | {gfg}fef {g}B2  c  {g}dc{G}B         :|
+|: {/g}e2     a            c{/d}Ac       {/g}c{/d}Ac | {/g}e2     a            c{/d}Ac {/GdGc}d2 {/e}B | {/g}e2     a            c{/d}Ac    {/g}c{/d}Ac | {/gfg}fef {/g}B2  c  {/GdGc}d2  {/e}B    :|
+|: {/g}A2     a            edc          {/g}edc    | {/g}A2     a            edc    {/GdGc}d2 {/e}B | {/g}A2     a            edc       {/g}edc    | {/gfg}fef {/g}B2  c  {/GdGc}d2  {/e}B    :|
+|: {/g}e2     a            c{/d}Ac       {/g}c{/d}Ac | {/g}e2     a            c{/d}Ac {/GdGc}d2 {/e}B | {/g}e2     a            c{/d}Ac    {/g}c{/d}Ac | {/gfg}fef {/g}B2  c  {/GdGc}d2  {/e}B    :|
+|: {/g}A2     {/d}c         {/g}edc       {/g}edc    | {/g}A2     {/d}c         {/g}edc {/GdGc}d2 {/e}B | {/g}A2     {/d}c         {/g}edc    {/g}edc    | {/gfg}fef {/g}B2  c  {/GdGc}d2  {/e}B    :|
+|: {/g}e/f/ed {/g}c{/d}A{/d}c {/g}c{/d}A{/d}c           | {/g}e/f/ed {/g}c{/d}A{/d}c {/g}dcB               | {/g}e/f/ed {/g}c{/d}A{/d}c {/g}edc              | {/de}dcd  {/g}B2  c  {/g}dcB            :|
+|: {/g}Ac{/A}c ac{/A}c       {/g}ec{/A}c              | {/g}Ac{/A}c ac{/A}c       {/g}dcB               | {/g}Ac{/A}c ac{/A}c       {/g}ec{/A}c           | {/gfg}fef {/g}B2  c  {/g}dc{/G}B         :|
