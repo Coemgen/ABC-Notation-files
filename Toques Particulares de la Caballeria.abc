@@ -1,0 +1,61 @@
+%abc-2.1
+%T:Toques Particulares de la Caballer\'ia
+%%MIDI program 56 % trumpet
+%%MIDI transpose 3
+%%MIDI drum d2d2 35
+
+X:1
+T:No. 1 Marcha
+M:2/4
+L:1/8
+G:E\u266d Trumpet
+Q:"Largo" 1/4=40
+K:C
+%%MIDI drumon
+V:1 name="1o parte"
+CC3/4C/4 CC | E2 C z | C/C/4C/4C/C/ C/C/ (3 E/C/E/ | G2 z2 |
+GG3/4G/4 Gc | G2 E z | C (3 E/C/E/ G (3 G/E/G/ | C/C/4C/4C/C/ C2 |]
+V:2 name="2o parte"
+G,G,3/4G,/4 G,G, | C2 E z | C (3 C/E/G/ c (3 G/E/C/ | G,2 z2 |
+G,G,3/4G,/4G,G, | C2 E z | C (3 C/E/G/ c (3 c/G/E/ | C/C/4C/4C/C/ C2 |]
+
+X:2
+T:No. 2 Trote
+M:2/4
+L:1/8
+G:E\u266d Trumpet
+Q:"Andante" 1/4=80
+K:C
+%%MIDI drumon
+G | cCCC | ECCC | ECCC | E2 z G | 
+cEEE | GEEE | GEEE | G2 z :|
+
+X:3
+T:No. 3 Galope
+M:6/8
+L:1/8
+G:E\u266d Trumpet
+Q:"Allegretto" 3/8=120
+K:C
+%%MIDI drum d3d3 35
+%%MIDI drumon
+CGE CGE | CGE CGE | CEG cc/c/c | G3 E2 z |
+CGE CGE | CGE CGE | CEG cc/c/c | G3 z2 z :|
+
+X:4
+T:No. 4 Carga o Deg\"uello
+M:2/4
+L:1/8
+G:E\u266d Trumpet
+Q:"Vivo" 1/4=80
+K:C
+%%MIDI drumon
+cG/G/4 GG/G/4 | cG/G/4 GG/G/4 | cG/G/4 GG/G/4 | c2 z C3/4C/4 |
+CC/C/4 CC/C/4 | CC/C/4 CC/C/4 | CC/C/4 CC/C/4 | G,2 (3:2 CEG |
+cG/G/4 GG/G/4 | cG/G/4 GG/G/4 | EG/G/4 GG/G/4 | C2 (3:2 CCC |
+C2 (3:2 CCC | C3/2G,/C3/2G,/ | C3/2G,/C3/2G,/ | G,2 CC/E/ |
+CC/E/ CC/E/ | CE/G/ EE/G/ | EE/G/ EG/c/ | GG/c/ GG/c/ |
+M:6/8
+Q:3/8=80
+%%MIDI drum d3d3 35
+G3 GcG | GG/G/G GcG | GG/G/G GcG | GcG GcG | G3 z3 | G,2 z2 z |]
