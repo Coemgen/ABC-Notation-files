@@ -1,17 +1,19 @@
 %%MIDI program 56
 %%MIDI transpose -9
 
-X:4
+X:1
 T:No. 4 Carga o Deg\"uello
 L:1/8
-Q:1/4=80
+Q:"Vivo" 1/4=80
 M:2/4
 I:linebreak $
-K:none
-[K:C]"^Vivo" c'g/g/4 gg/g/4 | c'g/g/4 gg/g/4 | c'g/g/4 gg/g/4 | c'2 z c/>c/ |$ cc/c/4 cc/c/4 | 
-cc/c/4 cc/c/4 | cc/c/4 cc/c/4 | G2 (3ceg |$ c'g/g/4 gg/g/4 | c'g/g/4 gg/g/4 | eg/g/4 gg/g/4 | 
-c2 (3ccc |$ c2 (3ccc | c>Gc>G | c>Gc>G | G2 cc/e/ |$ cc/e/ cc/e/ | ce/g/ ee/g/ | ee/g/ eg/c'/ | 
-gg/c'/ gg/c'/ |$[M:6/8][Q:1/4=120] g3 gc'g | gg/g/g gc'g | gg/g/g gc'g | gc'g gc'g | g3 z3 | 
-G2 z2 z |] 
+K:C
+c'g3/4g/4 gg3/4g/4 | c'g3/4g/4 gg3/4g/4 | c'g3/4g/4 gg3/4g/4 | c'2    z      c/>c/ | $
+cc3/4c/4  cc3/4c/4 | cc3/4c/4  cc3/4c/4 | cc3/4c/4  cc3/4c/4 | G2     (3ceg        | $
+c'g3/4g/4 gg3/4g/4 | c'g3/4g/4 gg3/4g/4 | eg3/4g/4  gg3/4g/4 | c2     (3ccc        | $
+c2        (3ccc    | c>Gc>G             | c>Gc>G             | G2     cc/e/        | $
+cc/e/     cc/e/    | ce/g/     ee/g/    | ee/g/     eg/c'/   | gg/c'/ gg/c'/       | $
+[M:6/8][Q:1/4=120] 
+g3 gc'g | gg/g/g gc'g | gg/g/g gc'g | gc'g gc'g | g3 z2 z | G2 z2 z |] 
 
 

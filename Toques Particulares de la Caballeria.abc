@@ -50,12 +50,12 @@ G:E\u266d Trumpet
 Q:"Vivo" 1/4=80
 K:C
 %%MIDI drumon
-cG/G/4 GG/G/4 | cG/G/4 GG/G/4 | cG/G/4 GG/G/4 | c2 z C3/4C/4 |
-CC/C/4 CC/C/4 | CC/C/4 CC/C/4 | CC/C/4 CC/C/4 | G,2 (3:2 CEG |
-cG/G/4 GG/G/4 | cG/G/4 GG/G/4 | EG/G/4 GG/G/4 | C2 (3:2 CCC |
-C2 (3:2 CCC | C3/2G,/C3/2G,/ | C3/2G,/C3/2G,/ | G,2 CC/E/ |
-CC/E/ CC/E/ | CE/G/ EE/G/ | EE/G/ EG/c/ | GG/c/ GG/c/ |
+cG3/4G/4 GG3/4G/4     | cG3/4G/4       GG3/4G/4 | cG3/4G/4       GG3/4G/4 | c2    z     C3/4C/4 |
+CC3/4C/4 CC3/4C/4     | CC3/4C/4       CC3/4C/4 | CC3/4C/4       CC3/4C/4 | G,2   (3:2  CEG     |
+cG3/4G/4 GG3/4G/4     | cG3/4G/4       GG3/4G/4 | EG3/4G/4       GG3/4G/4 | C2    (3:2  CCC     |
+C2       (3:2     CCC | C3/2G,/C3/2G,/          | C3/2G,/C3/2G,/          | G,2   CC/E/         |
+CC/E/    CC/E/        | CE/G/          EE/G/    | EE/G/          EG/c/    | GG/c/ GG/c/         |
 M:6/8
 Q:3/8=80
 %%MIDI drum d3d3 35
-G3 GcG | GG/G/G GcG | GG/G/G GcG | GcG GcG | G3 z3 | G,2 z2 z |]
+G3 GcG | GG/G/G GcG | GG/G/G GcG | GcG GcG | G3 z2 z | G,2 z2 z |]
