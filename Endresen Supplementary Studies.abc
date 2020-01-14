@@ -1,0 +1,33 @@
+%abc-2.1
+I:MIDI=program 56
+I:MIDI=transpose -2
+
+X:1
+T:Endresen 13
+M:2/4
+L:1/8
+Q:1/4=60
+K:D
+F/G/ | AA/A/ FD | AA/A/ Bc | dd/d/ cB | A2 z F/G/ |
+AA/A/ FD | BB/B/ GE | AA/A/ Bc | d2 z D/E/ | FF/F/ FB |
+AA/A/ Bc | d2 z D | [K:G] G2 A2 | BG cB | A2 G2 | FE DD | G2 A2 |
+BG cA | d z DD | G2 z B | B2 BB | B2 AG | G2 FE | ^D2 (cB) |
+B2 BB | c2 BA | G2 F2 | E2 z D | G2 A2 | BG cB | A2 G2 |
+FE DD | G2 A2 | BG cA | d z DD | G2 z F/G/ | [K:D] AA/A/ FD | 
+AA/A/ Bc | dd/d/ cB | A2 z F/G/ | AA/A/ FD | BB/B/ GE | 
+AA/A/ Bc | d2 z D/E/ | FF/F/ FB | AG FD/E/ | FF/F/ Fd | cB AF/G/ |
+AA/A/ FD | BB/B/ GE | AA/A/ Bc | dc/B/ AF/G/ | AA/A/ Bc |
+dc/B/ Ac | dc/B/ Ac | dc/B/ Ac | d2 z2 | f2 z2 | D4- | D2 z2 |]
+
+X:2
+T:Endresen 14
+M:4/4
+L:1/8
+Q:1/4=60
+K:F
+C2 | F2 FF F2 C2 | A2 AA A2 F2 | z2 B2 G2 E2 | z2 c2 A2 C2 | F2 z F F2 C2 |
+A2 z A A2 F2 | z2 B2 G2 E2 | F2 z A F2 C2 | G2 (3:2:3GGG A2 F2 | z GGG FEDC |
+G2 G/2G/2G/2G/2 A2 F2 | z/2 c/2c/2c/2 cc cBAG | F2 z/2 F/2F/2F/2 F2 C2 | A2 z/2 A/2A/2A/2 A2 F2 |
+z2 B2 z2 E2 | F2 z c z A z F | D2 dd (3:2:3ccc B/2B/2B/2B/2 | A2 BB (3:2:3AAA G/2G/2G/2G/2 |
+F2 z/ G/G/G/ A2 z/ F/F/F/ | D2 dd (3:2:3ccc B/B/B/B/ | AA z/ B/B/B/ AA G/G/G/G/ |
+F2 z2 z A cA | F2 z2 z A cA | z F z C z A cA | z F z C z A cA | F2 z2 A2 z2 | F6 z2 |]
