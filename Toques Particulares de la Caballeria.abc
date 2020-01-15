@@ -3,12 +3,12 @@
 %%MIDI program 56 % trumpet
 %%MIDI transpose 3
 %%MIDI drum d2d2 35
+G:E\u266d Trumpet
 
 X:1
 T:No. 1 Marcha
 M:2/4
 L:1/16
-G:E\u266d Trumpet
 Q:"Largo" 1/4=40
 K:C
 %%MIDI drumon
@@ -23,7 +23,6 @@ X:2
 T:No. 2 Trote
 M:2/4
 L:1/8
-G:E\u266d Trumpet
 Q:"Andante" 1/4=80
 K:C
 %%MIDI drumon
@@ -34,7 +33,6 @@ X:3
 T:No. 3 Galope
 M:6/8
 L:1/8
-G:E\u266d Trumpet
 Q:"Allegretto" 3/8=120
 K:C
 %%MIDI drum d3d3 35
@@ -46,7 +44,6 @@ X:4
 T:No. 4 Carga o Deg\"uello
 M:2/4
 L:1/8
-G:E\u266d Trumpet
 Q:"Vivo" 1/4=80
 K:C
 %%MIDI drumon
