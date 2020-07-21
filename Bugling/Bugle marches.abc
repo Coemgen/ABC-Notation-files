@@ -71,3 +71,35 @@ G |: c2 c e2 G | c3-c z c | ceg e2 c | G3-G z G | ccc c2 G |
 ccc c2 g | e2 c G2 e |1 c3-c z G :|2 c3-c z c/e/ |: g2 e g2 e | c3-c z c |
 e2 c e2 c | G3-G z G | ccc c2 G | ccc c2 g | e2 c G2 G |1 c3-c z c/e/ :|2 c3-c z |]
 
+X:9
+T:64. Quickstep No. 1
+B:Machine-gun drill regulations : provisional, 1917
+F:https://archive.org/details/machinegundrillr00unit/page/258/mode/2up
+T:Camp Keegan
+B:Bugle signals, calls & marches; for Army, Navy, Marine Corps, Revenue Cutter Service & National Guard
+F:https://archive.org/details/buglesignalscall00cant/page/19/mode/1up
+M:2/4
+L:1/4
+Q:"Moderato"
+K:C
+V:1
+I:MIDI=program 56
+I:MIDI=transpose -5
+G |: c/c//c// c/c/     |  e/c/g/e/         |  c        c3/4c// | c        c3/4e// | g        e3/4c// |
+     g        e3/4c//  |  G/G//G// G/G/    |  G/G/G/G/         | c/c//c// c/c/    | e/c/g/e/         |
+     c        c3/4c//  |  c        G       |  c/c/e/c/         | g        G       | c        c3/4c// | \
+  [1 c                :|2 c2               |]
+V:2
+I:MIDI=program 56
+I:MIDI=transpose -5
+G |: G/G//G// G/G/     |  G/G/G/G/         |  G        g3/4g// | e3/4e//  c3/4c// | G/G//G// G/G/    |
+     G/G/G/G/          |  G3/2     c//e//  |  g/g//g// g/g/    | e        c3/4c// | c        g       |
+     e        c3/4c//  |  c        G3/4G// |  c/G/c/e/         | g        G       | c        c3/4c// | \
+  [1 c                :|2 c2               |]
+V:3
+I:MIDI=program 56
+I:MIDI=transpose -5
+G |: c2                |  G        c       |  e2               | c        e       | g/g/e/g/         |
+     e/g/e/c/          |  G/g//g// g/g/    |  g/g/g/g/         | c2               | G        c       |
+     e2                |  c        e       |  g        e/c/    | G/G//G// G/G/    | c        c3/4c// | \
+  [1 c                :|2 c2               |]
