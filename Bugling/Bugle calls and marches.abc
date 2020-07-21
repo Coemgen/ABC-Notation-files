@@ -1,7 +1,8 @@
 %abc-2.1
 %%MIDI program 56
+r: G is 5 semitones below C
 %%MIDI transpose -5
-Q:1/4=56
+Q:1/4=120
 
 X:1
 T:Taps
@@ -93,6 +94,7 @@ S:https://tshaonline.org/handbook/online/articles/xed01
 N:Part 4 of Toques Particulares para la Caballeria
 N:Transposed up one octave to be playable by B-flat or G trumpets/bugles
 K:C
+r: Eb is nine semitones below C
 %%MIDI transpose -9
 c'g3/4g/4 gg3/4g/4 | c'g3/4g/4 gg3/4g/4 | c'g3/4g/4 gg3/4g/4 | c'2 z c3/4c/4 |
 cc3/4c/4 cc3/4c/4 | cc3/4c/4 cc3/4c/4 | cc3/4c/4 cc3/4c/4 | !fermata!G2 (3ceg | c'g3/4g/4 gg3/4g/4 | 
@@ -100,10 +102,10 @@ c'g3/4g/4 gg3/4g/4 | eg3/4g/4 gg3/4g/4 | c2 (3ccc | c2 (3ccc | c3/2G/ c3/2G/ | c
 !fermata!G2 cc/e/ | cc/e/ cc/e/ | ce/g/ ee/g/ | ee/g/ eg/c'/ | 
 gg/c'/ gg/c'/ |[M:6/8] g3 gc'g | gg/g/g gc'g | gg/g/g gc'g | gc'g gc'g | g3 z3 | !fermata!G3 z3 |]
 
-%%     partial: 2  3  4  5  6   7   8   9   10  11
-%%     written: C  G  c  e  g   b'- c'  d'  e'  f'+
-%% played (Bb): B- F  b- d  f   a'- b'- c'  d'  e'
-%% played (Eb): E- B- e- g  b'- d'- e'- f'  g'  a''
+%%     partial: 2  3  4  5  6  7  8   9  10 11
+%%     written: C  G  c  e  g  b- c'  d' e' f'+
+%% played (Bb): B- F  b- d  f  a- b'- c' d' e'
+%% played (Eb): E- B- e- g  b- d- e'- f' g' a''
 
 X:11
 T:Bullfight Trumpet/Bugle Call
@@ -112,6 +114,7 @@ L:1/8
 Q:1/4=120
 N:First four bars of The Lonely Bull (
 K:C
+r: Eb is nine semitones below C
 %%MIDI transpose -9
 z g/g/ c'2- c'g/g/ | (3geg (3geg c'2- | c'3/2c'/ g3/2g/ e3/2e/ | c6 |]
 
